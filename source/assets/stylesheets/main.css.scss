@@ -1,5 +1,15 @@
 @import "bourbon";
 
-@import "reset/normalize";
+@import "settings/variables";
 
-@import "base/base";
+@import "generic/normalize";
+
+@import "elements/buttons";
+@import "elements/forms";
+@import "elements/layout";
+@import "elements/lists";
+@import "elements/media";
+@import "elements/tables";
+@import "elements/typography";
+
+@import "objects/section";

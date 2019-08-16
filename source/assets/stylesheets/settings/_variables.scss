@@ -1,0 +1,66 @@
+// Typography
+$base-font-family: $font-stack-system;
+$heading-font-family: $base-font-family;
+
+// Letter Spacing
+$base-letter-spacing: 0;
+$tight-letter-spacing: -0.02;
+$wide-letter-spacing: 0.2rem;
+
+// Line height
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-border-radius: 0.2rem;
+$large-border-radius: $base-border-radius * 2;
+
+$base-spacing: 1.5rem;
+$large-spacing: $base-spacing * 2;
+$xlarge-spacing: $large-spacing * 2;
+$xxlarge-spacing: $xlarge-spacing * 2;
+$small-spacing: $base-spacing / 2;
+$xsmall-spacing: $small-spacing / 2;
+
+$article-width: 32rem;
+$content-width: 48rem;
+
+$base-z-index: 0;
+
+// Colors
+$black: #000000;
+$dark-gray: #222222;
+$medium-gray: #999999;
+$light-gray: #dddddd;
+$whitesmoke: #f5f5f5;
+$white: #ffffff;
+
+$blue: #1565c0;
+
+// Background Colors
+$viewport-background-color: $whitesmoke;
+
+// Domain Colors
+$base-font-color: $black;
+$dimmed-font-color: $dark-gray;
+$action-color: lighten($base-font-color, 5%);
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+$background-border: 1px solid $viewport-background-color;
+
+// Focus
+$focus-outline-color: transparentize($action-color, 0.4);
+$focus-outline-width: 3px;
+$focus-outline: $focus-outline-width solid $focus-outline-color;
+$focus-outline-offset: 2px;
+
+// Animations
+$base-duration: 150ms;
+$base-timing: ease;
+
+// Breakpoints
+$mobile-breakpoint: 550px;
+$desktop-breakpoint: 720px;
+$large-screen-breakpoint: 960px;
