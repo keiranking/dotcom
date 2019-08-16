@@ -1,10 +1,12 @@
 // Typography
-$base-font-family: $font-stack-system;
-$heading-font-family: $base-font-family;
+$sans: "Lato";
+$serif: "Optima";
+$alternate-font-family: $sans, $font-stack-system;
+$base-font-family: $serif, $font-stack-system;
 
 // Letter Spacing
 $base-letter-spacing: 0;
-$tight-letter-spacing: -0.02;
+$tight-letter-spacing: -0.02rem;
 $wide-letter-spacing: 0.2rem;
 
 // Line height
@@ -26,6 +28,18 @@ $article-width: 32rem;
 $content-width: 48rem;
 
 $base-z-index: 0;
+
+// Font Sizes
+$small-font-size: 0.85rem;
+$base-font-size: 1rem;
+$medium-font-size: 1.5rem;
+$large-font-size: 2rem;
+$xlarge-font-size: 3rem;
+$xxlarge-font-size: 4rem;
+
+// Font Weights
+$base-font-weight: normal;
+$heavy-font-weight: bold;
 
 // Colors
 $black: #000000;
