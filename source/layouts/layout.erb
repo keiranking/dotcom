@@ -7,10 +7,17 @@
     <title>thoughtbot Middleman Template</title>
     <%= stylesheet_link_tag "main" %>
   </head>
-  <body>
-    <main role="main">
+  <body class="site">
+    <header class="site__header">
+      <%= partial "partials/header" %>
+    </header>
+    <main class="site__main" role="main">
       <%= yield %>
     </main>
+
+    <footer class="site__footer">
+      <%= partial "partials/footer" %>
+    </footer>
     <%= partial "partials/analytics" %>
   </body>
 </html>
