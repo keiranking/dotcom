@@ -1,8 +1,9 @@
-# Project Name
+# dotcom
 
-This app is built with [Middleman].
+The [Middleman] app behind [keiranking.com].
 
 [Middleman]: https://middlemanapp.com/
+[keiranking.com]: https://keiranking.com/
 
 ## Setup
 
