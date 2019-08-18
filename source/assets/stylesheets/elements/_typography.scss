@@ -15,18 +15,18 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $alternate-font-family;
   font-size: modular-scale(1);
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
 }
 
 p {
+  font-weight: $light-font-weight;
   margin: 0 0 $small-spacing;
 }
 
 a {
-  color: $action-color;
+  color: currentColor;
   text-decoration-skip: ink;
   transition: color $base-duration $base-timing;
 
@@ -38,6 +38,10 @@ a {
     outline: $focus-outline;
     outline-offset: $focus-outline-offset;
   }
+}
+
+code {
+  font-family: $monospace-font-family;
 }
 
 hr {

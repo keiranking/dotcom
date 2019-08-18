@@ -7,18 +7,24 @@
     <title><%= data.site.name %></title>
     <%= stylesheet_link_tag "main" %>
   </head>
+
   <body class="site">
     <header class="site__header">
       <%= partial "partials/header" %>
     </header>
+
     <main class="site__main" role="main">
       <section class="section section--padded">
         <article class="section__content section__content--slim">
           <header>
             <p class="flytitle">
-              Code
-              <span class="flytitle__separator">•</span>
-              <%= current_page.data.dept %> Dept.
+              <span class="flytitle__item">
+                Code
+              </span>
+
+              <span class="flytitle__item flytitle__dept">
+                <%= current_page.data.dept %>
+              </span>
             </p>
 
             <h1>
@@ -34,6 +40,7 @@
     <footer class="site__footer">
       <%= partial "partials/footer" %>
     </footer>
+
     <%= partial "partials/analytics" %>
   </body>
 </html>

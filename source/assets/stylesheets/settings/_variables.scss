@@ -1,8 +1,9 @@
 // Typography
 $sans: "Lato";
 $serif: "Optima";
-$alternate-font-family: $sans, $font-stack-system;
-$base-font-family: $serif, $font-stack-system;
+$alternate-font-family: $serif, $font-stack-system;
+$base-font-family: $sans, $font-stack-system;
+$monospace-font-family: $font-stack-consolas;
 
 // Letter Spacing
 $base-letter-spacing: 0;
@@ -30,7 +31,7 @@ $content-width: 48rem;
 $base-z-index: 0;
 
 // Font Sizes
-$xsmall-font-size: 0.75rem;
+$xsmall-font-size: 0.7rem;
 $small-font-size: 0.85rem;
 $base-font-size: 1rem;
 $medium-font-size: 1.5rem;
@@ -39,6 +40,7 @@ $xlarge-font-size: 3rem;
 $xxlarge-font-size: 4rem;
 
 // Font Weights
+$light-font-weight: 300;
 $base-font-weight: normal;
 $heavy-font-weight: bold;
 

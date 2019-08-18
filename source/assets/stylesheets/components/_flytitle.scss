@@ -1,10 +1,23 @@
 .flytitle {
-  font-family: $alternate-font-family;
+  color: $dimmed-font-color;
+  display: flex;
   font-size: $xsmall-font-size;
-  font-weight: $heavy-font-weight;
+  font-weight: $base-font-weight;
+  letter-spacing: 0.05rem;
+  margin: $xsmall-spacing 0;
   text-transform: uppercase;
 }
 
-.flytitle__separator {
-  margin: 0 $xsmall-spacing;
+.flytitle__dept::after {
+  content: " Dept.";
+  white-space: pre;
+}
+
+.flytitle__item {
+  display: flex;
+
+  & + &::before {
+    content: "·";
+    margin: 0 $xsmall-spacing;
+  }
 }

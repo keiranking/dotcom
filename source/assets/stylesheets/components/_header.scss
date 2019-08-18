@@ -1,6 +1,5 @@
 .header {
   display: flex;
-  font-family: $alternate-font-family;
   font-size: $small-font-size;
   justify-content: space-between;
   padding: $xsmall-spacing 0;
@@ -9,10 +8,6 @@
 
 .header__logo {
   font-weight: $heavy-font-weight;
-
-  a {
-    text-decoration: none;
-  }
 }
 
 .header__nav {
