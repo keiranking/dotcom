@@ -18,6 +18,8 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
+page "/content/code/*", :layout => "code"
+
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false

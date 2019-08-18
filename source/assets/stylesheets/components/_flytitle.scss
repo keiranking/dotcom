@@ -1,0 +1,10 @@
+.flytitle {
+  font-family: $alternate-font-family;
+  font-size: $xsmall-font-size;
+  font-weight: $heavy-font-weight;
+  text-transform: uppercase;
+}
+
+.flytitle__separator {
+  margin: 0 $xsmall-spacing;
+}
