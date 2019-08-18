@@ -1,16 +1,13 @@
+
 .section {
-  align-items: center;
   background-repeat: no-repeat;
   background-size: cover;
-  display: flex;
-  flex-direction: column;
-  margin: 0;
-  padding-left: $base-spacing;
-  padding-right: $base-spacing;
+  display: grid;
+  grid-template-areas: "left-gutter content right-gutter";
+  grid-template-columns: $base-spacing auto $base-spacing;
 
   @media(min-width: $mobile-breakpoint) {
-    padding-left: $large-spacing + $base-spacing;
-    padding-right: $large-spacing + $base-spacing;
+    grid-template-columns: minmax($base-spacing * 3, 1fr) minmax(auto, $content-width) minmax($base-spacing * 3, 1fr);
   }
 }
 
@@ -30,20 +27,9 @@
 }
 
 .section__content {
-  width: 100%;
-
-  @media(min-width: $mobile-breakpoint) {
-    max-width: $content-width;
-  }
+  grid-area: content;
 }
 
 .section__content--slim {
-  @media(min-width: $mobile-breakpoint) {
-    max-width: $article-width;
-  }
-}
-
-.section__content--centered {
-  text-align: center;
-  width: auto;
+  max-width: $article-width;
 }
