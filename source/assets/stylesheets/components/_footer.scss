@@ -1,0 +1,17 @@
+.footer {
+  color: $dimmed-font-color;
+  display: flex;
+  font-family: $alternate-font-family;
+  font-size: $xsmall-font-size;
+  justify-content: space-between;
+  padding: $xsmall-spacing 0;
+
+}
+
+.footer__nav {
+  display: flex;
+
+  a {
+    color: $dimmed-font-color;
+  }
+}

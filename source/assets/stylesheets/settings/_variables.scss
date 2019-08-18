@@ -30,6 +30,7 @@ $content-width: 48rem;
 $base-z-index: 0;
 
 // Font Sizes
+$xsmall-font-size: 0.75rem;
 $small-font-size: 0.85rem;
 $base-font-size: 1rem;
 $medium-font-size: 1.5rem;
@@ -56,7 +57,7 @@ $viewport-background-color: $whitesmoke;
 
 // Domain Colors
 $base-font-color: $black;
-$dimmed-font-color: $dark-gray;
+$dimmed-font-color: $medium-gray;
 $action-color: lighten($base-font-color, 5%);
 
 // Border
