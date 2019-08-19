@@ -1,5 +1,5 @@
 <section class="section section--padded">
-  <div class="section__content">
+  <div class="section__content section__content--slim">
     <p>
       Product designer at <%= link_to "thoughtbot", "https://www.thoughtbot.com" %> in NYC, helping clients like
       <%= link_to "Dome", "https://www.domecompass.com" %>,
@@ -7,5 +7,23 @@
       <%= link_to "Oscar Health", "https://www.hioscar.com" %>
       find markets and build useful, intuitive tools.
     </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__content">
+    <ul>
+      <% content_resources("content/code").each do |page| %>
+        <li>
+          <h3>
+            <%= link_to page.data.title, page.url, class: "u-link--incognito" %>
+          </h3>
+
+          <p>
+            <%= page.data.summary if defined? page.data.summary %>
+          </p>
+        </li>
+      <% end %>
+    </ul>
   </div>
 </section>

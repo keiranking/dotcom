@@ -3,6 +3,7 @@ date: ""
 dept: "Letter Boxes"
 project_url: "https://keiranking.com/phil"
 repo_url: "https://www.github.com/keiranking/Phil"
+summary: '"I have been looking for a tool like Phil for years: a powerful, versatile crossword program with a well-designed, easy-to-use interface." — Sam Ezersky, assistant crossword editor, NYT'
 title: "Phil, a crossword maker"
 ---
 

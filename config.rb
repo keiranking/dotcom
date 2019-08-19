@@ -31,3 +31,9 @@ configure :production do
   activate :minify_html
   activate :minify_javascript
 end
+
+helpers do
+  def content_resources(category_path)
+    sitemap.resources.select { |resource| resource.path.start_with?(category_path) }
+  end
+end

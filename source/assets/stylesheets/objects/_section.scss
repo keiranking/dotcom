@@ -3,7 +3,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
-  grid-template-areas: "left-gutter content right-gutter";
+  grid-template-areas: "... content ...";
   grid-template-columns: $base-spacing auto $base-spacing;
 
   @media(min-width: $mobile-breakpoint) {
@@ -27,7 +27,7 @@
 }
 
 .section__content {
-  grid-area: content;
+  grid-column: 2;
 }
 
 .section__content--slim {
