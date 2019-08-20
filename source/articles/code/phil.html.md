@@ -1,10 +1,10 @@
 ---
-date: ""
-dept: "Letter Boxes"
-project_url: "https://keiranking.com/phil"
-repo_url: "https://www.github.com/keiranking/Phil"
-summary: '"I have been looking for a tool like Phil for years: a powerful, versatile crossword program with a well-designed, easy-to-use interface." — Sam Ezersky, assistant crossword editor, NYT'
-title: "Phil, a crossword maker"
+title: Phil, a crossword maker
+date: 2019-08-01
+dept: Letter Boxes
+project_url: https://keiranking.com/phil
+repo_url: https://www.github.com/keiranking/Phil
+summary: "I have been looking for a tool like Phil for years: a powerful, versatile crossword program with a well-designed, easy-to-use interface." — Sam Ezersky, assistant crossword editor, NYT
 ---
 
 I make crosswords in my spare time. The industry standard software is [Crossword Compiler], which costs up to $170 and is Windows-only. I preferred CMFC, an inexpensive but feature-lite iPad app. While at [Recurse Center], [Raph Levien] and I built [Phil], a free, fast puzzle-maker.

@@ -1,5 +1,13 @@
 activate :aria_current
 activate :autoprefixer
+activate :blog do |blog|
+  blog.prefix = "articles"
+  # blog.sources = "{category}/{title}.html"
+  # blog.permalink = "{category}/{title}.html"
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.layout = "article"
+end
 activate :inline_svg
 activate :livereload
 
