@@ -1,9 +1,8 @@
 activate :aria_current
 activate :autoprefixer
 activate :blog do |blog|
-  blog.prefix = "articles"
-  # blog.sources = "{category}/{title}.html"
-  # blog.permalink = "{category}/{title}.html"
+  blog.sources = "articles/{category}/{title}.html"
+  blog.permalink = "{category}/{title}.html"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.layout = "article"
@@ -25,8 +24,6 @@ set :markdown,
   tables: true,
   with_toc_data: true
 set :markdown_engine, :redcarpet
-
-page "/content/code/*", :layout => "code"
 
 page "/*.json", layout: false
 page "/*.txt", layout: false
