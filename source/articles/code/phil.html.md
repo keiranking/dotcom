@@ -10,7 +10,7 @@ I make crosswords in my spare time. The industry standard software is [Crossword
 
 Phil imports and exports `.puz` files, uses a high-quality custom dictionary, and can generate a printable NYT submission in seconds.
 
-![alt text](../../assets/images/phil1.png "Phil's user interface")
+![alt text](phil/test.png "Test caption")
 
 [Crossword Compiler]: http://crosswordcompiler.com/
 [Phil]: https://keiranking.com/phil
