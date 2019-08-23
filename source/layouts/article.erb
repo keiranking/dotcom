@@ -17,16 +17,16 @@
       <section class="section section--padded">
         <article class="section__content section__content--slim">
           <header>
-            <% if current_page.data.dept %>
+            <% if current_article.data.dept %>
               <p class="flytitle">
                 <span class="flytitle__item flytitle__dept">
-                  <%= current_page.data.dept %>
+                  <%= current_article.data.dept %>
                 </span>
               </p>
             <% end %>
 
             <h1>
-              <%= current_page.data.title %>
+              <%= current_article.data.title %>
             </h1>
           </header>
 

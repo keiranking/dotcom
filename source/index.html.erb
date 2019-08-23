@@ -13,14 +13,14 @@
 <section class="section">
   <div class="section__content">
     <ul>
-      <% content_resources("content/code").each do |page| %>
+      <% blog.articles.each do |article| %>
         <li>
           <h3>
-            <%= link_to page.data.title, page.url, class: "u-link--incognito" %>
+            <%= link_to article.title, article, class: "u-link--incognito" %>
           </h3>
 
           <p>
-            <%= page.data.summary if defined? page.data.summary %>
+            <%= article.summary if defined? article.summary %>
           </p>
         </li>
       <% end %>
