@@ -1,10 +1,10 @@
 .flytitle {
-  color: $dimmed-font-color;
+  color: var(--font-color--dimmed);
   display: flex;
-  font-size: $xsmall-font-size;
-  font-weight: $base-font-weight;
+  font-size: var(--font-size--xsmall);
+  font-weight: var(--font-weight--normal);
   letter-spacing: 0.05rem;
-  margin: $xsmall-spacing 0;
+  margin: var(--spacing--xsmall) 0;
   text-transform: uppercase;
 }
 
@@ -18,6 +18,6 @@
 
   & + &::before {
     content: "·";
-    margin: 0 $xsmall-spacing;
+    margin: 0 var(--spacing--xsmall);
   }
 }

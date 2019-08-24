@@ -1,28 +1,29 @@
+$_section-gutter-width: 4.5rem;
 
 .section {
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
   grid-template-areas: "... content ...";
-  grid-template-columns: $base-spacing auto $base-spacing;
+  grid-template-columns: var(--spacing) auto var(--spacing);
 
-  @media(min-width: $mobile-breakpoint) {
-    grid-template-columns: minmax($base-spacing * 3, 1fr) minmax(auto, $content-width) minmax($base-spacing * 3, 1fr);
+  @media(min-width: $breakpoint--mobile) {
+    grid-template-columns: minmax($_section-gutter-width, 1fr) minmax(auto, var(--width--content)) minmax($_section-gutter-width, 1fr);
   }
 }
 
 .section--bordered {
-  border-bottom: $base-border;
-  border-top: $base-border;
+  border-bottom: var(--border);
+  border-top: var(--border);
 }
 
 .section--padded {
-  padding-bottom: $base-spacing;
-  padding-top: $base-spacing;
+  padding-bottom: var(--spacing);
+  padding-top: var(--spacing);
 
-  @media(min-width: $mobile-breakpoint) {
-    padding-bottom: $large-spacing;
-    padding-top: $large-spacing;
+  @media(min-width: $breakpoint--mobile) {
+    padding-bottom: var(--spacing--large);
+    padding-top: var(--spacing--large);
   }
 }
 
@@ -31,5 +32,5 @@
 }
 
 .section__content--slim {
-  max-width: $article-width;
+  max-width: var(--width--article);
 }

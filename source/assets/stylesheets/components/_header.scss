@@ -1,13 +1,13 @@
 .header {
   display: flex;
-  font-size: $small-font-size;
+  font-size: var(--font-size--small);
   justify-content: space-between;
-  padding: $xsmall-spacing 0;
+  padding: var(--spacing-xsmall) 0;
 
 }
 
 .header__logo {
-  font-weight: $heavy-font-weight;
+  font-weight: var(--font-weight--bold);
 }
 
 .header__nav {

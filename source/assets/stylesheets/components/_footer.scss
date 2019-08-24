@@ -1,9 +1,9 @@
 .footer {
-  color: $dimmed-font-color;
+  color: var(--font-color--dimmed);
   display: flex;
-  font-size: $xsmall-font-size;
+  font-size: var(--font-size--xsmall);
   justify-content: space-between;
-  padding: $xsmall-spacing 0;
+  padding: var(--spacing-xsmall) 0;
 
 }
 
