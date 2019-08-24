@@ -1,12 +1,13 @@
 :root {
   // Colors
-  --background-color: #f5f5f5;
-  --font-color: #000000;
-  --font-color--dimmed: transparentize(var(--font-color), 0.4);
-  --border-color: lighten(var(--background-color), 15%);
-  --action-color: lighten(var(--font-color), 5%);
-  --action-color--hover: darken(var(--action-color), 20%);
-  --focus-color: transparentize(var(--action-color), 0.4);
+  --background-color: hsl(0, 0%, 96%);
+  --font-color: hsl(0, 0%, 0%);
+  --font-color--dimmed: hsla(0, 0%, 60%);
+
+  --border-color: var(--font-color--dimmed);
+  --action-color: var(--font-color);
+  --action-color--hover: var(--font-color);
+  --focus-color: var(--font-color--dimmed);
 
   // Typography
   --font-family: "Lato", system-ui, sans-serif;
