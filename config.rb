@@ -7,6 +7,7 @@ activate :blog do |blog|
   blog.generate_month_pages = false
   blog.layout = "article"
 end
+activate :directory_indexes
 activate :inline_svg
 activate :livereload
 
