@@ -21,7 +21,9 @@ date: 2019-08-28 06:00 UTC
 
     You will first come to the 41st St connection on your right. Keep walking. You will then come to a set of exit turnstiles leading to 40th St. Immediately past the turnstiles on your right is the 40th St underground connection to Port Authority.
 
-1. Enter Port Authority and take the short escalator up to the street-level floor.
+1. Enter Port Authority and take the short escalator up to the ground floor. You will be at \#23 on the map below.
+
+    ![alt text](directions/pabt-ground-floor.jpg "Ground floor map of Port Authority Bus Terminal")
 
 ## From Port Authority to Keiran's house
 

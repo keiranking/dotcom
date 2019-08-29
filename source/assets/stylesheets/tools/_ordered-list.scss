@@ -6,7 +6,7 @@
     li {
       counter-increment: list-counter;
       display: grid;
-      grid-template-columns: 1.5em 1fr;
+      grid-template-columns: var(--spacing) 1fr;
 
       * {
         grid-column: 2;
