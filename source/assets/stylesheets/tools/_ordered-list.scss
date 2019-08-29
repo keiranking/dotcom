@@ -1,0 +1,22 @@
+@mixin ordered-list {
+  ol {
+    list-style: none;
+    counter-reset: list-counter;
+
+    li {
+      counter-increment: list-counter;
+      display: grid;
+      grid-template-columns: 1.5em 1fr;
+
+      * {
+        grid-column: 2;
+      }
+
+      &::before {
+        content: counter(list-counter);
+        font-weight: var(--font-weight--body);
+        grid-column: 1;
+      }
+    }
+  }
+}
