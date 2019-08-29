@@ -1,7 +1,9 @@
 @mixin ordered-list {
   ol {
+    font-weight: var(--font-weight--body);
     list-style: none;
     counter-reset: list-counter;
+    padding-bottom: var(--spacing--small);
 
     li {
       counter-increment: list-counter;
@@ -14,7 +16,6 @@
 
       &::before {
         content: counter(list-counter);
-        font-weight: var(--font-weight--body);
         grid-column: 1;
       }
     }

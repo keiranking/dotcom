@@ -16,9 +16,13 @@ h4,
 h5,
 h6 {
   font-family: var(--font-family);
-  font-size: modular-scale(1);
+  font-size: var(--font-size);
   line-height: var(--line-height--heading);
   margin: 0 0 var(--spacing--small);
+}
+
+h1 {
+  font-size: var(--font-size--medium);
 }
 
 p {

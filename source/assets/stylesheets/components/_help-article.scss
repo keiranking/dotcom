@@ -1,3 +1,17 @@
 .help-article {
   @include ordered-list;
+
+  aside {
+    background: var(--background-color--tinted);
+    border-radius: var(--border-radius);
+    font-size: var(--font-size--small);
+    font-weight: var(--font-weight--body);
+    margin: 0 0 var(--spacing--small);
+    padding: var(--spacing--small);
+  }
+
+  img,
+  picture {
+    border-radius: var(--border-radius);
+  }
 }
