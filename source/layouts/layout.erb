@@ -13,7 +13,15 @@
       <%= partial "partials/header" %>
     </header>
 
-    <main class="site__main <%= current_article.data.category %>-article" role="main">
+    <main
+      class="
+        site__main
+        <% if current_article %>
+          <%= current_article.data.category %>-article
+        <% end %>
+        "
+      role="main"
+    >
       <%= yield %>
     </main>
 
