@@ -1,0 +1,50 @@
+.resume {
+  font-weight: var(--font-weight--body);
+}
+
+.resume__author {
+  font-family: var(--alt-font-family);
+  font-size: var(--font-size--xlarge);
+  font-weight: var(--font-weight--body);
+  text-transform: uppercase;
+}
+
+.resume__contact-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.resume__date {
+  font-size: var(--font-size--small);
+
+  &:only-child::after {
+    content: "—present";
+  }
+
+  & + &::before {
+    content: "—";
+    // padding: 0 var(--spacing--xsmall);
+  }
+}
+
+.resume__item {
+  border-bottom: var(--border);
+  border-color: var(--background-color--tinted);
+  padding: var(--spacing--xsmall) 0;
+}
+
+.resume__duration {
+  display: flex;
+}
+
+.resume__location {
+  font-size: var(--font-size--small);
+}
+
+.resume__section {
+  border-top: var(--border);
+
+  & + & {
+    margin-top: var(--spacing);
+  }
+}
