@@ -1,5 +1,10 @@
 .resume {
   font-weight: var(--font-weight--body);
+
+  a,
+  abbr {
+    text-decoration: none;
+  }
 }
 
 .resume__author {
@@ -11,6 +16,7 @@
 
 .resume__contact-info {
   display: flex;
+  font-size: var(--font-size--small);
   flex-direction: column;
 }
 
@@ -23,18 +29,42 @@
 
   & + &::before {
     content: "—";
-    // padding: 0 var(--spacing--xsmall);
   }
 }
 
-.resume__item {
-  border-bottom: var(--border);
-  border-color: var(--background-color--tinted);
-  padding: var(--spacing--xsmall) 0;
+.resume__description {
+  grid-area: description;
 }
 
 .resume__duration {
   display: flex;
+}
+
+.resume__header {
+  margin-bottom: var(--spacing);
+
+  @media(min-width: $breakpoint--large-screen) {
+    display: grid;
+    grid-template-columns: 1fr max-content max-content;
+    grid-column-gap: var(--spacing);
+  }
+}
+
+.resume__item {
+  border-top: var(--border);
+  border-color: var(--font-color--dimmed);
+  padding: var(--spacing--xsmall) 0;
+
+  &:first-of-type {
+    border: none;
+  }
+
+  @media(min-width: $breakpoint--large-screen) {
+    display: grid;
+    grid-template-areas: "term description";
+    grid-template-columns: minmax(max-content, 12rem) 1fr;
+    grid-column-gap: var(--spacing--small);
+  }
 }
 
 .resume__location {
@@ -43,8 +73,13 @@
 
 .resume__section {
   border-top: var(--border);
+  border-width: 0.125rem;
 
   & + & {
     margin-top: var(--spacing);
   }
+}
+
+.resume__term {
+  grid-area: term;
 }

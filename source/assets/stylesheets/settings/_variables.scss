@@ -33,8 +33,8 @@
   --font-size: 1rem;
   --font-size--medium: 1.4rem;
   --font-size--large: 1.7rem;
-  --font-size--xlarge: 2rem;
-  --font-size--xxlarge: 3rem;
+  --font-size--xlarge: 2.4rem;
+  --font-size--xxlarge: 3.6rem;
 
   // Letter Spacing
   --letter-spacing--base: 0;
@@ -71,5 +71,6 @@
 }
 
 // Breakpoints
-$breakpoint--mobile: 550px;
-$breakpoint--desktop: 720px;
+$breakpoint--mobile: 32rem;
+$breakpoint--desktop: 48rem;
+$breakpoint--large-screen: 60rem;
