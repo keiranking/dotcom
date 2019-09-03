@@ -2,129 +2,109 @@
   <div class="section__content resume">
     <address class="resume__header">
       <h2 class="resume__author">
-        Keiran King
+        <%= data.resume.name %>
       </h2>
 
       <div class="resume__contact-info">
         <p>
-          7100 Kennedy Blvd E, Apt 3P<br />
-          Guttenberg, NJ 07093
+          <%= data.resume.address_street %><br />
+          <%= data.resume.address_city %>
         </p>
       </div>
 
       <div class="resume__contact-info">
-        <a href="mailto:me@keiranking.com">
-          me@keiranking.com
-        </a>
+        <%= link_to data.resume.email, "mailto:#{data.resume.email}" %>
 
-        <a href="tel:+14159419298">
-          (415) 941-9298
-        </a>
+        <%= link_to(
+          data.resume.phone,
+          "tel:+1#{data.resume.phone.gsub(/\D/, '')}"
+        ) %>
       </div>
     </address>
 
     <section class="resume__section">
       <dl>
-        <div class="resume__item">
-          <dt class="resume__term">
-            Product Designer
-          </dt>
+        <% data.resume.experiences.each do |experience| %>
+          <div class="resume__item">
+            <% if experience.title %>
+              <dt class="resume__term">
+                <%= experience.title %>
+              </dt>
+            <% end %>
 
-          <dd class="resume__description">
-            <a href="https://thoughtbot.com/">
-              thoughtbot
-            </a>
-            <div class="resume__duration">
-              <time datetime="2018-05-02" class="resume__date">2018</time>
-            </div>
-          </dd>
-        </div>
+            <dd class="resume__description">
+              <% if experience.organization_url %>
+                <%= link_to experience.organization, experience.organization_url %>
+              <% else %>
+                <%= experience.organization %>
+              <% end %>
 
-        <div class="resume__item">
-          <dt class="resume__term">
-            Columnist
-          </dt>
+              <div class="resume__duration">
+                <time
+                  datetime="<%= experience.start_date %>"
+                  class="resume__date"
+                >
+                  <%= Date.parse(experience.start_date.to_s).year %>
+                </time>
 
-          <dd class="resume__description">
-            <a href="http://jamaica-gleaner.com/">
-              The Gleaner
-            </a>
-            <div class="resume__duration">
-              <time datetime="2014-02-01" class="resume__date">2014</time>
-              <time datetime="2015-06-30" class="resume__date">2015</time>
-            </div>
-          </dd>
-        </div>
-
-        <div class="resume__item">
-          <dt class="resume__term">
-            Founder
-          </dt>
-
-          <dd class="resume__description">
-            Backstory
-            <div class="resume__duration">
-              <time datetime="2011-01-01" class="resume__date">2011</time>
-              <time datetime="2014-07-31" class="resume__date">2014</time>
-            </div>
-          </dd>
-        </div>
+                <% if experience.end_date %>
+                  <time
+                    datetime="<%= experience.end_date %>"
+                    class="resume__date"
+                  >
+                    <%= Date.parse(experience.end_date.to_s).year %>
+                  </time>
+                <% end %>
+              </div>
+            </dd>
+          </div>
+        <% end %>
       </dl>
     </section>
 
     <section class="resume__section">
       <dl>
-        <div class="resume__item">
-          <div class="resume__description">
-            <a href="https://www.recurse.com/">
-              Recurse Center
-            </a>
+        <% data.resume.education.each do |education| %>
+          <div class="resume__item">
+            <% if education.title %>
+              <dt class="resume__term">
+                <% if education.short_title %>
+                  <abbr title="<%= education.title %>">
+                    <%= education.short_title %>
+                  </abbr>
+                <% else %>
+                  <%= education.title %>
+                <% end %>
+              </dt>
+            <% end %>
 
-            <div class="resume__duration">
-              <time datetime="2017-08-11" class="resume__date">2017</time><time datetime="2017-11-21" class="resume__date">2017</time>
-            </div>
+            <dd class="resume__description">
+              <% if education.organization_url %>
+                <%= link_to education.organization, education.organization_url %>
+              <% else %>
+                <%= education.organization %>
+              <% end %>
+
+              <div class="resume__duration">
+                <time
+                  datetime="<%= education.start_date %>"
+                  class="resume__date"
+                >
+                  <%= Date.parse(education.start_date.to_s).year %>
+                </time>
+
+                <% if education.end_date %>
+                  <time
+                    datetime="<%= education.end_date %>"
+                    class="resume__date"
+                  >
+                    <%= Date.parse(education.end_date.to_s).year %>
+                  </time>
+                <% end %>
+              </div>
+            </dd>
           </div>
-        </div>
-
-        <div class="resume__item">
-          <dt class="resume__term">
-            <abbr title="Master of Fine Arts">
-              MFA
-            </abbr>
-          </dt>
-
-          <dd class="resume__description">
-            <a href="https://www.cca.edu/">
-              California College of the Arts
-            </a>
-
-            <div class="resume__duration">
-              <time datetime="2014-08-15" class="resume__date">2014</time><time datetime="2016-05-15" class="resume__date">2016</time>
-            </div>
-          </dd>
-        </div>
-
-        <div class="resume__item">
-          <dt class="resume__term">
-            <abbr title="Bachelor of Sciences">
-              BS
-            </abbr>
-          </dt>
-
-          <dd class="resume__description">
-            <a href="https://www.ithaca.edu/">
-              Ithaca College
-            </a>
-
-            <p class="resume__location">
-              Ithaca, NY
-            </p>
-
-            <div class="resume__duration">
-              <time datetime="2004-08-15" class="resume__date">2004</time><time datetime="2008-05-15" class="resume__date">2008</time>
-            </div>
-          </dd>
-        </div>
+        <% end %>
       </dl>
     </section>
   </div>

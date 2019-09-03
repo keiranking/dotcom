@@ -1,0 +1,47 @@
+name: Keiran King
+email: me@keiranking.com
+phone: (415) 941-9298
+address_street: 7100 Kennedy Blvd E, Apt 3P
+address_city: Guttenberg, NJ 07093
+
+experiences:
+  - title: Product Designer
+    organization: thoughtbot
+    organization_url: https://www.thoughtbot.com/
+    location: New York, NY
+    start_date: 2018-05-02
+
+  - title: Columnist
+    organization: The Gleaner
+    location: Kingston, Jamaica
+    start_date: 2014-02-01
+    end_date: 2015-06-30
+
+  - title: Founder
+    organization: Backstory
+    location: Kingston, Jamaica
+    start_date: 2011-01-01
+    end_date: 2014-07-31
+
+education:
+  - organization: Recurse Center
+    organization_url: https://www.recurse.com/
+    location: New York, NY
+    start_date: 2017-08-11
+    end_date: 2017-11-21
+
+  - title: Master of Fine Arts
+    short_title: MFA
+    organization: California College of the Arts
+    organization_url: https://www.cca.edu/
+    location: San Francisco, CA
+    start_date: 2014-08-15
+    end_date: 2016-05-15
+
+  - title: Bachelor of Sciences
+    short_title: BS
+    organization: Ithaca College
+    organization_url: https://www.ithaca.edu/
+    location: Ithaca, NY
+    start_date: 2004-08-15
+    end_date: 2008-05-15
