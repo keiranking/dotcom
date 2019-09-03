@@ -73,7 +73,7 @@
 
 .resume__section {
   border-top: var(--border);
-  border-width: 0.125rem;
+  border-width: var(--border-width--thick);
 
   & + & {
     margin-top: var(--spacing);
