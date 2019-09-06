@@ -1,4 +1,5 @@
 .resume {
+  @include unordered-list;
   font-weight: var(--font-weight--body);
 
   a,

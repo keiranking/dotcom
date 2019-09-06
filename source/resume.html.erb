@@ -23,16 +23,21 @@
     </address>
 
     <section class="resume__section">
-      <dl>
-        <% data.resume.experiences.each do |experience| %>
-          <div class="resume__item">
-            <% if experience.title %>
-              <dt class="resume__term">
-                <%= experience.title %>
-              </dt>
-            <% end %>
+      <% data.resume.experiences.each do |experience| %>
+        <div class="resume__item">
+          <% if experience.title %>
+            <h3 class="resume__term">
+              <%= experience.title %>
+            </h3>
+          <% end %>
 
-            <dd class="resume__description">
+          <details
+            class="resume__description"
+            <% if experience.featured %>
+              open
+            <% end %>
+          >
+            <summary>
               <% if experience.organization_url %>
                 <%= link_to experience.organization, experience.organization_url %>
               <% else %>
@@ -56,10 +61,20 @@
                   </time>
                 <% end %>
               </div>
-            </dd>
-          </div>
-        <% end %>
-      </dl>
+            </summary>
+
+            <% if experience.highlights %>
+              <ul>
+                <% experience.highlights.each do |highlight| %>
+                  <li>
+                    <%= highlight %>
+                  </li>
+                <% end %>
+              </ul>
+            <% end %>
+          </details>
+        </div>
+      <% end %>
     </section>
 
     <section class="resume__section">

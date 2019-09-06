@@ -8,8 +8,14 @@ experiences:
   - title: Product Designer
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
+    organization_description: Tech consultancy
     location: New York, NY
     start_date: 2018-05-02
+    featured: true
+    highlights:
+      - Led shift to lean development blah blah Dome quick brown fox jumps over the lazy dog
+      - Led user research and UX design for Oscar's provider team serving 10,000 doctors
+      - Led front-end development for Future Method's ecommerce site
 
   - title: Columnist
     organization: The Gleaner

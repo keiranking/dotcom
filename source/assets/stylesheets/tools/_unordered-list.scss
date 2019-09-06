@@ -1,0 +1,21 @@
+@mixin unordered-list {
+  ul {
+    font-weight: var(--font-weight--body);
+    list-style: none;
+    padding-bottom: var(--spacing--small);
+
+    li {
+      display: grid;
+      grid-template-columns: var(--spacing) 1fr;
+
+      * {
+        grid-column: 2;
+      }
+
+      &::before {
+        content: "▪";
+        grid-column: 1;
+      }
+    }
+  }
+}

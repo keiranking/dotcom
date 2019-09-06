@@ -17,3 +17,18 @@ dt {
 dd {
   margin: 0;
 }
+
+details {
+  summary {
+    cursor: pointer;
+    list-style: none;
+
+    &:focus {
+      outline: none;
+    }
+
+    &::-webkit-details-marker {
+      display: none; // hides marker in Webkit
+    }
+  }
+}
