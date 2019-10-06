@@ -13,21 +13,29 @@ experiences:
     start_date: 2018-05-02
     featured: true
     highlights:
-      - Led shift to lean development blah blah Dome quick brown fox jumps over the lazy dog
-      - Led user research and UX design for Oscar's provider team serving 10,000 doctors
-      - Led front-end development for Future Method's ecommerce site
+      - Led product development for Dome Compass, a vertical social network for civil servants. Moved their 3-year-old development effort from stealth to launch in 3 months using lean and agile methods.
+      - Led product development for Punchy, a marketplace for live comedy.
+      - UI/UX design for Oscar Health, improving online tools for their 10,000 providers, reducing call center traffic by 8% and call times by 37%.
+      - Speaker at 2019 NYC Design Week.
 
   - title: Columnist
     organization: The Gleaner
     location: Kingston, Jamaica
     start_date: 2014-02-01
     end_date: 2015-06-30
+    highlights:
+      - Wrote weekly column tackling social prejudice, predatory business and national issues — the most-read newspaper column in the country in 2014.
+      - Keynote speaker at 2014 Jamaicans for Justice gala.
 
   - title: Founder
     organization: Backstory
     location: Kingston, Jamaica
     start_date: 2011-01-01
     end_date: 2014-07-31
+    highlights:
+      - Wrote, directed and produced the musical Last Call, winner of Best Production at the 2011 national theatre awards.
+      - Wrote and produced the plays Mr & Mrs Blacke and Taboo.
+      - Head writer for TV pilot episodes of Family Affair and The Artists.
 
 education:
   - organization: Recurse Center
