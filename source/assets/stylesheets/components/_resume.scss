@@ -22,9 +22,6 @@
 }
 
 .resume__date {
-  &:only-child::after {
-    content: "—present";
-  }
 
   & + &::before {
     content: "—";
@@ -78,7 +75,7 @@
   border-width: var(--border-width--thick);
 
   & + & {
-    margin-top: var(--spacing);
+    margin-top: var(--spacing--large);
   }
 }
 

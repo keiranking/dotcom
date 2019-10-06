@@ -4,7 +4,7 @@ phone: (415) 941-9298
 address_street: 7100 Kennedy Blvd E, Apt 3P
 address_city: Guttenberg, NJ 07093
 
-experiences:
+work:
   - title: Product Designer
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
@@ -45,7 +45,7 @@ education:
     end_date: 2017-11-21
 
   - title: Master of Fine Arts
-    short_title: MFA
+    short_title: M.F.A.
     organization: California College of the Arts
     organization_url: https://www.cca.edu/
     location: San Francisco, CA
@@ -53,7 +53,7 @@ education:
     end_date: 2016-05-15
 
   - title: Bachelor of Sciences
-    short_title: BS
+    short_title: B.Sc.
     organization: Ithaca College
     organization_url: https://www.ithaca.edu/
     location: Ithaca, NY

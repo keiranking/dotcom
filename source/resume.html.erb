@@ -23,112 +23,15 @@
     </address>
 
     <section class="resume__section">
-      <% data.resume.experiences.each do |experience| %>
-        <div class="resume__item">
-          <% if experience.title %>
-            <h3 class="resume__term">
-              <%= experience.title %>
-            </h3>
-          <% end %>
-
-          <details
-            class="resume__description"
-            <% if experience.featured %>
-              open
-            <% end %>
-          >
-            <summary>
-              <% if experience.organization_url %>
-                <%= link_to experience.organization, experience.organization_url %>
-              <% else %>
-                <%= experience.organization %>
-              <% end %>
-
-              <div class="resume__duration">
-                <time
-                  datetime="<%= experience.start_date %>"
-                  class="resume__date"
-                >
-                  <%= Date.parse(experience.start_date.to_s).year %>
-                </time>
-
-                <% if experience.end_date %>
-                  <time
-                    datetime="<%= experience.end_date %>"
-                    class="resume__date"
-                  >
-                    <%= Date.parse(experience.end_date.to_s).year %>
-                  </time>
-                <% end %>
-
-                <% if experience.location %>
-                  <span class="resume__location"><%= experience.location %></span>
-                <% end %>
-              </div>
-            </summary>
-
-            <% if experience.highlights %>
-              <ul>
-                <% experience.highlights.each do |highlight| %>
-                  <li>
-                    <%= highlight %>
-                  </li>
-                <% end %>
-              </ul>
-            <% end %>
-          </details>
-        </div>
+      <% data.resume.work.each do |experience| %>
+        <%= partial "partials/experience", locals: { experience: experience } %>
       <% end %>
     </section>
 
     <section class="resume__section">
-      <dl>
-        <% data.resume.education.each do |education| %>
-          <div class="resume__item">
-            <% if education.title %>
-              <dt class="resume__term">
-                <% if education.short_title %>
-                  <abbr title="<%= education.title %>">
-                    <%= education.short_title %>
-                  </abbr>
-                <% else %>
-                  <%= education.title %>
-                <% end %>
-              </dt>
-            <% end %>
-
-            <dd class="resume__description">
-              <% if education.organization_url %>
-                <%= link_to education.organization, education.organization_url %>
-              <% else %>
-                <%= education.organization %>
-              <% end %>
-
-              <div class="resume__duration">
-                <time
-                  datetime="<%= education.start_date %>"
-                  class="resume__date"
-                >
-                  <%= Date.parse(education.start_date.to_s).year %>
-                </time>
-
-                <% if education.end_date %>
-                  <time
-                    datetime="<%= education.end_date %>"
-                    class="resume__date"
-                  >
-                    <%= Date.parse(education.end_date.to_s).year %>
-                  </time>
-                <% end %>
-
-                <% if education.location %>
-                  <span class="resume__location"><%= education.location %></span>
-                <% end %>
-              </div>
-            </dd>
-          </div>
-        <% end %>
-      </dl>
+      <% data.resume.education.each do |experience| %>
+        <%= partial "partials/experience", locals: { experience: experience } %>
+      <% end %>
     </section>
   </div>
 </div>
