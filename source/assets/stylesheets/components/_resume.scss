@@ -22,8 +22,6 @@
 }
 
 .resume__date {
-  font-size: var(--font-size--small);
-
   &:only-child::after {
     content: "—present";
   }
@@ -39,6 +37,7 @@
 
 .resume__duration {
   display: flex;
+  font-size: var(--font-size--small);
 }
 
 .resume__header {
@@ -69,7 +68,9 @@
 }
 
 .resume__location {
-  font-size: var(--font-size--small);
+  &::before {
+    content: "・";
+  }
 }
 
 .resume__section {

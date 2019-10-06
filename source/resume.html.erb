@@ -60,6 +60,10 @@
                     <%= Date.parse(experience.end_date.to_s).year %>
                   </time>
                 <% end %>
+
+                <% if experience.location %>
+                  <span class="resume__location"><%= experience.location %></span>
+                <% end %>
               </div>
             </summary>
 
@@ -115,6 +119,10 @@
                   >
                     <%= Date.parse(education.end_date.to_s).year %>
                   </time>
+                <% end %>
+
+                <% if education.location %>
+                  <span class="resume__location"><%= education.location %></span>
                 <% end %>
               </div>
             </dd>
