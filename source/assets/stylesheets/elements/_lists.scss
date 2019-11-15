@@ -22,13 +22,28 @@ details {
   summary {
     cursor: pointer;
     list-style: none;
+    position: relative;
 
     &:focus {
       outline: none;
     }
-
     &::-webkit-details-marker {
       display: none; // hides marker in Webkit
+    }
+
+    &::after {
+      content: "\00002b";
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+
+  &[open] {
+    summary {
+      &::after {
+        content: "\0000d7";
+      }
     }
   }
 }
