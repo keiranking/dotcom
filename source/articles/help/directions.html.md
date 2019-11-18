@@ -9,7 +9,7 @@ date: 2019-08-28 06:00 UTC
 
 1. Buy a Metrocard. You can pay for the AirTrain and the subway with Metrocards — the AirTrain when exiting ($5), the subway when entering ($2.75/ride).
 
-1. Ride the <span class="subway">E</span> train in the direction of Manhattan and get off at <span class="signage">Times Sq-42nd St</span>.
+1. Ride the <span class="signage signage--subway">E</span> train in the direction of Manhattan and get off at <span class="signage">Times Sq-42nd St</span>.
 
 1. Exit the platform. Stay in the station, and follow signs for Port Authority and/or 40th St.
 
