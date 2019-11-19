@@ -2,8 +2,7 @@
   @include ordered-list;
 
   aside {
-    background: var(--background-color--tinted);
-    border-radius: var(--border-radius);
+    border-left: 0.05rem solid var(--font-color);
     font-size: var(--font-size--small);
     font-weight: var(--font-weight--body);
     margin: 0 0 var(--spacing--small);

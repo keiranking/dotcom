@@ -1,17 +1,17 @@
 $_signage-subway-line-width: 1.7em;
 
 .signage {
-  border: 0.1em solid var(--font-color);
-  border-radius: var(--border-radius);
+  background-color: $highlight-color;
   font-size: 80%;
   font-weight: var(--font-weight--bold);
   display: inline-block;
-  padding: 0.05rem 0.25rem 0;
+  padding: 0.05rem 0.15rem 0;
   text-transform: uppercase;
 }
 
 .signage--subway {
   align-items: center;
+  border: 0.1em solid var(--font-color);
   border-radius: 50%;
   display: inline-flex;
   justify-content: center;

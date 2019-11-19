@@ -9,7 +9,7 @@ date: 2019-08-28 06:00 UTC
 
 1. Buy a Metrocard. You can pay for the AirTrain and the subway with Metrocards — the AirTrain when exiting ($5), the subway when entering ($2.75/ride).
 
-1. Ride the <span class="signage signage--subway">E</span> train in the direction of Manhattan and get off at <span class="signage">Times Sq-42nd St</span>.
+1. Ride the <span class="signage signage--subway">E</span> train to Manhattan and get off at <span class="signage">Times Sq-42nd St</span>.
 
 1. Exit the platform. Stay in the station, and follow signs for Port Authority and/or 40th St.
 
@@ -28,7 +28,7 @@ date: 2019-08-28 06:00 UTC
 1. Take any escalator up to the 200-level departure gates.
 
     <aside>
-    If after 10 pm, take the escalators up another floor to the 300-level gates.
+    If after 10pm, take the escalators up another floor to the 300-level gates.
     </aside>
 
 1. Buy a NJTransit bus ticket ($3.50), either from one of the orange vending machines or by downloading the NJTransit app on your phone. You'll need a credit or debit card.
@@ -38,7 +38,7 @@ date: 2019-08-28 06:00 UTC
 1. Go to gate <span class="signage">212</span>. (During rush hour, the line may snake down the gate escalator and back through the terminal. Don't worry; it moves fast.)
 
     <aside>
-    If after 10 pm, go to gate <span class="signage">325</span>.
+    If after 10pm, go to gate <span class="signage">325</span>.
     </aside>
 
 1. Take any bus from any door.
