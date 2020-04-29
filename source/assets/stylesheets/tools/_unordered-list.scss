@@ -2,19 +2,18 @@
   ul {
     font-weight: var(--font-weight--body);
     list-style: none;
-    padding-bottom: var(--spacing--small);
+    padding-bottom: var(--spacing--half);
+    padding-left: var(--spacing--half);
 
     li {
-      display: grid;
-      grid-template-columns: var(--spacing) 1fr;
-
-      * {
-        grid-column: 2;
-      }
+      margin-bottom: var(--spacing--eighth);
+      position: relative;
 
       &::before {
         content: "▪";
-        grid-column: 1;
+        left: calc(-1 * var(--spacing--half));
+        position: absolute;
+        top: 0;
       }
     }
   }

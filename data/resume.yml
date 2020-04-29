@@ -5,20 +5,20 @@ address_street: 7100 Kennedy Blvd E, Apt 3P
 address_city: Guttenberg, NJ 07093
 
 work:
-  - title: Product Designer
+  - title: Product Strategy Consultant
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
     organization_description: Tech consultancy
     location: New York, NY
     start_date: 2018-05-02
     featured: true
-    highlights:
+    highlights_html:
       - Head of product for Dome Compass, a vertical social network for
         civil servants. Introduced lean development and launched in 3 months.
       - Project advisor for MoMA, guiding a rebuild of their membership site.
       - UI/UX design lead for provider team at Oscar Health, reducing
         call center traffic by 8% and call times by 37%.
-      - Speaker at 2019 NYC Design Week, 2020 Lead Dev NYC conference.
+      - Speaker at <a href="https://www.youtube.com/watch?v=XAqfYvcib2I">2019 NYC Design Week</a>, 2020 Lead Dev NYC conference.
 
   - title: Columnist
     organization: The Gleaner
@@ -26,7 +26,7 @@ work:
     start_date: 2014-02-01
     end_date: 2015-06-30
     featured: true
-    highlights:
+    highlights_html:
       - Weekly column on predatory business practices and other national issues.
         In its first year, it became the most-read column in the country.
       - Keynote speaker at 2014 Jamaicans for Justice gala.
@@ -37,7 +37,7 @@ work:
     start_date: 2011-01-01
     end_date: 2014-07-31
     featured: true
-    highlights:
+    highlights_html:
       - Founded disruptive media startup, whose output won a series of national
         awards including Best Production in 2011.
       - Created and led internship program with 75% female enrollment.

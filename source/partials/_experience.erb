@@ -11,7 +11,7 @@
     </h3>
   <% end %>
 
-  <% if experience.highlights %>
+  <% if experience.highlights_html %>
     <details
       class="resume__description"
       <% if experience.featured %>
@@ -21,7 +21,7 @@
   <% else %>
     <div class="resume__description">
   <% end %>
-    <% if experience.highlights %>
+    <% if experience.highlights_html %>
       <summary>
     <% end %>
       <% if experience.organization_url %>
@@ -62,20 +62,20 @@
           </span>
         <% end %>
       </div>
-    <% if experience.highlights %>
+    <% if experience.highlights_html %>
       </summary>
     <% end %>
 
-    <% if experience.highlights %>
-      <ul>
-        <% experience.highlights.each do |highlight| %>
+    <% if experience.highlights_html %>
+      <ul class="resume__highlights">
+        <% experience.highlights_html.each do |highlight| %>
           <li>
             <%= highlight %>
           </li>
         <% end %>
       </ul>
     <% end %>
-  <% if experience.highlights %>
+  <% if experience.highlights_html %>
     </details>
   <% else %>
     </div>

@@ -18,7 +18,7 @@ h6 {
   font-family: var(--font-family);
   font-size: var(--font-size);
   line-height: var(--line-height--heading);
-  margin: 0 0 var(--spacing--small);
+  margin: 0 0 var(--spacing--half);
 }
 
 h1 {
@@ -26,17 +26,19 @@ h1 {
 }
 
 p {
-  margin: 0 0 var(--spacing--small);
+  margin: 0 0 var(--spacing--half);
   font-weight: var(--font-weight--body);
 }
 
 a {
   color: var(--action-color);
-  text-decoration-skip: ink;
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+  text-underline-offset: var(--spacing--sixteenth);
   transition: color var(--duration) var(--timing);
 
   &:hover {
-    color: var(--action-color)--alt;
+    color: var(--action-color--hover);
   }
 
   &:focus {

@@ -4,7 +4,7 @@
   font-size: var(--font-size--small);
   font-weight: var(--font-weight--normal);
   letter-spacing: 0.05rem;
-  margin: var(--spacing--xsmall) 0;
+  margin: var(--spacing--quarter) 0;
   text-transform: uppercase;
 }
 
@@ -18,6 +18,6 @@
 
   & + &::before {
     content: "·";
-    margin: 0 var(--spacing--xsmall);
+    margin: 0 var(--spacing--quarter);
   }
 }

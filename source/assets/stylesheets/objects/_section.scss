@@ -22,8 +22,8 @@ $_section-gutter-width: 4.5rem;
   padding-top: var(--spacing);
 
   @media(min-width: $breakpoint--mobile) {
-    padding-bottom: var(--spacing--large);
-    padding-top: var(--spacing--large);
+    padding-bottom: var(--spacing--double);
+    padding-top: var(--spacing--double);
   }
 }
 

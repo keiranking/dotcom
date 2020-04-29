@@ -2,7 +2,6 @@
   @include unordered-list;
   font-weight: var(--font-weight--body);
 
-  a,
   abbr {
     text-decoration: none;
   }
@@ -22,6 +21,7 @@
 }
 
 .resume__date {
+  display: flex;
 
   & + &::before {
     content: "—";
@@ -47,10 +47,14 @@
   }
 }
 
+.resume__highlights {
+  margin-top: var(--spacing--half);
+}
+
 .resume__item {
   border-top: var(--border);
   border-color: var(--font-color--dimmed);
-  padding: var(--spacing--xsmall) 0;
+  padding: var(--spacing--quarter) 0;
 
   &:first-of-type {
     border: none;
@@ -59,12 +63,14 @@
   @media(min-width: $breakpoint--large-screen) {
     display: grid;
     grid-template-areas: "term description";
-    grid-template-columns: minmax(max-content, 12rem) 1fr;
-    grid-column-gap: var(--spacing--small);
+    grid-template-columns: 12rem 1fr;
+    grid-column-gap: var(--spacing--half);
   }
 }
 
 .resume__location {
+  display: flex;
+
   &::before {
     content: "・";
   }
@@ -75,7 +81,7 @@
   border-width: var(--border-width--thick);
 
   & + & {
-    margin-top: var(--spacing--large);
+    margin-top: var(--spacing--double);
   }
 }
 

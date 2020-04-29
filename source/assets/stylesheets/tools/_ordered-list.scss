@@ -1,22 +1,20 @@
 @mixin ordered-list {
   ol {
+    counter-reset: list-counter;
     font-weight: var(--font-weight--body);
     list-style: none;
-    counter-reset: list-counter;
-    padding-bottom: var(--spacing--small);
+    padding-bottom: var(--spacing--half);
+    padding-left: var(--spacing);
 
     li {
       counter-increment: list-counter;
-      display: grid;
-      grid-template-columns: var(--spacing) 1fr;
-
-      * {
-        grid-column: 2;
-      }
+      position: relative;
 
       &::before {
         content: counter(list-counter);
-        grid-column: 1;
+        left: calc(-1 * var(--spacing));
+        position: absolute;
+        top: 0;
       }
     }
   }

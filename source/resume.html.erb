@@ -13,11 +13,16 @@
       </div>
 
       <div class="resume__contact-info">
-        <%= link_to data.resume.email, "mailto:#{data.resume.email}" %>
+        <%= link_to(
+          data.resume.email,
+          "mailto:#{data.resume.email}",
+          class: "u-link--incognito",
+        ) %>
 
         <%= link_to(
           data.resume.phone,
-          "tel:+1#{data.resume.phone.gsub(/\D/, '')}"
+          "tel:+1#{data.resume.phone.gsub(/\D/, '')}",
+          class: "u-link--incognito",
         ) %>
       </div>
     </address>

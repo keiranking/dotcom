@@ -3,5 +3,7 @@
 
   &:hover {
     text-decoration: underline;
+    text-decoration-thickness: from-font;
+    text-underline-offset: var(--spacing--sixteenth);
   }
 }
