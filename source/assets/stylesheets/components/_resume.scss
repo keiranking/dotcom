@@ -49,6 +49,14 @@
 
 .resume__highlights {
   margin-top: var(--spacing--half);
+
+  small {
+    display: block;
+
+    &:first-of-type {
+      margin-top: var(--spacing);
+    }
+  }
 }
 
 .resume__item {
