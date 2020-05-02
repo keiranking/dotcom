@@ -27,24 +27,20 @@ date: 2019-08-28 06:00 UTC
 
 1. Take any escalator up to the 200-level departure gates.
 
-    <aside>
-    If after 10pm, take the escalators up another floor to the 300-level gates.
-    </aside>
+    (If after 10pm, take the escalators up another floor to the 300-level gates.)
 
 1. Buy a NJTransit bus ticket ($3.50), either from one of the orange vending machines or by downloading the NJTransit app on your phone. You'll need a credit or debit card.
 
     The ticket should be a 2-zone, roundtrip ticket for  route <span class="signage">128</span>, <span class="signage">165</span>, <span class="signage">166</span> or <span class="signage">168</span>. A ticket for any of those routes will be accepted on all routes.
 
-1. Go to gate <span class="signage">212</span>. (During rush hour, the line may snake down the gate escalator and back through the terminal. Don't worry; it moves fast.)
+1. Go to gate <span class="signage">212</span>. During rush hour, the line may snake down the gate escalator and back through the terminal. Don't worry; it moves fast.
 
-    <aside>
-    If after 10pm, go to gate <span class="signage">325</span>.
-    </aside>
+    (If after 10pm, go to gate <span class="signage">325</span>.)
 
 1. Take any bus from any door.
 
     The bus will take you through the Lincoln Tunnel, and then along Kennedy Blvd through Weehawken, Union City and West New York (about 25 min).
 
-1. Get off at <span class="signage">Ferry Rd</span>. The preceding stop at 69th St is very close; push the exit button (likely a small button above your seat) as soon as the bus pulls away.
+1. Get off at <span class="signage">Ferry Rd</span>. Push the exit button (likely a small button above your seat) right after the bus leaves the preceding 69th St stop, as the two stops are quite close.
 
-1. The bus stop is directly outside my building — the 7100. Enter the lobby. Text me or tell the front desk you're here to see me.
+1. The bus will stop outside 7100 Kennedy Blvd E. Enter the lobby. Text me or ask the front desk to call me.
