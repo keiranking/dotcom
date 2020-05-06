@@ -1,0 +1,33 @@
+.article {
+  @include ordered-list;
+  @include unordered-list;
+
+  aside,
+  blockquote {
+    border-left: var(--border);
+    font-size: var(--font-size--quote);
+    font-weight: var(--font-weight--body);
+    margin: 0 0 var(--spacing--half);
+    padding: 0 var(--spacing--half);
+  }
+
+  img,
+  picture {
+    border-radius: var(--border-radius);
+  }
+
+  h2 {
+    margin-top: var(--spacing--double);
+  }
+}
+
+.article--case-studies {
+  h1 {
+    font-size: var(--font-size--large);
+    font-weight: var(--font-weight--body);
+
+    &::before {
+      content: "Case Study | ";
+    }
+  }
+}

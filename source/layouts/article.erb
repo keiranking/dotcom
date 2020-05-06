@@ -1,6 +1,12 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
-    <article class="section__content section__content--slim">
+    <article
+      class="
+        section__content
+        section__content--slim
+        <%= "article article--#{current_article.data.category}" if current_article %>
+        "
+    >
       <header>
         <% if current_article.data.dept %>
           <p class="flytitle">
