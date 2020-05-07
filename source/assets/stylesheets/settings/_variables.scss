@@ -56,6 +56,8 @@
   --spacing--eighth: 0.2rem;
   --spacing--sixteenth: 0.1rem;
 
+  --height--image: 24rem;
+
   --width--article: 32rem;
   --width--content: 48rem;
 
@@ -75,7 +77,7 @@
 }
 
 // Colors
-$highlight-color: rgba(yellow, 0.1);
+$highlight-color: rgba(yellow, 0.15);
 
 // Breakpoints
 $breakpoint--mobile: 32rem;

@@ -4,11 +4,13 @@
 
   aside,
   blockquote {
-    border-left: var(--border);
     font-size: var(--font-size--quote);
+    font-style: italic;
     font-weight: var(--font-weight--body);
-    margin: 0 0 var(--spacing--half);
-    padding: 0 var(--spacing--half);
+
+    em {
+      font-style: normal;
+    }
   }
 
   img,

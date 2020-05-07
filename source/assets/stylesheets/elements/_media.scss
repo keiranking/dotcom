@@ -4,6 +4,8 @@ figure {
 
 img,
 picture {
-  margin: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: var(--height--image);
   max-width: 100%;
 }

@@ -51,6 +51,11 @@ address {
   font-style: normal;
 }
 
+b {
+  background-color: $highlight-color;
+  font-weight: inherit;
+}
+
 code {
   font-family: var(--mono-font-family);
 }
