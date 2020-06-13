@@ -22,3 +22,11 @@ After you have cloned this repo, follow these steps to run the app:
     ```
 
     You should now be able to view your app at <http://localhost:4567>.
+
+## Testing
+
+Pull requests are automatically deployed to Netlify. For example, https://github.com/keiranking/dotcom/pull/19 can be previewed at https://deploy-preview-19--keiranking.netlify.app.
+
+## Deployment
+
+`origin/master` is automatically deployed to Netlify at https://keiranking.netlify.app.
