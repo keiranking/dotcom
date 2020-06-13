@@ -1,29 +1,43 @@
 @font-face {
-  font-family: "Optima";
+  font-family: "Publico Headline";
   font-style: normal;
-  font-weight: normal;
-  src: url("../../assets/fonts/optima-light.woff2") format("woff2");
+  font-weight: 400;
+  src: url("../../assets/fonts/publico-headline.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Optima";
+  font-family: "Publico Headline";
   font-style: italic;
-  font-weight: normal;
-  src: url("../../assets/fonts/optima-regularitalic.woff2") format("woff2");
+  font-weight: 400;
+  src: url("../../assets/fonts/publico-headline-italic.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Optima";
+  font-family: "Publico Headline";
   font-style: normal;
-  font-weight: bold;
-  src: url("../../assets/fonts/optima-demi.woff2") format("woff2");
+  font-weight: 300;
+  src: url("../../assets/fonts/publico-headline-light.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Optima";
+  font-family: "Publico Headline";
   font-style: italic;
-  font-weight: bold;
-  src: url("../../assets/fonts/optima-demiitalic.woff2") format("woff2");
+  font-weight: 300;
+  src: url("../../assets/fonts/publico-headline-light-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Publico";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../assets/fonts/publico.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Publico";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../../assets/fonts/publico-italic.woff2") format("woff2");
 }
 
 @font-face {
