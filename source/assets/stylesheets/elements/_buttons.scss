@@ -6,7 +6,7 @@ button,
   background-color: var(--action-color);
   border: 0;
   border-radius: var(--border-radius);
-  color: inherit;
+  color: var(--background-color);
   cursor: pointer;
   display: inline-block;
   font-family: var(--font-family-base);
@@ -27,8 +27,8 @@ button,
   }
 
   &:focus {
-    outline: var(--focus-outline);
-    outline-offset: var(--focus-outline-offset);
+    box-shadow: 0 0 0 2px #{var(--background-color)}, 0 0 0 4px #{var(--action-color)};
+    outline: none;
   }
 
   &:disabled {

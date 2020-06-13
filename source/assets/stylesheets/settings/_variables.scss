@@ -1,14 +1,14 @@
 :root {
   // Colors
-  --background-color: hsl(0, 0%, 100%);
-  --background-color--tinted: hsl(0, 0%, 95%);
-  --font-color: hsl(0, 0%, 0%);
-  --font-color--dimmed: hsla(0, 0%, 60%);
+  --background-color: white;
+  --content-color: black;
+  --content-color-rgb: 0, 0, 0;
 
-  --border-color: var(--font-color--dimmed);
-  --action-color: var(--font-color);
-  --action-color--hover: var(--font-color);
-  --focus-color: var(--font-color--dimmed);
+  --action-color: var(--content-color);
+  --action-color--hover: rgba(var(--content-color-rgb), 0.75);
+  --border-color: var(--content-color);
+  --focus-color: var(--content-color);
+  --highlight-color: rgba(var(--content-color-rgb), 0.075);
 
   // Typography
   --font-family: "Lato", system-ui, sans-serif;
@@ -71,9 +71,6 @@
   --duration: 150ms;
   --timing: ease;
 }
-
-// Colors
-$highlight-color: rgba(yellow, 0.1);
 
 // Breakpoints
 $breakpoint--mobile: 32rem;

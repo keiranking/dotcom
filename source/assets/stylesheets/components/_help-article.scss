@@ -2,7 +2,7 @@
   @include ordered-list;
 
   aside {
-    border-left: 0.05rem solid var(--font-color);
+    border-left: var(--border);
     font-size: var(--font-size--small);
     font-weight: var(--font-weight--body);
     margin: 0 0 var(--spacing--half);
