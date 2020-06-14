@@ -2,6 +2,7 @@
 title: Tessanne-mania is a national embarrassment
 date: 2014-02-05 00:00 UTC
 dept: Reality Cheque
+featured_image_description: "A black-and-white picture of a sheep"
 publication: The Jamaica Gleaner
 publication_date: 2014-02-05 00:00 UTC
 publication_url: http://jamaica-gleaner.com/gleaner/20140205/cleisure/cleisure11.html
@@ -19,7 +20,7 @@ Remember Javier Colon? Jermaine Paul? Cassadee Pope? Danielle Bradbery? Neither 
 
 Many Jamaicans think their borderline obsession was a vaguely noble form of ‘support’ for the songstress. As if our slack-jawed viewing habit somehow transported good vibes across an ocean and gave her the strength to overcome otherwise-insurmountable psychological hardships. News flash—Tessanne Chin spends most of her time thinking about herself, and what’s left over on her friends and family. Just like you, just like me. These weren’t military expeditions; they were music auditions. Stacked against her parents and her husband, your ‘support’ amounted to diddly squat.
 
-The Jamaican writer Colin Channer, [giddy in the online pages of *The Wall Street Journal*], alternately suggests: *“Tessanne is more than her talent. She represents… the sense that we’ve always been good… but have often had to accept second or third position, because that’s just the way of the world.”* Mr Channer, who lives in Massachusetts and collects a salary from Brandeis University, has a point. If anything, he’s being charitable. International track meets aside, we’re not used to medalling at all.
+The Jamaican writer Colin Channer, [giddy in the online pages of *The Wall Street Journal*], alternately suggests “Tessanne is more than her talent. She represents… the sense that we’ve always been good… but have often had to accept second or third position, because that’s just the way of the world.” Mr Channer, who lives in Massachusetts and collects a salary from Brandeis University, has a point. If anything, he’s being charitable. International track meets aside, we’re not used to medalling at all.
 
 We’re used to crumbling infrastructure and rampant crime, to heat and heartache and hurricanes. We’re used to being 83rd in transparency, behind Mongolia, and 145th in literacy, behind Micronesia, and 188th in economic growth, behind Montenegro. We are used, in short, to being irrelevant. Our sights are so low that one woman moving from modest to outright success is cause for mad celebration.
 

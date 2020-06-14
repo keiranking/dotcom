@@ -13,15 +13,10 @@
         <%= current_article.title %>
       </h1>
 
-<<<<<<< HEAD
-      <small>
-        <% date = Date.parse(current_article.data.publication_date).strftime("%-d %b %Y") %>
-=======
       <p class="fine-print">
         <%= reading_time_in_minutes(current_article.body) %> min read ·
 
         <% date = Date.parse(current_article.data.publication_date).strftime("%-d&nbsp;%b&nbsp;%Y") %>
->>>>>>> 8ee3134... More opinion styles
         <%= link_to(
           "published in #{current_article.data.publication} on&nbsp;#{date}",
           current_article.data.publication_url,
@@ -31,9 +26,12 @@
     </header>
 
   <% if current_article.data.path.present? %>
-      <div class="section__content section__content--padded">
-        <%= image_tag current_article.data.path %>
-      </div>
+    <div class="section__content section__content--padded">
+      <%= image_tag(
+        featured_image_path(current_article),
+        {alt: current_article.data.featured_image_description},
+      ) %>
+    </div>
   <% end %>
 
     <article class="section__content section__content--slim">
