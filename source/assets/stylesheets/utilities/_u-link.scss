@@ -7,3 +7,11 @@
     text-underline-offset: var(--spacing--sixteenth);
   }
 }
+
+.u-link--subtle {
+  text-decoration-color: var(--subtle-underline-color);
+
+  &:hover {
+    text-decoration-color: inherit;
+  }
+}

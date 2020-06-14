@@ -1,18 +1,20 @@
 :root {
   // Colors
   --background-color: white;
-  --content-color: black;
-  --content-color-rgb: 0, 0, 0;
+  --content-color: #333333;
+  --content-color-rgb: 51, 51, 51;
 
   --action-color: var(--content-color);
   --action-color--hover: rgba(var(--content-color-rgb), 0.75);
   --border-color: var(--content-color);
   --focus-color: var(--content-color);
   --highlight-color: rgba(var(--content-color-rgb), 0.075);
+  --subtle-underline-color: rgba(var(--content-color-rgb), 0.33);
 
   // Typography
   --font-family: "Lato", system-ui, sans-serif;
-  --alt-font-family: "Publico Headline", var(--font-family);
+  --heading-font-family: "Publico Headline", var(--font-family);
+  --alt-font-family: "Publico", var(--font-family);
   --mono-font-family: $font-stack-consolas;
 
   --font-weight--thin: 100;
@@ -36,13 +38,13 @@
   --font-size--xxlarge: 3.2rem;
 
   // Letter Spacing
-  --letter-spacing--base: 0;
   --letter-spacing--tight: -0.02rem;
   --letter-spacing--loose: 0.2rem;
 
   // Line heights
   --line-height: 1.5;
-  --line-height--heading: 1.2;
+  --line-height--tight: 1.2;
+  --line-height--unleaded: 1;
 
   // Other Sizes
   --border-radius: 0.1875rem;

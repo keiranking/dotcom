@@ -26,6 +26,8 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
+page "articles/opinions/*", layout: :opinions
+
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
