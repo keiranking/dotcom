@@ -1,4 +1,5 @@
 $_section-gutter-width: 4.5rem;
+$_section-secondary-content-width: 14.4rem;
 
 .section {
   background-repeat: no-repeat;
@@ -9,7 +10,20 @@ $_section-gutter-width: 4.5rem;
   grid-row-gap: var(--spacing--half);
 
   @media(min-width: $breakpoint--mobile) {
-    grid-template-columns: minmax($_section-gutter-width, 1fr) minmax(auto, var(--width--content)) minmax($_section-gutter-width, 1fr);
+    grid-template-columns:
+      minmax($_section-gutter-width, 1fr)
+      minmax(auto, var(--width--content))
+      minmax($_section-gutter-width, 1fr);
+  }
+
+  @media(min-width: $breakpoint--large-screen) {
+    grid-template-areas: "... content ... secondary ...";
+    grid-template-columns:
+      minmax($_section-gutter-width, 1fr)
+      minmax(auto, var(--width--article))
+      var(--spacing)
+      $_section-secondary-content-width
+      minmax($_section-gutter-width, 1fr);
   }
 }
 
@@ -30,8 +44,24 @@ $_section-gutter-width: 4.5rem;
 
 .section__content {
   grid-column: 2;
+
+  @media(min-width: $breakpoint--large-screen) {
+    grid-column: 2 / span 3;
+  }
+}
+
+.section__content--secondary {
+  grid-column: 2;
+
+  @media(min-width: $breakpoint--large-screen) {
+    grid-column: 4;
+  }
 }
 
 .section__content--slim {
   max-width: var(--width--article);
+
+  @media(min-width: $breakpoint--large-screen) {
+    grid-column: 2;
+  }
 }
