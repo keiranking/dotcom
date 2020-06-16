@@ -26,7 +26,7 @@
     </header>
 
   <% if current_article.data.path.present? %>
-    <div class="section__content section__content--padded">
+    <div class="section__content">
       <%= image_tag(
         featured_image_path(current_article),
         {alt: current_article.data.featured_image_description},

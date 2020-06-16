@@ -6,6 +6,7 @@ $_section-gutter-width: 4.5rem;
   display: grid;
   grid-template-areas: "... content ...";
   grid-template-columns: var(--spacing) auto var(--spacing);
+  grid-row-gap: var(--spacing--half);
 
   @media(min-width: $breakpoint--mobile) {
     grid-template-columns: minmax($_section-gutter-width, 1fr) minmax(auto, var(--width--content)) minmax($_section-gutter-width, 1fr);
@@ -29,11 +30,6 @@ $_section-gutter-width: 4.5rem;
 
 .section__content {
   grid-column: 2;
-}
-
-.section__content--padded {
-  grid-column: 2;
-  margin: var(--spacing) 0;
 }
 
 .section__content--slim {
