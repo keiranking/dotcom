@@ -1,0 +1,30 @@
+.article--help {
+  @include ordered-list;
+
+  aside {
+    border-left: var(--border);
+    font-size: var(--font-size--small);
+    font-weight: var(--font-weight--body);
+    margin: 0 0 var(--spacing--half);
+    padding: var(--spacing--half);
+  }
+
+  img,
+  picture {
+    border-radius: var(--border-radius);
+  }
+}
+
+.article--opinions,
+.article--reviews {
+  h1 {
+    font-family: var(--heading-font-family);
+    font-size: var(--font-size--xlarge);
+    font-weight: var(--font-weight--normal);
+    line-height: var(--line-height--unleaded);
+  }
+
+  article {
+    font-family: var(--alt-font-family);
+  }
+}
