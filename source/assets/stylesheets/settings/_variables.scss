@@ -63,6 +63,7 @@
   --border-width: 0.05rem;
   --border-width--thick: 0.1rem;
   --border: var(--border-width) solid currentColor;
+  --border--thick: var(--border-width--thick) solid currentColor;
 
   // Focus
   --focus-outline-width: 0.1875rem;

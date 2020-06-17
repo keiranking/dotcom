@@ -84,8 +84,7 @@
 }
 
 .resume__section {
-  border-top: var(--border);
-  border-width: var(--border-width--thick);
+  border-top: var(--border--thick);
 
   & + & {
     margin-top: var(--spacing--double);

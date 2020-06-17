@@ -27,6 +27,7 @@ set :markdown,
 set :markdown_engine, :redcarpet
 
 page "articles/opinions/*", layout: :opinions
+page "articles/theatre-reviews/*", layout: :reviews
 
 page "/*.json", layout: false
 page "/*.txt", layout: false
