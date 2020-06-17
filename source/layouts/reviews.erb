@@ -1,13 +1,11 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
     <header class="section__content section__content--slim">
-      <% if current_article.data.dept %>
-        <div class="flytitle">
-          <span class="flytitle__item flytitle__dept">
-            <%= current_article.data.dept %>
-          </span>
-        </div>
-      <% end %>
+      <div class="flytitle">
+        <span class="flytitle__item">
+          <%= titleize_category(current_article.data.category) %>
+        </span>
+      </div>
 
       <h1>
         <%= current_article.title %>
@@ -59,6 +57,24 @@
         <% if current_article.data.venue %>
           <dd class="review-metadata__item">
             Playing at <%= current_article.data.venue %>
+          </dd>
+        <% end %>
+
+        <% if current_article.data.cast %>
+          <dd class="review-metadata__item">
+            With <%= current_article.data.cast %>
+          </dd>
+        <% end %>
+
+        <% if current_article.data.running_time_in_minutes %>
+          <dd class="review-metadata__item">
+            <%= current_article.data.running_time_in_minutes.to_s %> min
+          </dd>
+        <% end %>
+
+        <% if current_article.data.genre %>
+          <dd class="review-metadata__item">
+            <%= current_article.data.genre %>
           </dd>
         <% end %>
       </dl>

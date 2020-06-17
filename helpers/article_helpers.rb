@@ -1,4 +1,8 @@
 module ArticleHelpers
+  def titleize_category(category)
+    category.split("-").map { |s| s.capitalize }.join(" ");
+  end
+
   def featured_image_path(article)
     "#{current_article.path.delete_suffix!('.html')}/#{current_article.data.path}"
   end

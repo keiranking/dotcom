@@ -7,16 +7,18 @@
   text-transform: uppercase;
 }
 
-.flytitle__dept::after {
-  content: " Dept.";
-  white-space: pre;
-}
-
 .flytitle__item {
   display: flex;
 
   & + &::before {
     content: "·";
     margin: 0 var(--spacing--quarter);
+  }
+}
+
+.flytitle__item--dept {
+  &::after {
+    content: " Dept.";
+    white-space: pre;
   }
 }
