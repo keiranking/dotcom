@@ -1,0 +1,15 @@
+<figure>
+  <blockquote cite="<%= quote.source_url if quote.source_url.present? %>">
+    "<%= quote.quote %>"
+  </blockquote>
+
+  <figcaption>
+    <% if quote.source_url.present? %>
+      <a class="u-link--subtle" href="<%= quote.source_url %>">
+        <%= quote.author %>, <cite><%= quote.source %></cite>
+      </a>
+    <% else %>
+      <%= quote.author %>, <cite><%= quote.source %></cite>
+    <% end %>
+  </figcaption>
+</figure>

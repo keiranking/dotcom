@@ -1,0 +1,12 @@
+.heading {
+  font-size: var(--font-size--xlarge);
+  letter-spacing: var(--letter-spacing--tight);
+  line-height: var(--line-height--unleaded);
+  font-weight: var(--font-weight--light);
+}
+
+.heading--literary {
+  font-family: var(--heading-font-family);
+  font-weight: var(--font-weight--normal);
+  letter-spacing: normal;
+}

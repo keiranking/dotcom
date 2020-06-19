@@ -1,0 +1,17 @@
+<ul class="inline-list fine-print">
+  <% if current_page.data.genre.present? && current_page.data.structure.present? %>
+    <li class="inline-list__item">
+      <%= "A #{current_page.data.genre} in #{current_page.data.structure}" %>
+    </li>
+  <% end %>
+  <% if current_page.data.duration_in_minutes.present? %>
+    <li class="inline-list__item">
+      <%= current_page.data.duration_in_minutes %> min
+    </li>
+  <% end %>
+  <% if current_page.data.cast_size.present? %>
+    <li class="inline-list__item">
+      <%= current_page.data.cast_size %>
+    </li>
+  <% end %>
+</ul>

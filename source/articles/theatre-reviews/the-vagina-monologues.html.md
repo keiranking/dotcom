@@ -2,7 +2,7 @@
 title: The Vagina Monologues
 date: 2009-04-27 00:00 UTC
 
-featured_image_description: "The naked midsection of a slim black woman"
+hero_image_description: "The naked midsection of a slim black woman"
 publication: The Jamaica Gleaner
 publication_date: 2009-04-27 00:00 UTC
 publication_url: http://old.jamaica-gleaner.com/gleaner/20090427/ent/ent2.html

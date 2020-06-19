@@ -3,7 +3,7 @@ title: Tessanne-mania is a national embarrassment
 date: 2014-02-05 00:00 UTC
 
 dept: Reality Cheque
-featured_image_description: "A black-and-white picture of a sheep"
+hero_image_description: "A black-and-white picture of a sheep"
 publication: The Jamaica Gleaner
 publication_date: 2014-02-05 00:00 UTC
 publication_url: http://jamaica-gleaner.com/gleaner/20140205/cleisure/cleisure11.html

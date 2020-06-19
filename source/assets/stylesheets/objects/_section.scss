@@ -2,8 +2,6 @@ $_section-gutter-width: 4.5rem;
 $_section-secondary-content-width: 14.4rem;
 
 .section {
-  background-repeat: no-repeat;
-  background-size: cover;
   display: grid;
   grid-template-areas: "... content ...";
   grid-template-columns: var(--spacing) auto var(--spacing);

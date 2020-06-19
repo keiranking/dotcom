@@ -2,7 +2,7 @@
 title: The Ugly Truth
 date: 2009-08-02 00:00 UTC
 
-featured_image_description: "A 1970s-era TV with dials and rabbit-ears antenna"
+hero_image_description: "A 1970s-era TV with dials and rabbit-ears antenna"
 publication: The Jamaica Gleaner
 publication_date: 2009-08-02 00:00 UTC
 publication_url:

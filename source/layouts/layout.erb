@@ -8,6 +8,8 @@
       <% else %>
         <%= "themes--#{current_article.data.category}" %>
       <% end %>
+    <% elsif current_page.data.theme %>
+      <%= "themes--#{current_page.data.theme}" %>
     <% end %>
     "
 >
@@ -15,7 +17,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title><%= data.site.name %></title>
+    <title><%= data.site.title %></title>
     <%= stylesheet_link_tag "main" %>
   </head>
 
@@ -26,8 +28,10 @@
 
     <main
       class="
-        site__main
-        <%= "article article--#{current_article.data.category}" if current_article.present? %>
+        site__main page
+        <% if current_resource.options[:layout] %>
+          <%= "page--#{current_resource.options[:layout]}" %>
+        <% end %>
         "
       role="main"
     >

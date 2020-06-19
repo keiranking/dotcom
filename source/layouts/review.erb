@@ -1,20 +1,18 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
     <header class="section__content section__content--slim">
-      <div class="flytitle">
-        <span class="flytitle__item">
-          <%= titleize_category(current_article.data.category) %>
-        </span>
-      </div>
+      <p class="flytitle">
+        <%= titleize(current_article.data.category) %>
+      </p>
 
-      <h1>
+      <h1 class="heading heading--literary">
         <%= current_article.title %>
       </h1>
 
       <p class="fine-print">
         <%= reading_time_in_minutes(current_article.body) %> min read ·
 
-        <% date = Date.parse(current_article.data.publication_date).strftime("%-d&nbsp;%b&nbsp;%Y") %>
+        <% date = date_to_s(current_article.data.publication_date) %>
         <%= link_to(
           "published in #{current_article.data.publication} on&nbsp;#{date}",
           current_article.data.publication_url,
@@ -26,8 +24,8 @@
   <% if current_article.data.path.present? %>
     <div class="section__content">
       <%= image_tag(
-        featured_image_path(current_article),
-        {alt: current_article.data.featured_image_description},
+        hero_image_path(current_resource.path),
+        {alt: current_article.data.hero_image_description},
       ) %>
     </div>
   <% end %>

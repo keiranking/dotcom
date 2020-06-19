@@ -1,0 +1,23 @@
+<div>
+  <p>
+    <% if index == 0 %>
+      <em><%= current_page.data.title %></em> premiered
+    <% else %>
+      It also played
+    <% end %>
+    <%= "at #{production.theatre}" if production.theatre.present? %>
+    <%= "in #{production.city}" if production.city.present? %>
+    <%= "on #{date_to_s(production.date)}," if production.date.present? %>
+    <%= "under the direction of #{production.director}," if production.director.present? %>
+    <%= "and ran for #{production.total_performances} performances" if production.total_performances.present? %>
+    with:
+  </p>
+
+  <ul>
+    <% production.cast.each do |role| %>
+      <li>
+        <%= role %>
+      </li>
+    <% end %>
+  </ul>
+</div>

@@ -1,0 +1,47 @@
+.page--help {
+  @include ordered-list;
+
+  aside {
+    border-left: var(--border);
+    font-size: var(--font-size--small);
+    font-weight: var(--font-weight--body);
+    margin: 0 0 var(--spacing--half);
+    padding: var(--spacing--half);
+  }
+
+  img,
+  picture {
+    border-radius: var(--border-radius);
+  }
+}
+
+.page--opinion,
+.page--review {
+  article {
+    font-family: var(--alt-font-family);
+  }
+}
+
+.page--play {
+  font-weight: var(--font-weight--body);
+
+  blockquote {
+    font-size: var(--font-size--large);
+    line-height: var(--line-height--tight);
+    margin: 0;
+  }
+
+  figure {
+    margin: var(--spacing) 0;
+  }
+
+  h2 {
+    border-bottom: var(--border);
+    font-weight: var(--font-weight--body);
+    letter-spacing: var(--letter-spacing--loose);
+    margin-bottom: var(--spacing--half);
+    margin-top: var(--spacing--double);
+    padding-bottom: var(--spacing--half);
+    text-transform: uppercase;
+  }
+}

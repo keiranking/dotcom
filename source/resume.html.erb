@@ -29,13 +29,13 @@
 
     <section class="resume__section">
       <% data.resume.work.each do |experience| %>
-        <%= partial "partials/experience", locals: { experience: experience } %>
+        <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
 
     <section class="resume__section">
       <% data.resume.education.each do |experience| %>
-        <%= partial "partials/experience", locals: { experience: experience } %>
+        <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
   </div>

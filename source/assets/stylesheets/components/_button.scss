@@ -1,7 +1,4 @@
-button,
-[type='button'],
-[type='reset'],
-[type='submit'] {
+.button {
   appearance: none;
   background-color: var(--action-color);
   border: 0;
@@ -24,6 +21,7 @@ button,
 
   &:hover {
     background-color: var(--action-color--hover);
+    color: var(--background-color);
   }
 
   &:focus {

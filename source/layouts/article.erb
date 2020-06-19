@@ -3,10 +3,8 @@
     <article class="section__content section__content--slim">
       <header>
         <% if current_article.data.dept %>
-          <p class="flytitle">
-            <span class="flytitle__item flytitle__item--dept">
-              <%= current_article.data.dept %>
-            </span>
+          <p class="flytitle flytitle--dept">
+            <%= current_article.data.dept %>
           </p>
         <% end %>
 

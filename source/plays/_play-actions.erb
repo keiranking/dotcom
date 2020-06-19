@@ -1,0 +1,12 @@
+<% email_title = current_page.data.email_title.present? ? current_page.data.email_title : current_page.data.title %>
+<%= link_to(
+  "Request script",
+  "mailto:#{data.site.email}?subject=Script request: #{email_title}",
+  class: "button",
+) %>
+
+<%= link_to(
+  "Request license",
+  "mailto:#{data.site.email}?subject=License request: #{email_title}",
+  class: "button",
+) %>

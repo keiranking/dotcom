@@ -1,0 +1,58 @@
+<% wrap_layout :layout do %>
+  <article class="section section--padded">
+    <header class="section__content section__content--slim">
+      <h1 class="heading">
+        <%= current_page.data.title %>
+      </h1>
+
+      <%= partial "plays/script-stats" %>
+    </header>
+
+    <% if current_page.path.present? %>
+      <section class="section__content">
+        <%= image_tag(
+          hero_image_path(current_resource.path),
+          {alt: current_page.data.hero_image_description},
+        ) %>
+      </section>
+    <% end %>
+
+    <section class="section__content section__content--slim">
+      <% if current_page.data.logline.present? %>
+        <p class="logline">
+          <%= current_page.data.logline %>
+        </p>
+      <% end %>
+
+      <%= partial "plays/play-actions" %>
+    </section>
+
+    <section class="section__content section__content--slim">
+      <h2>
+        Production
+      </h2>
+
+      <% if current_page.data.productions.present? %>
+        <div class="stack">
+          <% current_page.data.productions.each_with_index do |production, index| %>
+            <%= partial "plays/production-stats", locals: { production: production, index: index } %>
+          <% end %>
+        </div>
+      <% end %>
+    </section>
+
+    <section class="section__content section__content--slim">
+      <h2>
+        Reception
+      </h2>
+
+      <% current_page.data.quotes.each do |quote| %>
+        <%= partial "plays/quote", locals: { quote: quote } %>
+      <% end %>
+    </section>
+
+    <section class="section__content section__content--slim">
+      <%# yield %>
+    </section>
+  </article>
+<% end %>

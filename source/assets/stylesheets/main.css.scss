@@ -9,7 +9,6 @@
 @import "generic/normalize";
 @import "generic/themes";
 
-@import "elements/buttons";
 @import "elements/forms";
 @import "elements/layout";
 @import "elements/lists";
@@ -17,14 +16,20 @@
 @import "elements/tables";
 @import "elements/typography";
 
+@import "objects/rack";
 @import "objects/section";
 @import "objects/site";
+@import "objects/stack";
 
-@import "components/article";
+@import "components/button";
 @import "components/fine-print";
 @import "components/flytitle";
 @import "components/footer";
 @import "components/header";
+@import "components/heading";
+@import "components/inline-list";
+@import "components/logline";
+@import "components/page";
 @import "components/resume";
 @import "components/review-metadata";
 @import "components/signage";
