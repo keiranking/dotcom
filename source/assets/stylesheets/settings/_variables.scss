@@ -1,15 +1,13 @@
 :root {
   // Colors
-  --background-color: white;
+  --background-color: #ffffff;
   --content-color: #333333;
   --content-color-rgb: 51, 51, 51;
 
   --action-color: var(--content-color);
   --action-color--hover: rgba(var(--content-color-rgb), 0.75);
-  --border-color: var(--content-color);
-  --focus-color: var(--content-color);
   --highlight-color: rgba(var(--content-color-rgb), 0.075);
-  --subtle-underline-color: rgba(var(--content-color-rgb), 0.33);
+  --subtle-color: rgba(var(--content-color-rgb), 0.33);
 
   // Typography
   --font-family: "Lato", system-ui, sans-serif;

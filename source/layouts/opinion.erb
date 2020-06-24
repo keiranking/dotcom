@@ -11,26 +11,28 @@
         <%= current_article.title %>
       </h1>
 
-      <p class="fine-print">
-        <%= reading_time_in_minutes(current_article.body) %> min read ·
+      <p class="fine-print inline-list">
+        <span class="inline-list__item">
+          <%= reading_time_in_minutes(current_article.body) %> min read
+        </span>
 
         <% date = date_to_s(current_article.data.publication_date) %>
-        <%= link_to(
-          "published in #{current_article.data.publication} on&nbsp;#{date}",
-          current_article.data.publication_url,
-          class: "u-link--subtle",
-        ) %>
+        <span class="inline-list__item">
+          <%= link_to(
+            "published in #{current_article.data.publication} on&nbsp;#{date}",
+            current_article.data.publication_url,
+            class: "u-link--subtle",
+          ) %>
+        </span>
       </p>
     </header>
 
-  <% if current_article.data.path.present? %>
     <div class="section__content">
       <%= image_tag(
         hero_image_path(current_resource.path),
         {alt: current_article.data.hero_image_description},
       ) %>
     </div>
-  <% end %>
 
     <article class="section__content section__content--slim literary-content">
       <%= yield %>

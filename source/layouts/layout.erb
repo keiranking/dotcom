@@ -29,9 +29,7 @@
     <main
       class="
         site__main
-        <% if current_resource.options[:layout] %>
-          <%= "#{current_resource.options[:layout]}" %>
-        <% end %>
+        <%= current_resource.options[:layout] if current_resource.options[:layout].present? %>
         "
       role="main"
     >

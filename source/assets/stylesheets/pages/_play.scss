@@ -1,16 +1,6 @@
 .play {
   font-weight: var(--font-weight--body);
 
-  blockquote {
-    font-size: var(--font-size--large);
-    line-height: var(--line-height--tight);
-    margin: 0;
-  }
-
-  figure {
-    margin: var(--spacing) 0;
-  }
-
   h2 {
     border-bottom: var(--border);
     font-weight: var(--font-weight--body);
@@ -24,4 +14,14 @@
 
 .play__logline {
   font-size: var(--font-size--medium);
+}
+
+.play__quotation {
+  margin: var(--spacing) 0;
+}
+
+.play__quote {
+  font-size: var(--font-size--large);
+  line-height: var(--line-height--tight);
+  margin: 0;
 }

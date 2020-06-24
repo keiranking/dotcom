@@ -1,15 +1,19 @@
-<figure>
-  <blockquote cite="<%= quote.source_url if quote.source_url.present? %>">
+<figure class="play__quotation">
+  <blockquote class="play__quote" cite="<%= quote.source_url if quote.source_url.present? %>">
     "<%= quote.quote %>"
   </blockquote>
 
   <figcaption>
-    <% if quote.source_url.present? %>
-      <a class="u-link--subtle" href="<%= quote.source_url %>">
+    <% if quote.source.present? %>
+      <% if quote.source_url.present? %>
+        <a class="u-link--subtle" href="<%= quote.source_url %>">
+          <%= quote.author %>, <cite><%= quote.source %></cite>
+        </a>
+      <% else %>
         <%= quote.author %>, <cite><%= quote.source %></cite>
-      </a>
+      <% end %>
     <% else %>
-      <%= quote.author %>, <cite><%= quote.source %></cite>
+      <%= quote.author %>
     <% end %>
   </figcaption>
 </figure>
