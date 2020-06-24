@@ -8,12 +8,14 @@
       <%= partial "plays/script-stats" %>
     </header>
 
-    <section class="section__content">
-      <%= image_tag(
-        hero_image_path(current_resource.path),
-        {alt: current_page.data.hero_image_description},
-      ) %>
-    </section>
+    <% if current_page.data.hero_image_description.present? %>
+      <section class="section__content">
+        <%= image_tag(
+          hero_image_path(current_resource.path),
+          {alt: current_page.data.hero_image_description},
+        ) %>
+      </section>
+    <% end %>
 
     <section class="section__content section__content--slim">
       <% if current_page.data.logline.present? %>

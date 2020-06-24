@@ -3,6 +3,7 @@
   --background-color: #ffffff;
   --content-color: #333333;
   --content-color-rgb: 51, 51, 51;
+  --accent-color: var(--content-color);
 
   --action-color: var(--content-color);
   --action-color--hover: rgba(var(--content-color-rgb), 0.75);
