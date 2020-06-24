@@ -1,28 +1,4 @@
-.page--help {
-  @include ordered-list;
-
-  aside {
-    border-left: var(--border);
-    font-size: var(--font-size--small);
-    font-weight: var(--font-weight--body);
-    margin: 0 0 var(--spacing--half);
-    padding: var(--spacing--half);
-  }
-
-  img,
-  picture {
-    border-radius: var(--border-radius);
-  }
-}
-
-.page--opinion,
-.page--review {
-  article {
-    font-family: var(--alt-font-family);
-  }
-}
-
-.page--play {
+.play {
   font-weight: var(--font-weight--body);
 
   blockquote {
@@ -44,4 +20,8 @@
     padding-bottom: var(--spacing--half);
     text-transform: uppercase;
   }
+}
+
+.play__logline {
+  font-size: var(--font-size--medium);
 }

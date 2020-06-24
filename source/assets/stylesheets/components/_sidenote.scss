@@ -1,23 +1,23 @@
-$_review-metadata-width: 18rem;
+$_sidenote-width: 18rem;
 
-.review-metadata {
+.sidenote {
   font-size: var(--font-size--small);
   line-height: var(--line-height--tight);
   margin-top: var(--spacing);
-  max-width: $_review-metadata-width;
+  max-width: $_sidenote-width;
 
   @media(min-width: $breakpoint--large-screen) {
     margin-top: var(--spacing--double);
   }
 }
 
-.review-metadata__title {
+.sidenote__title {
   border-bottom: var(--border);
   font-weight: var(--font-weight--bold);
   margin-bottom: var(--spacing--quarter);
   padding-bottom: var(--spacing--quarter);
 }
 
-.review-metadata__item {
+.sidenote__item {
   padding: var(--spacing--eighth) 0;
 }

@@ -30,48 +30,48 @@
     </div>
   <% end %>
 
-    <article class="section__content section__content--slim">
+    <article class="section__content section__content--slim literary-content">
       <%= yield %>
     </article>
 
     <div class="section__content section__content--secondary">
-      <dl class="review-metadata">
-        <dt class="review-metadata__title">
+      <dl class="sidenote">
+        <dt class="sidenote__title">
           <%= current_article.title %>
         </dt>
 
         <% if current_article.data.writer %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             Written by <%= current_article.data.writer %>
           </dd>
         <% end %>
 
         <% if current_article.data.director %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             Directed by <%= current_article.data.director %>
           </dd>
         <% end %>
 
         <% if current_article.data.venue %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             Playing at <%= current_article.data.venue %>
           </dd>
         <% end %>
 
         <% if current_article.data.cast %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             With <%= current_article.data.cast %>
           </dd>
         <% end %>
 
         <% if current_article.data.running_time_in_minutes %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             <%= current_article.data.running_time_in_minutes.to_s %> min
           </dd>
         <% end %>
 
         <% if current_article.data.genre %>
-          <dd class="review-metadata__item">
+          <dd class="sidenote__item">
             <%= current_article.data.genre %>
           </dd>
         <% end %>

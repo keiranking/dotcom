@@ -21,6 +21,10 @@
 @import "objects/site";
 @import "objects/stack";
 
+@import "pages/help";
+@import "pages/play";
+@import "pages/resume";
+
 @import "components/button";
 @import "components/fine-print";
 @import "components/flytitle";
@@ -28,10 +32,8 @@
 @import "components/header";
 @import "components/heading";
 @import "components/inline-list";
-@import "components/logline";
-@import "components/page";
-@import "components/resume";
-@import "components/review-metadata";
+@import "components/literary-content";
+@import "components/sidenote";
 @import "components/signage";
 
 @import "utilities/u-link";
