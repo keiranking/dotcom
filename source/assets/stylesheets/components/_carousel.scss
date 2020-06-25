@@ -1,0 +1,42 @@
+.carousel {
+  display: grid;
+  grid-template-areas:
+    "images"
+    "thumbnails";
+  grid-template-rows: minmax(auto, 18rem) 4.5rem;
+}
+
+.carousel__image {
+  min-width: 100%;
+  object-fit: contain;
+  scroll-snap-align: start;
+}
+
+.carousel__images {
+  background-color: black;
+  display: flex;
+  grid-area: images;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.carousel__thumbnail {
+  height: 4.5rem;
+  object-fit: cover;
+  width: 100%;
+}
+
+.carousel__thumbnail-link {
+  background-color: lightgreen;
+  flex: 0 0 auto;
+  width: 22%;
+}
+
+.carousel__thumbnails {
+  display: flex;
+  grid-area: thumbnails;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}

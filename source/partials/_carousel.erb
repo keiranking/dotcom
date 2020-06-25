@@ -1,0 +1,22 @@
+<div class="carousel">
+  <nav class="carousel__thumbnails">
+    <% images.each.with_index(1) do |image, index| %>
+      <a class="carousel__thumbnail-link" href="#image-<%= index %>">
+        <%= image_tag(
+          image,
+          class: "carousel__thumbnail",
+        ) %>
+      </a>
+    <% end %>
+  </nav>
+
+  <div class="carousel__images">
+    <% images.each.with_index(1) do |image, index| %>
+      <%= image_tag(
+        image,
+        id: "image-#{index}",
+        class: "carousel__image",
+      ) %>
+    <% end %>
+  </div>
+</div>
