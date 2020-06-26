@@ -42,12 +42,49 @@ quotes:
     quote: A crowning achievement in Caribbean theatre.
 ---
 
-## Media
+<%= partial(
+  "partials/carousel",
+  locals: {
+    image_paths: [
+      "production/nicholas-talks-to-the-other-woman.jpg",
+      "production/making-love-on-the-couch.jpg",
+      "production/dinner-conversation.jpg",
+      "production/samantha-gets-wet.jpg",
+      "production/samantha-gives-nicholas-flowers.jpg",
+      "production/the-couple-embrace.jpg",
+      "production/nicholas-wins.jpg",
+    ],
+  },
+) %>
+
+## Behind the Scenes
 
 <%= partial(
   "partials/carousel",
   locals: {
-    images: [
+    grayscale: true,
+    image_paths: [
+      "behind-the-scenes/audition-script.jpg",
+      "behind-the-scenes/paul-watches-early-rehearsal.jpg",
+      "behind-the-scenes/shawna-makes-a-vase.jpg",
+      "behind-the-scenes/diallo-shoots-at-toyota.jpg",
+      "behind-the-scenes/diallo-takes-the-poster-shot.jpg",
+    ],
+  },
+) %>
+
+## Promotion
+
+<%= partial(
+  "partials/carousel",
+  locals: {
+    image_paths: [
+      "promotion/poster.jpg",
+      "promotion/theatre-facade.jpg",
+      "promotion/teaser-poster.jpg",
+      "promotion/billboard.jpg",
+      "promotion/toyota-tie-in.jpg",
+      "promotion/standee.jpg",
     ],
   },
 ) %>

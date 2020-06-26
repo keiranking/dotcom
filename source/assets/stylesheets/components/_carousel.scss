@@ -24,6 +24,7 @@
 
 .carousel__thumbnail {
   height: 4.5rem;
+  padding-right: var(--spacing--sixteenth);
   object-fit: cover;
   width: 100%;
 }
