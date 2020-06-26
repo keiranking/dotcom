@@ -1,6 +1,11 @@
 html {
   background-color: var(--background-color);
   box-sizing: border-box;
+  scroll-padding-top: var(--spacing);
+
+  @media(min-width: $breakpoint--desktop) {
+    scroll-padding-top: var(--spacing--double);
+  }
 }
 
 *,

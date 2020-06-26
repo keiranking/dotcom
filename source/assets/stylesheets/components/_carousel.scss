@@ -4,6 +4,14 @@
     "images"
     "thumbnails";
   grid-template-rows: minmax(auto, 18rem) 4.5rem;
+  margin: var(--spacing) 0;
+}
+
+.carousel--grayscale {
+  .carousel__image,
+  .carousel__thumbnail {
+    filter: saturate(0);
+  }
 }
 
 .carousel__image {
@@ -30,7 +38,6 @@
 }
 
 .carousel__thumbnail-link {
-  background-color: lightgreen;
   flex: 0 0 auto;
   width: 22%;
 }
