@@ -1,0 +1,69 @@
+$_lightbox-icon-size: 3rem;
+$_lightbox-z-index: 100;
+
+.lightbox {
+  --lightbox-background-color-rgb: 0, 0, 0;
+  --lightbox-content-color-rgb: 255, 255, 255;
+
+  align-items: center;
+  background-color: rgba(var(--lightbox-background-color-rgb), 0.85);
+  display: grid;
+  grid-template-areas: "fullscreen";
+  height: 100%;
+  justify-items: center;
+  left: 0;
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: $_lightbox-z-index;
+
+  &:target {
+    cursor: default;
+    outline: none;
+    visibility: visible;
+  }
+}
+
+.lightbox__close {
+  position: absolute;
+  right: var(--spacing--half);
+  top: var(--spacing--half);
+}
+
+.lightbox__icon {
+  background-color: rgba(var(--lightbox-background-color-rgb), 0.15);
+  border-radius: 50%;
+  fill: rgba(var(--lightbox-content-color-rgb), 0.8);
+  height: $_lightbox-icon-size;
+  width: $_lightbox-icon-size;
+
+  &:hover {
+    background-color: rgba(var(--lightbox-background-color-rgb), 1);
+  }
+}
+
+.lightbox__image {
+  grid-area: fullscreen;
+  height: auto;
+  max-height: 90%;
+  max-width: 90%;
+  width: auto;
+}
+
+.lightbox__navigation {
+  display: grid;
+  grid-template-areas: "previous ... next";
+  grid-template-columns: max-content auto max-content;
+  grid-area: fullscreen;
+  line-height: 0;
+  width: 85%;
+}
+
+.lightbox__next {
+  grid-area: next;
+}
+
+.lightbox__previous {
+  grid-area: previous;
+}

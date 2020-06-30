@@ -1,0 +1,67 @@
+<div>
+  <div class="mosaic">
+    <% image_paths.each.with_index do |image_path, index| %>
+      <% link_to "##{image_id_from_path(image_path)}", class: "mosaic__link #{"mosaic__link--highlight" if highlight_in_gallery?(index)}" do %>
+        <%= image_tag(
+          "#{folder_path(current_resource.path)}/#{image_path}",
+          class: "mosaic__image",
+          loading: "lazy",
+        ) %>
+
+        <%= inline_svg(
+          "expand.svg",
+          class: "mosaic__icon mosaic__icon--expand",
+          title: "Expand image",
+        ) %>
+      <% end %>
+    <% end %>
+  </div>
+
+  <% image_paths.each.with_index do |image_path, index| %>
+    <div class="lightbox" id="<%= image_id_from_path(image_path) %>">
+      <%= link_to(
+        inline_svg(
+          "close.svg",
+          class: "lightbox__icon",
+          title: "Close image gallery",
+        ),
+        "#_",
+        class: "lightbox__close",
+      ) %>
+
+      <%= image_tag(
+        "#{folder_path(current_resource.path)}/#{image_path}",
+        class: "lightbox__image",
+        loading: "lazy",
+      ) %>
+
+      <% if image_paths.length > 1 %>
+        <nav class="lightbox__navigation">
+          <% if index > 0 %>
+            <%= link_to(
+              inline_svg(
+                "previous.svg",
+                class: "lightbox__icon",
+                title: "Previous image",
+              ),
+              "##{image_id_from_path(image_paths[index - 1])}",
+              class: "lightbox__previous",
+            ) %>
+          <% end %>
+
+          <% if index < image_paths.length - 1 %>
+            <%= link_to(
+              inline_svg(
+                "next.svg",
+                class: "lightbox__icon",
+                title: "Next image",
+              ),
+              "##{image_id_from_path(image_paths[index + 1])}",
+              class: "lightbox__next",
+            ) %>
+          <% end %>
+        </nav>
+      <% end %>
+    </div>
+  <% end %>
+</div>

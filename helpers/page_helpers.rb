@@ -3,6 +3,10 @@ module PageHelpers
     Date.parse(date).strftime("%-d&nbsp;%b&nbsp;%Y")
   end
 
+  def highlight_in_gallery?(index)
+    index % 18 == 0 || index % 18 == 11
+  end
+
   def folder_path(page_path)
     page_path.chomp('.html')
   end
@@ -10,6 +14,10 @@ module PageHelpers
   def hero_image_path(page_path)
     filename = folder_path(page_path).split("/")[-1].concat(".jpg")
     "#{folder_path(page_path)}/#{filename}"
+  end
+
+  def image_id_from_path(image_path)
+    image_path.split("/")[-1].chomp(".jpg")
   end
 
   def reading_time_in_minutes(text, readable_words_per_minute = 180)
