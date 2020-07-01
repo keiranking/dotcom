@@ -17,7 +17,7 @@ module PageHelpers
   end
 
   def image_id_from_path(image_path)
-    image_path.split("/")[-1].chomp(".jpg")
+    image_path.split("/")[-1].chomp(".jpg").chomp(".jpeg").chomp(".png").chomp(".gif")
   end
 
   def reading_time_in_minutes(text, readable_words_per_minute = 180)
