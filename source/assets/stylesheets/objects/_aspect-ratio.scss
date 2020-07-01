@@ -1,0 +1,17 @@
+.aspect-ratio {
+  height: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.aspect-ratio--widescreen {
+  padding-top: percentage(9/16);
+}
+
+.aspect-ratio__content {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
