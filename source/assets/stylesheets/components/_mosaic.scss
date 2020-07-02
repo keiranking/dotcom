@@ -6,7 +6,7 @@ $_mosaic-columns: 4;
   grid-template-columns: repeat($_mosaic-columns, 1fr);
   grid-auto-rows: 4.5rem;
   grid-gap: var(--spacing--eighth);
-  margin: var(--spacing) 0;
+  margin: var(--spacing--eighth) 0;
 }
 
 .mosaic__icon {

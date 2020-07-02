@@ -45,6 +45,11 @@ quotes:
 <%= partial "plays/productions" %>
 
 <%= partial(
+  "partials/soundcloud",
+  locals: { color_hex: "121212", track_id: 197675517 }
+) %>
+
+<%= partial(
   "partials/gallery",
   locals: {
     image_paths: [
@@ -66,13 +71,13 @@ quotes:
       "production/samantha-gives-nicholas-flowers.jpg",
       "production/the-couple-embrace.jpg",
       "production/nicholas-wins.jpg",
-    ],
+    ]
   }
 ) %>
 
-<%= partial "plays/quotes" %>
-
 <%= partial(
   "partials/youtube",
-  locals: { video_url: "https://www.youtube.com/embed/n-U8JvOEROw" }
+  locals: { video_id: "n-U8JvOEROw" }
 ) %>
+
+<%= partial "plays/quotes" %>
