@@ -1,0 +1,7 @@
+<h2>
+  Reception
+</h2>
+
+<% current_page.data.quotes.each do |quote| %>
+  <%= partial "plays/quote", locals: { quote: quote } %>
+<% end %>

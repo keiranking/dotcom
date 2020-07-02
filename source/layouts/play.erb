@@ -25,35 +25,7 @@
       <% end %>
 
       <%= partial "plays/actions" %>
-    </section>
 
-    <% if current_page.data.productions.present? %>
-      <section class="section__content section__content--slim">
-        <h2>
-          Production
-        </h2>
-
-        <div class="stack">
-          <% current_page.data.productions.each_with_index do |production, index| %>
-            <%= partial "plays/production", locals: { production: production, index: index } %>
-          <% end %>
-        </div>
-      </section>
-    <% end %>
-
-    <% if current_page.data.quotes.present? %>
-      <section class="section__content section__content--slim">
-        <h2>
-          Reception
-        </h2>
-
-        <% current_page.data.quotes.each do |quote| %>
-          <%= partial "plays/quote", locals: { quote: quote } %>
-        <% end %>
-      </section>
-    <% end %>
-
-    <section class="section__content section__content--slim">
       <%= yield %>
     </section>
   </article>
