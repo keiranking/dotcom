@@ -3,10 +3,6 @@ module PageHelpers
     Date.parse(date).strftime("%-d&nbsp;%b&nbsp;%Y")
   end
 
-  def highlight_in_gallery?(index)
-    index % 18 == 0 || index % 18 == 11
-  end
-
   def folder_path(page_path)
     page_path.chomp('.html')
   end

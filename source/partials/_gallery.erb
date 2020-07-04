@@ -1,16 +1,16 @@
 <div>
-  <div class="mosaic">
+  <div class="gallery gallery--<%= locals.key?(:layout) ? layout : "mosaic" %>">
     <% image_paths.each.with_index do |image_path, index| %>
-      <% link_to "##{image_id_from_path(image_path)}", class: "mosaic__link #{"mosaic__link--highlight" if highlight_in_gallery?(index)}" do %>
+      <% link_to "##{image_id_from_path(image_path)}", class: "gallery__link" do %>
         <%= image_tag(
           "#{folder_path(current_resource.path)}/#{image_path}",
-          class: "mosaic__image",
+          class: "gallery__image",
           loading: "lazy",
         ) %>
 
         <%= inline_svg(
           "expand.svg",
-          class: "mosaic__icon mosaic__icon--expand",
+          class: "gallery__icon gallery__icon--expand",
           title: "Expand image",
         ) %>
       <% end %>
