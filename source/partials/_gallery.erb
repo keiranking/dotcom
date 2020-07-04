@@ -1,5 +1,5 @@
 <div>
-  <div class="gallery gallery--<%= locals.key?(:layout) ? layout : "mosaic" %>">
+  <div class="gallery <%= "gallery--#{layout}" if locals.key?(:layout) %>">
     <% image_paths.each.with_index do |image_path, index| %>
       <% link_to "##{image_id_from_path(image_path)}", class: "gallery__link" do %>
         <%= image_tag(
