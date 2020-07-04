@@ -3,6 +3,10 @@ module PageHelpers
     Date.parse(date).strftime("%-d&nbsp;%b&nbsp;%Y")
   end
 
+  def date_to_year(date)
+    Date.parse(date).strftime("%Y")
+  end
+
   def folder_path(page_path)
     page_path.chomp('.html')
   end
@@ -14,6 +18,10 @@ module PageHelpers
 
   def image_id_from_path(image_path)
     image_path.split("/")[-1].chomp(".jpg").chomp(".jpeg").chomp(".png").chomp(".gif")
+  end
+
+  def mapsify(address)
+    "https://www.google.com/maps/place/#{address.gsub(/\s+/, "+")}"
   end
 
   def reading_time_in_minutes(text, readable_words_per_minute = 180)

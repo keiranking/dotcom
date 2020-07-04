@@ -1,0 +1,11 @@
+.palette {
+  display: grid;
+  grid-gap: var(--spacing--quarter);
+  grid-template-columns: repeat(auto-fit, 2rem);
+  grid-template-rows: 2rem;
+}
+
+.palette__color {
+  background-color: var(--palette-color, white);
+  border-radius: 50%;
+}

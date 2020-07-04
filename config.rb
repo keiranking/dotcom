@@ -26,6 +26,7 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
+page "articles/christmas/*", layout: :christmas
 page "articles/opinions/*", layout: :opinion
 page "articles/film-reviews/*", layout: :review
 page "articles/theatre-reviews/*", layout: :review

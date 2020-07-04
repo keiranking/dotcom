@@ -1,0 +1,26 @@
+.christmas {
+  position: relative;
+
+  h2 {
+    font-family: var(--heading-font-family);
+    font-size: var(--font-size--xlarge);
+    font-weight: var(--font-weight--normal);
+    letter-spacing: normal;
+    line-height: var(--line-height--unleaded);
+    margin-top: var(--spacing--double);
+  }
+}
+
+.christmas__year {
+  color: rgba(var(--content-color-rgb), 0.1);
+  font-family: var(--heading-font-family);
+  font-size: 10rem;
+  left: 0;
+  line-height: 0.5;
+  position: absolute;
+  top: 0;
+
+  @media(min-width: $breakpoint--desktop) {
+    font-size: 16rem;
+  }
+}

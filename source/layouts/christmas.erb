@@ -1,0 +1,54 @@
+<% wrap_layout :layout do %>
+  <h1 class="christmas__year">
+    <%= date_to_year(current_article.data.date) %>
+  </h1>
+
+  <section class="section section--padded">
+    <article class="section__content section__content--slim">
+      <header>
+        <% if current_article.data.dept %>
+          <p class="flytitle flytitle--dept">
+            <%= current_article.data.dept %>
+          </p>
+        <% end %>
+      </header>
+
+      <%= yield %>
+    </article>
+
+    <div class="section__content section__content--secondary">
+      <dl class="sidenote">
+        <dt class="sidenote__title">
+          <%= current_article.data.wrapping_theme %>
+        </dt>
+
+        <% if current_article.data.colors %>
+          <dd class="sidenote__item palette">
+            <% current_article.data.colors.each do |color| %>
+              <span class="palette__color" style="--palette-color: #<%= color %>"></span>
+            <% end %>
+          </dd>
+        <% end %>
+
+        <% if current_article.data.carol && current_article.data.carol.url %>
+          <dd class="sidenote__item">
+            <% link_to current_article.data.carol.url do %>
+              <cite><%= current_article.data.carol.title %></cite>
+              by <%= current_article.data.carol.artist %>
+            <% end %>
+          </dd>
+        <% end %>
+
+        <% if current_article.data.city %>
+          <dd class="sidenote__item">
+            Unwrapped in
+            <%= link_to(
+              current_article.data.city,
+              mapsify(current_article.data.city),
+            ) %>
+          </dd>
+        <% end %>
+      </dl>
+    </div>
+  </section>
+<% end %>
