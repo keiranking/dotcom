@@ -15,10 +15,12 @@
   color: rgba(var(--content-color-rgb), 0.1);
   font-family: var(--heading-font-family);
   font-size: 10rem;
-  left: 0;
-  line-height: 0.5;
+  font-weight: var(--font-weight--normal);
+  line-height: var(--line-height--unleaded);
+  margin: 0;
+  overflow-x: hidden;
   position: absolute;
-  top: 0;
+  top: calc(-1 * var(--spacing--double));
 
   @media(min-width: $breakpoint--desktop) {
     font-size: 16rem;
