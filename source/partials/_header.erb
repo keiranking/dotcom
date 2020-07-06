@@ -2,6 +2,8 @@
   <div class="section__content header">
     <div class="header__logo">
       <%= link_to "keiranking.com", "/", class: "u-link--incognito" %>
+      •
+      <%= link_to current_page.url, current_page.url, class: "u-link--incognito" %>
     </div>
 
     <nav class="header__nav">
