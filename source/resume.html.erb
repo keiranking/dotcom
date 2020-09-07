@@ -1,40 +1,123 @@
+---
+name: Keiran King
+email: me@keiranking.com
+phone: (415) 941-9298
+address_street: 7100 Kennedy Blvd E, Apt 3P
+address_city: Guttenberg, NJ 07093
+
+work:
+  - title: Product Strategy Consultant
+    organization: thoughtbot
+    organization_url: https://www.thoughtbot.com/
+    organization_description: Tech consultancy
+    location: New York, NY
+    start_date: 2018-05-02
+    featured: true
+    highlights_html:
+      - Wrote company guide on
+        <a target="_blank" href="https://thoughtbot.com/playbook/validation/jtbd">Jobs-to-be-Done</a>.
+      - Advised cross-functional MoMA and thoughtbot team on complete rebuild of
+        <a target="_blank" href="https://membership.moma.org">membership.moma.org</a>.
+        Launched in 6 months.
+      - Led product development for Dome —
+        conducted user research on Capitol Hill, introduced lean development and
+        launched in 3 months.
+      - Led user research and design for provider team at Oscar Health.
+      - Built e-commerce sites for Future Method, Iron Range and Prospect Marketplace
+        using a variety of tech stacks (Rails, React, Middleman, Liquid/Shopify).
+        All MVPs built with Agile methods inside 3 months.
+      - Speaker at
+        <a target="_blank" href="https://www.youtube.com/watch?v=XAqfYvcib2I">2019 NYC Design Week</a>,
+        2021 Lead Dev NYC conference (upcoming).
+
+  - title: Columnist
+    organization: The Gleaner
+    location: Kingston, Jamaica
+    start_date: 2014-02-01
+    end_date: 2015-06-30
+    featured: true
+    highlights_html:
+      - Created and wrote popular newspaper column on predatory business
+        and issues of national interest.
+      - Keynote speaker at 2014 Jamaicans for Justice gala,
+        regular guest on local radio and TV talk shows.
+
+  - title: Founder
+    organization: Backstory
+    location: Kingston, Jamaica
+    start_date: 2011-01-01
+    end_date: 2014-07-31
+    featured: true
+    highlights_html:
+      - Founded and grew media startup to 10 employees and revenue of J$7.8M*.
+      - Secured ad partnerships with Toyota, Snapple, et al. worth J$3M annually.
+      - Created and led internship program with 75% female enrollment.
+
+        <small>
+          *about US$88k. Jamaica's GDP/capita in 2012 was US$5.2k.
+        </small>
+
+education:
+  - organization: Recurse Center
+    organization_url: https://www.recurse.com/
+    location: New York, NY
+    start_date: 2017-08-11
+    end_date: 2017-11-21
+
+  - title: Master of Fine Arts
+    short_title: M.F.A.
+    organization: California College of the Arts
+    organization_url: https://www.cca.edu/
+    location: San Francisco, CA
+    start_date: 2014-08-15
+    end_date: 2016-05-15
+
+  - title: Bachelor of Sciences
+    short_title: B.Sc.
+    organization: Ithaca College
+    organization_url: https://www.ithaca.edu/
+    location: Ithaca, NY
+    start_date: 2004-08-15
+    end_date: 2008-05-15
+---
+
 <div class="section section--padded">
   <div class="section__content resume">
     <address class="resume__header">
       <h2 class="resume__author">
-        <%= data.resume.name %>
+        <%= current_page.data.name %>
       </h2>
 
       <div class="resume__contact-info">
         <p>
-          <%= data.resume.address_street %><br />
-          <%= data.resume.address_city %>
+          <%= current_page.data.address_street %><br />
+          <%= current_page.data.address_city %>
         </p>
       </div>
 
       <div class="resume__contact-info">
         <%= link_to(
-          data.resume.email,
-          "mailto:#{data.resume.email}",
+          current_page.data.email,
+          "mailto:#{current_page.data.email}",
           class: "u-link--incognito",
         ) %>
 
         <%= link_to(
-          data.resume.phone,
-          "tel:+1#{data.resume.phone.gsub(/\D/, '')}",
+          current_page.data.phone,
+          "tel:+1#{current_page.data.phone.gsub(/\D/, '')}",
           class: "u-link--incognito",
         ) %>
       </div>
     </address>
 
     <section class="resume__section">
-      <% data.resume.work.each do |experience| %>
+      <% current_page.data.work.each do |experience| %>
         <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
 
     <section class="resume__section">
-      <% data.resume.education.each do |experience| %>
+      <% current_page.data.education.each do |experience| %>
         <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
