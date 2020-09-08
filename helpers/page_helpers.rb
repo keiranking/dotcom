@@ -1,4 +1,10 @@
 module PageHelpers
+  def breadcrumbs(page)
+    hierarchy = [page]
+    hierarchy.unshift hierarchy.first.parent while hierarchy.first.parent
+    hierarchy.collect { |page| link_to(page.data.title, "/#{page.path}") }.join("•")
+  end
+
   def date_to_s(date)
     Date.parse(date).strftime("%-d&nbsp;%b&nbsp;%Y")
   end
