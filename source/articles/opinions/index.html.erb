@@ -1,0 +1,14 @@
+---
+date: 2020-09-01 00:00 UTC
+layout: article
+---
+
+<h1>Opinions</h1>
+
+<ul>
+  <% current_page.children.each do |article| %>
+    <li>
+      <%= link_to article.title, article %>
+    </li>
+  <% end %>
+</ul>
