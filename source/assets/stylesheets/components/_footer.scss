@@ -1,9 +1,14 @@
 .footer {
-  display: flex;
+  border-top: var(--border);
   font-size: var(--font-size--small);
-  justify-content: space-between;
-  padding: var(--spacing-xsmall) 0;
+  padding-top: var(--spacing--half);
+}
 
+.footer__kickbar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--spacing--half);
+  padding: var(--spacing-xsmall) 0;
 }
 
 .footer__nav {
