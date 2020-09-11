@@ -2,7 +2,7 @@
   <section class="section section--padded">
     <header class="section__content section__content--slim">
       <p class="flytitle">
-        <%= titleize(current_article.data.category) %>
+        <%= link_to titleize(current_article.data.category), "/#{current_article.data.category}", class: "u-link--incognito" %>
       </p>
 
       <h1 class="heading heading--literary">

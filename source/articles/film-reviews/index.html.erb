@@ -12,3 +12,13 @@ layout: article
     </li>
   <% end %>
 </ul>
+
+<h1 class="u-margin-top--double">Theatre Reviews</h1>
+
+<ul>
+  <% pages_by_category('theatre-reviews').each do |article| %>
+    <li>
+      <%= link_to article.title, article %>
+    </li>
+  <% end %>
+</ul>
