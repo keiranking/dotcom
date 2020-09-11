@@ -24,6 +24,12 @@ module PageHelpers
     "https://www.google.com/maps/place/#{address.gsub(/\s+/, "+")}"
   end
 
+  def pages_by_category(category)
+    sitemap.resources.select do |resource|
+      resource.data.category.present? and resource.data.category.include?(category)
+    end
+  end
+
   def reading_time_in_minutes(text, readable_words_per_minute = 180)
     (text.split.size.to_f/readable_words_per_minute).round()
   end
