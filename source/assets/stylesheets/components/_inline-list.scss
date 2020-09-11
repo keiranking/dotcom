@@ -1,12 +1,10 @@
 .inline-list {
-  display: flex;
-}
+  * {
+    display: inline;
+  }
 
-.inline-list__item {
-  display: flex;
-  
-  & + &::before {
+  * + *::before {
     content: "·";
-    margin: 0 var(--spacing--quarter);
+    margin: 0 var(--spacing--eighth);
   }
 }

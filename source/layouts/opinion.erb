@@ -12,12 +12,12 @@
       </h1>
 
       <p class="fine-print inline-list">
-        <span class="inline-list__item">
+        <span>
           <%= reading_time_in_minutes(current_article.body) %> min read
         </span>
 
         <% date = date_to_s(current_article.data.publication_date) %>
-        <span class="inline-list__item">
+        <span>
           <%= link_to(
             "published in #{current_article.data.publication} on&nbsp;#{date}",
             current_article.data.publication_url,
