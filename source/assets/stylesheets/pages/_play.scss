@@ -1,14 +1,18 @@
 .play {
-  font-weight: var(--font-weight--body);
+  font-weight: var(--font-weight--light);
 
   h2 {
     border-bottom: var(--border);
-    font-weight: var(--font-weight--body);
+    font-weight: var(--font-weight--light);
     letter-spacing: var(--letter-spacing--loose);
     margin-bottom: var(--spacing--half);
     margin-top: var(--spacing--double);
     padding: var(--spacing--half) 0;
     text-transform: uppercase;
+  }
+
+  p {
+    font-weight: var(--font-weight--light);
   }
 }
 
