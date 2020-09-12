@@ -1,0 +1,14 @@
+---
+date: 2020-09-01 00:00 UTC
+layout: page
+---
+
+<h1>Plays</h1>
+
+<ul>
+  <% current_page.children.each do |play| %>
+    <li>
+      <%= link_to play.data.title, play.url %>
+    </li>
+  <% end %>
+</ul>

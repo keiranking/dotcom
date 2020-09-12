@@ -1,14 +1,14 @@
 ---
 date: 2020-09-01 00:00 UTC
-layout: article
+layout: page
 ---
 
 <h1>Christmas</h1>
 
 <ul>
-  <% current_page.children.each do |article| %>
+  <% current_page.children.each do |christmas| %>
     <li>
-      <%= link_to article.date.year, article %>
+      <%= link_to christmas.date.year, christmas %>
     </li>
   <% end %>
 </ul>
