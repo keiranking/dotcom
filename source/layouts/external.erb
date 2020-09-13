@@ -1,0 +1,24 @@
+<% wrap_layout :layout do %>
+  <section class="section section--padded">
+    <aside class="section__content section__content--slim fine-print external-content__disclaimer">
+      The content on this page is by a third party and reproduced from
+      its original source.
+    </aside>
+
+    <article class="section__content section__content--slim external-content">
+      <header>
+        <h1>
+          <%= current_article.data.title %>
+        </h1>
+
+        <p>
+          <%= current_article.data.author %><br />
+          <%= link_to current_article.data.source, current_article.data.source_url %><br />
+          <%= current_article.date %>
+        </p>
+      </header>
+
+      <%= yield %>
+    </article>
+  </section>
+<% end %>
