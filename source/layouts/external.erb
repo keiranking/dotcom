@@ -1,24 +1,68 @@
-<% wrap_layout :layout do %>
-  <section class="section section--padded">
-    <aside class="section__content section__content--slim fine-print external-content__disclaimer">
-      The content on this page is by a third party and reproduced from
-      its original source.
-    </aside>
+<!DOCTYPE html>
+<html
+  lang="<%= I18n.locale %>"
+  class="
+    <% if current_article %>
+      <% if current_article.data.theme %>
+        <%= "themes--#{current_article.data.theme}" %>
+      <% else %>
+        <%= "themes--#{current_article.data.category}" %>
+      <% end %>
+    <% elsif current_page.data.theme %>
+      <%= "themes--#{current_page.data.theme}" %>
+    <% end %>
+    "
+>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title><%= data.site.title %></title>
+    <%= stylesheet_link_tag "main" %>
+  </head>
 
-    <article class="section__content section__content--slim external-content">
-      <header>
-        <h1>
-          <%= current_article.data.title %>
-        </h1>
+  <body class="site">
+    <main
+      class="
+        <%= current_resource.options[:layout] if current_resource.options[:layout].present? %>
+        "
+      role="main"
+    >
+      <section class="section section--padded">
+        <article class="section__content section__content--slim">
+          <aside class="fine-print">
+            This content is cached from another site.
+            <% if current_article.data.source_url %>
+              <br />
+              <%= link_to "View original source", current_article.data.source_url %>
+            <% end %>
+          </aside>
 
-        <p>
-          <%= current_article.data.author %><br />
-          <%= link_to current_article.data.source, current_article.data.source_url %><br />
-          <%= current_article.date %>
-        </p>
-      </header>
+          <hr />
 
-      <%= yield %>
-    </article>
-  </section>
-<% end %>
+          <header>
+            <h1 class="u-margin-top">
+              <% if current_article.data.source_url %>
+                <%= link_to current_article.data.title, current_article.data.source_url %>
+              <% else %>
+                <%= current_article.data.title %>
+              <% end %>
+            </h1>
+
+            <p>
+              by <%= current_article.data.author %>
+              <br />
+              from <%= current_article.data.source %>
+              <br />
+              <%= date_to_s current_article.data.date %>
+            </p>
+          </header>
+
+          <%= yield %>
+        </article>
+      </section>
+    </main>
+
+    <%= partial "partials/analytics" %>
+  </body>
+</html>
