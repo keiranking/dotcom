@@ -2,6 +2,7 @@
 title: What we have — Forceful but flawed, Mr & Mrs Blacke reveals
   matrimony’s dark side
 date: 2012-08-06 00:00 UTC
+tags: Mr & Mrs Blacke, preview
 
 author: Tyrone Reid
 source: Tallawah

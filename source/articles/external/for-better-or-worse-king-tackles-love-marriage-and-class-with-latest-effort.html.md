@@ -1,6 +1,7 @@
 ---
 title: For better or worse — King tackles love, marriage and class with latest effort
 date: 2012-06-19 00:00 UTC
+tags: Mr & Mrs Blacke, review
 
 author: Tyrone Reid
 source: Tallawah

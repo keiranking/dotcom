@@ -1,6 +1,7 @@
 ---
 title: A riveting Mr & Mrs Blacke
 date: 2012-07-22 00:00 UTC
+tags: Mr & Mrs Blacke, review
 
 author: Marcia Rowe
 source: The Jamaica Gleaner

@@ -1,6 +1,7 @@
 ---
 title: Mr & Mrs Blacke — more style than substance
 date: 2012-08-10 00:00 UTC
+tags: Mr & Mrs Blacke, review
 
 author: Tanya Batson-Savage
 source: Susumba

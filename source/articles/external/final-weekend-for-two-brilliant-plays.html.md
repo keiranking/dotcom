@@ -1,6 +1,7 @@
 ---
 title: Final weekend for two brilliant plays
 date: 2012-08-18 00:00 UTC
+tags: Mr & Mrs Blacke, review
 
 author: Barbara Blake Hannah
 source: The Jamaica Gleaner

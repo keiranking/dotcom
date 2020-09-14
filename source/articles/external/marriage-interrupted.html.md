@@ -1,6 +1,7 @@
 ---
 title: Marriage interrupted
 date: 2012-08-19 00:00 UTC
+tags: Mr & Mrs Blacke, review
 
 author: Owen Tomlinson
 source: The Jamaica Observer

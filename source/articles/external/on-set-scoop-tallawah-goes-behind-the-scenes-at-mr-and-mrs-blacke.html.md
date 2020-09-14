@@ -1,6 +1,7 @@
 ---
 title: On-set scoop — Tallawah goes behind the scenes at Mr & Mrs Blacke
 date: 2012-06-17 00:00 UTC
+tags: Mr & Mrs Blacke, preview
 
 author: Tyrone Reid
 source: Tallawah
