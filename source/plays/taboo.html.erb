@@ -1,0 +1,82 @@
+---
+title: Taboo
+theme: taboo
+
+hero_image_description: "Lisa Williams, Rodney Campbell, Yendi Phillipps and
+  Keiran King in a performance of 'Taboo'"
+logline: A quiet birthday becomes a psychological blitzkrieg when an
+  unsuccessful writer exposes his family's hidden desires.
+synopsis: William is unsuccessful and unhappy. When his sister insists on
+  celebrating his 30th birthday with their spouses, his abrasive manner starts
+  to expose the lies that bind the family together, and the dangerous truths
+  each of them want to hide.
+
+cast_size: 2f, 2m
+duration_in_minutes: 80
+genre: drama
+structure: one act
+
+productions:
+  - date: 2013-07-12 20:00 UTC
+    director: Eugene Williams
+    cast:
+      - Yendi Phillipps as Gina
+      - Rodney Campbell as John
+      - Lisa Williams as Sabrena
+      - Keiran King as William
+    city: Kingston, Jamaica
+    total_performances: 34
+    theatre: The Philip Sherlock Centre for the Creative Arts
+
+quotes:
+  - author: Tyrone Reid
+    quote: A spare, lacerating drama...
+    source: Tallawah
+    source_url: http://www.tallawahmagazine.com/2013/07/anything-goes-sexy-passionate-taboo.html
+  - author: Marcia Rowe
+    quote: Another masterpiece.
+    source: The Jamaica Gleaner
+    source_url: http://jamaica-gleaner.com/gleaner/20130721/ent/ent5.html
+  - author: Tomekha McCarthy
+    quote: Poetic, dramatic, melancholy...
+    source: Artograph
+    source_url: http://artographja.com/2013/08/07/keiran-king-taboo/
+---
+
+<%= partial "plays/synopsis" %>
+
+<%= partial "plays/productions" %>
+
+<%= partial(
+  "partials/gallery",
+  locals: {
+    layout: "mosaic",
+    image_paths: [
+      "behind-the-scenes/the-cast-and-director-talk-shop.jpg",
+      "behind-the-scenes/eugene-watches-a-rehearsal.jpg",
+      "behind-the-scenes/the-crew-watch-a-rehearsal.jpg",
+      "behind-the-scenes/the-cast-rehearse.jpg",
+      "behind-the-scenes/the-warehouse.jpg",
+      "behind-the-scenes/rodney-and-yendi-shoot-the-standee.jpg",
+      "behind-the-scenes/lisa-prepares-backstage.jpg",
+      "promotion/theatre-facade.jpg",
+      "promotion/raisha-does-an-interview.jpg",
+      "promotion/billboard.jpg",
+      "promotion/standee.jpg",
+      "promotion/poster.jpg",
+      "promotion/wkndr-feature.png",
+      "production/family-discussion-at-the-bar.jpg",
+      "production/william-and-sabrena-argue.jpg",
+      "production/gina-takes-charge-of-the-game.jpg",
+      "production/william-and-gina-kiss.jpg",
+      "production/the-cast-takes-a-bow.jpg",
+    ]
+  }
+) %>
+
+<%= partial(
+  "partials/youtube",
+  locals: { video_id: "hY6j6yvG8Is" }
+) %>
+
+<%= partial "plays/quotes" %>
