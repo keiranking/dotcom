@@ -31,6 +31,7 @@ page "articles/external/*", layout: :external
 page "articles/opinions/*", layout: :opinion
 page "articles/film-reviews/*", layout: :review
 page "articles/theatre-reviews/*", layout: :review
+page "plays/*", layout: :play
 
 page "/*.json", layout: false
 page "/*.txt", layout: false

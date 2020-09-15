@@ -2,7 +2,7 @@
   Production
 </h2>
 
-<div class="stack">
+<div class="stack u-margin-bottom">
   <% current_page.data.productions.each_with_index do |production, index| %>
     <%= partial "plays/production", locals: { production: production, index: index } %>
   <% end %>
