@@ -20,4 +20,12 @@
       </li>
     <% end %>
   </ul>
+
+  <% if production.lyricist.present? %>
+    <p class="u-margin-top--half">
+      The book was written by <%= production.lyricist %>,
+      <%= "arranged by #{production.arranger}" if production.arranger.present? %>
+      <%= "and choreographed by #{production.choreographer}" if production.choreographer.present? %>.
+    </p>
+  <% end %>
 </div>
