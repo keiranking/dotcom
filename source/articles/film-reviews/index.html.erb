@@ -6,7 +6,7 @@ layout: page
 <h1>Film Reviews</h1>
 
 <ul>
-  <% current_page.children.each do |article| %>
+  <% current_page.children.sort_by(&:date).reverse.each do |article| %>
     <li>
       <%= link_to article.title, article %>
     </li>
@@ -16,7 +16,7 @@ layout: page
 <h1 class="u-margin-top--double">Theatre Reviews</h1>
 
 <ul>
-  <% pages_by_category('theatre-reviews').each do |article| %>
+  <% pages_by_category('theatre-reviews').sort_by(&:date).reverse.each do |article| %>
     <li>
       <%= link_to article.title, article %>
     </li>
