@@ -37,5 +37,15 @@
     <article class="section__content section__content--slim literary-content">
       <%= yield %>
     </article>
+
+    <% if current_article.data.notes_html %>
+      <div class="section__content section__content--slim u-margin-top">
+        <% current_article.data.notes_html.each do |note| %>
+          <div class="fine-print">
+            <%= note %>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
   </section>
 <% end %>
