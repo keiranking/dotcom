@@ -66,7 +66,7 @@
 
         <% if current_article.data.cast %>
           <dd class="sidenote__item">
-            With <%= current_article.data.cast %>
+            With <%= array_to_sentence current_article.data.cast %>
           </dd>
         <% end %>
 

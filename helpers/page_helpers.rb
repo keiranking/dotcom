@@ -1,4 +1,9 @@
 module PageHelpers
+  def array_to_sentence(array = nil)
+    return array.push("").join if array.length <= 1
+    "#{array[0..-2].join(", ")} and #{array.last}"
+  end
+
   def date_to_s(date)
     Date.parse(date).strftime("%-d&nbsp;%b&nbsp;%Y")
   end
