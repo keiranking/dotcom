@@ -19,11 +19,15 @@
         <span>
           <% if current_article.data.publication.present? %>
             <% date = date_to_s(current_article.data.publication_date) %>
-            <%= link_to(
-              "published in #{current_article.data.publication} on&nbsp;#{date}",
-              current_article.data.publication_url,
-              class: "u-link--subtle",
-            ) %>
+            <% if current_article.data.publication_url.present? %>
+              <%= link_to(
+                "published in #{current_article.data.publication} on&nbsp;#{date}",
+                current_article.data.publication_url,
+                class: "u-link--subtle",
+              ) %>
+            <% else %>
+              published in <%= current_article.data.publication %> on&nbsp;<%= date %>
+            <% end %>
           <% else %>
             <%= date_to_s(current_article.data.date) %>
           <% end %>

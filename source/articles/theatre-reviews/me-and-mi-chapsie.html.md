@@ -5,7 +5,6 @@ date: 2009-11-08 00:00 UTC
 hero_image_description: "A woman rests her hand on the naked torso of a man"
 publication: The Jamaica Gleaner
 publication_date: 2009-11-08 00:00 UTC
-publication_url: http://old.jamaica-gleaner.com
 
 director: Michael Nicholson
 venue: Pantry Playhouse, now playing
