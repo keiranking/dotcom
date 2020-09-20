@@ -15,13 +15,13 @@ running_time_in_minutes: 103
 genre: Comedy
 ---
 
-*Soul Men* is the story of washed-up, estranged bandmates Floyd Henderson
+_Soul Men_ is the story of washed-up, estranged bandmates Floyd Henderson
 (Bernie Mac) and Louis Hinds (Samuel L Jackson) as they journey across the
 United States, into the past, and through each other, to play a comeback
 performance at the Apollo Theater in Harlem, New York.
 
-Directed by Malcolm Lee, cousin to the African American auteur Spike Lee (*Do
-the Right Thing, Bamboozled*), the film shows us the unforgiving side of fame,
+Directed by Malcolm Lee, cousin to the African American auteur Spike Lee (_Do
+the Right Thing, Bamboozled_), the film shows us the unforgiving side of fame,
 when the music, money and media attention have disappeared, leaving Henderson
 and Hinds aimless and penniless.
 
@@ -34,8 +34,8 @@ sniping banter that passes for male bonding between the two musicians. But where
 the script should have moved beyond cheap shots and cheaper motel rooms, the
 scribes substitute profanity for profundity.
 
-Director Lee’s pedigree stands in contrast to his résumé. *Soul Men* joins
-previous work *Undercover Brother* (2002) and *Roll Bounce* (2005) in the
+Director Lee’s pedigree stands in contrast to his résumé. _Soul Men_ joins
+previous work _Undercover Brother_ (2002) and _Roll Bounce_ (2005) in the
 uncomfortable space between parody and stereotype. Lee is unsure of his
 audience, and the result panders to black and white alike. His contemporary,
 Tyler Perry, hews to safer themes of family, community and religious unity.
@@ -57,13 +57,13 @@ paychecks, between a principle and a principal, a never-ending line of
 sycophantic, shining, smiling faces from Bill Robinson to Bill Cosby, from Eddie
 Anderson to Eddie Murphy.
 
-It is unfortunate that Mac should have *Soul Men* as his coda; his film and
+It is unfortunate that Mac should have _Soul Men_ as his coda; his film and
 television work showed a man rapidly mastering his craft. His social commentary
 was sharp, but accessible; his humour broad, but biting. His eponymous sitcom,
-*The Bernie Mac Show*, skewered African American family life for the generation
-born during *The Cosby Show*.
+_The Bernie Mac Show_, skewered African American family life for the generation
+born during _The Cosby Show_.
 
-*Soul Men* reaches for a bit of history itself—Hinds and Henderson’s comeback
+_Soul Men_ reaches for a bit of history itself—Hinds and Henderson’s comeback
 performance is a tribute to the deceased third member of their fictional group
 The Real Deal, Marcus Hooks, played by real-life soul superstar John Legend.
 Soul legend Isaac Hayes also makes an appearance. It seems that Lee and company

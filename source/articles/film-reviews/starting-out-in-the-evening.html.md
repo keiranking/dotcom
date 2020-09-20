@@ -16,7 +16,7 @@ genre: Drama
 Making art about art, a vaguely incestuous and yet high-minded endeavour, can
 result in the cultural equivalent of English royalty: an overburdened and
 pretentious product coated with grandeur but ultimately quite dull. That
-*Starting Out in the Evening*, a film which references Faulkner, Hemingway and
+_Starting Out in the Evening_, a film which references Faulkner, Hemingway and
 Narayan, escapes such dreary elitism is due equally to Frank Langella’s
 exquisite performance and the writing of Fred Parnes and Andrew Wagner (who also
 directed).
@@ -55,7 +55,7 @@ perennially adrift, steaming towards forty without a partner or a child and in
 desperate need of both. Her lithe physicality and angular face toy with shadow
 and light; she has that indefinable quality, like Diane Lane and Maria Bello,
 that compels us to watch her whenever she is onscreen and to search for her when
-she is not. Also of note is Adrian Lester (of AMC’s *Hu$tle*) as Ariel’s
+she is not. Also of note is Adrian Lester (of AMC’s _Hu$tle_) as Ariel’s
 on-again, off-again, on-again love interest. Their tender, complicated
 relationship is one of the best parts of this well-written film (more extra
 credit for presenting an interracial couple as normalized and part of the
@@ -85,7 +85,7 @@ past their traditional breakpoints to provide poignant and honest moments.
 The film ends where it began: with Leonard at his typewriter, staring into the
 middle distance. And, as with all good art about art, the theme is not a trumpet
 note blared across the house speakers but a soft melody that may exist only
-inside your head. *Starting Out in the Evening* does not insist that art is
+inside your head. _Starting Out in the Evening_ does not insist that art is
 easy, or that it is devilishly difficult, or that it is the province of a gifted
 few, although it does say these things. It suggests that the true essence of art
 is lived experience, that in our triumphs and tragedies, our most private
@@ -93,5 +93,5 @@ suffering and personal ecstasies, we are each great artists, with some good work
 already behind us and with a nagging desire to eke out just one more opus – a
 novel, an improbable romance, a commitment, a child. Art is not great because
 New York critics lauded it fifty years ago; it is great because the artist knows
-that it is honest, it is true, and it is grounded in reality. *Starting Out in
-the Evening* is honest, true and grounded in reality, and therefore it is art.
+that it is honest, it is true, and it is grounded in reality. _Starting Out in
+the Evening_ is honest, true and grounded in reality, and therefore it is art.

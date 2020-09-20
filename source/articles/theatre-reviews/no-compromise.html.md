@@ -12,7 +12,7 @@ venue: Pantry Playhouse, now playing
 writer: Balfour Anderson
 ---
 
-Balfour Anderson, as described in the programme notes for *No Compromise*, has
+Balfour Anderson, as described in the programme notes for _No Compromise_, has
 written 15 one-act plays and twice as many feature-length shows, including a
 couple L.T.M. pantomimes, supposedly our premier national showcase. The man has
 spent a lot of time putting pen to paper, or word to screen, or whatever his
@@ -36,7 +36,7 @@ better at capturing scents than mates, is looking for a second chance at love;
 Monique Smith, having bounced between jobs, locations and relationships, is
 looking for stability at work and at home.
 
-The first half of *No Compromise* is thus quite enjoyable, as Stanley and
+The first half of _No Compromise_ is thus quite enjoyable, as Stanley and
 Monique dance around their attraction. Actors Bobby Smith and Aisha Davis fall
 short of looking in love, but their performances are still entertaining. Both
 make good use of their physicality. Smith has the air of a man who has always
@@ -47,7 +47,7 @@ seem comfortable, although Davis may have been distracted by opening night
 jitters. Smith is at ease playing his enamoured businessman.
 
 But having more or less achieved their objectives, the second act leaves them
-stranded, and *No Compromise* never fully recovers. Nadia Khan as confidante
+stranded, and _No Compromise_ never fully recovers. Nadia Khan as confidante
 Kathy and Ainsley Whyte in dual roles as Mr Thomas and Pastor Myrie energize the
 stage with their comic timing and presence, but the actors cannot (and should
 not) rescue the drifting script.
@@ -62,5 +62,5 @@ proliferate on the set, add a touch of realism.
 Playwright Anderson tackles one of the unwieldy universals—the search for love.
 He gives us two of life’s messy acts—the excitement of the chase, and the
 stultifying routine that can subsequently steal in, like parasitic vines, and
-strangle a relationship. It’s just too bad *No Compromise* follows the same
+strangle a relationship. It’s just too bad _No Compromise_ follows the same
 trajectory.

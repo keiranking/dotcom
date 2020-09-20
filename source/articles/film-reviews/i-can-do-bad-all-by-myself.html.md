@@ -32,11 +32,11 @@ dangers makes old men a scarce commodity.
 Madea’s grandmotherly mish-mash of empathy and empowerment ignited Perry’s
 drag-to-riches rise — he reprised the character in a string of hit plays, which
 subsequently sold well on DVD, and were subsequently adapted into a string of
-hit movies, the eighth of which, *Tyler Perry’s I Can Do Bad All By Myself*,
+hit movies, the eighth of which, _Tyler Perry’s I Can Do Bad All By Myself_,
 opened on Friday.
 
 The content of a Tyler Perry movie is simultaneously all-important and
-inconsequential. *I Can Do Bad All By Myself* stars Tajari P Henson as an
+inconsequential. _I Can Do Bad All By Myself_ stars Tajari P Henson as an
 alcoholic nightclub singer (is there any other kind?) in a relationship with a
 married man. Her sister’s three children, teetering on the edge of delinquency,
 arrive on her doorstep, newly homeless and parentless. Thus springs forth all
@@ -50,8 +50,8 @@ Both men built their own movie studios — Disney in California, Perry in Georgi
 Both capitalized on the popularity of a single character — Mickey Mouse and
 Madea. And both men, at age 36, catapulted from businessmen to scions based on
 the success of niche films — Disney with his cel-animated movies for children,
-starting with *Snow White and the Seven Dwarfs* (1937), and Perry, with his
-race-conscious pictures, starting with *Diary of a Mad Black Woman* (2005).
+starting with _Snow White and the Seven Dwarfs_ (1937), and Perry, with his
+race-conscious pictures, starting with _Diary of a Mad Black Woman_ (2005).
 
 But Perry, with his unique status outside the Hollywood mainstream, his prolific
 pace of production and his ostentatious dress sense, begs another comparison, to
@@ -62,15 +62,15 @@ were underserved. And, like Perry, he saw an opportunity.
 Segregation had forced the creation of hundreds of movie theatres exclusively
 for blacks. Micheaux, with money procured through ingenuity, perseverance and
 wearing one’s best suits, started churning out pictures with subjects that
-anticipated Tyler Perry’s oeuvre by 80 years: *Within Our Gates* (1920), *When
-Men Betray* (1928), *Wages of Sin* (1929). Michauex gave work to underemployed
+anticipated Tyler Perry’s oeuvre by 80 years: _Within Our Gates_ (1920), _When
+Men Betray_ (1928), _Wages of Sin_ (1929). Michauex gave work to underemployed
 Hollywood actors and newcomers (like leading man Paul Robeson), a sympathy
-shared by Perry (*I Can Do Bad All By Myself* gives major supporting roles to
+shared by Perry (_I Can Do Bad All By Myself_ gives major supporting roles to
 Brian White and Adam Rodriguez).
 
 Micheaux’s films are unremembered — perhaps, given their quality, rightly so —
 but his legacy gave us independent black filmmakers like Melvin van Peebles (in
 the 1970s), Robert Townsend (1980s), Spike Lee (1990s), and now Tyler Perry. So
-while Perry’s output — like *I Can Do Bad All By Myself* — may be mediocre, with
+while Perry’s output — like _I Can Do Bad All By Myself_ — may be mediocre, with
 luck he can look forward to the paradoxical honour of being forgotten, but not
 forsaken.

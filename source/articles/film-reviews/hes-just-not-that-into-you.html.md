@@ -26,7 +26,7 @@ get your hopes up only to get let down.
 But once in a while, just once in a while, what seemed like another ordinary
 evening turns into a night that leaves you smiling.
 
-And so it is with *He’s Just Not That Into You*, a by-the-numbers chick-flick
+And so it is with _He’s Just Not That Into You_, a by-the-numbers chick-flick
 that becomes more than the sum of its ensemble parts. It’s about the modern yet
 timeless tensions and trials of love — sex, mindgames and stupid mistakes in the
 age of MySpace and voicemail.
@@ -44,7 +44,7 @@ Long) is single, but happy, until he meets Gigi, and... you get the idea. Loving
 someone, and having them love you back, is a lot of hard work.
 
 Abby Kohn and Marc Silverstein rose to their equally difficult job adapting
-*He’s Just Not That Into You* from Greg Behrendt and Liz Tuccillo’s self-help
+_He’s Just Not That Into You_ from Greg Behrendt and Liz Tuccillo’s self-help
 book of the same name. The title is one of several chapters (e.g., “if he’s
 sleeping with someone else”) used in the film, introduced with
 woman-on-the-street interview segments and tying into various character arcs.
@@ -53,10 +53,10 @@ The writing is snappy without being self-conscious.
 Jennifers Aniston and Connelly stand out amongst uneven cast performances.
 Connelly has a chance to demonstrate her comic timing, and Aniston is right at
 home, playing yet another version of the fashion-conscious girl-next-door she
-honed as Rachel Greene in her hit American sitcom, *Friends*.
+honed as Rachel Greene in her hit American sitcom, _Friends_.
 
-Every film reflects the politics of its day, and the fun in *He’s Just Not That
-Into You* is tempered by its re-mythologizing of the inevitability of
+Every film reflects the politics of its day, and the fun in _He’s Just Not That
+Into You_ is tempered by its re-mythologizing of the inevitability of
 monogamous, heterosexual union.
 
 It is disappointing, if sadly expected, to see homosexual relationships, and
@@ -70,5 +70,5 @@ stereotypes — the tight shirts, affected gestures and supportive ear. This is
 especially unhelpful in a country like Jamaica, where same-sex intimacy is still
 illegitimised.
 
-Despite its bothersome bias, *He’s Just Not That Into You* is the best kind of
+Despite its bothersome bias, _He’s Just Not That Into You_ is the best kind of
 first date — when it’s over, you want to do it all again tomorrow.

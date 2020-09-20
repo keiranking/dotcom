@@ -31,10 +31,10 @@ watching each match, and for viewers, the bloodlust, nationalism and awe fuse
 into a powerful televisual drug. Walk into a bank or bar with a TV and witness
 its power — all necks craned and eyes fixed in the same upward direction.
 
-With so many fans soaking up *o jogo bonito*, you’d think scrimmage would
+With so many fans soaking up _o jogo bonito_, you’d think scrimmage would
 improve. Nope. Run onto the neighbourhood green this month at your own peril, as
 your friends try out the soaring passes, laser-guided one-twos and fancy
-footwork they see onscreen. Needless to say, the [*Estádio do Maracanã*][2]
+footwork they see onscreen. Needless to say, the [_Estádio do Maracanã_][2]
 could fit between the ambition and the ability of most weekend warriors,
 resulting in games where you spend as much time retrieving the ball as receiving
 it.

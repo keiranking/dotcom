@@ -17,14 +17,14 @@ running_time_in_minutes: 100
 genre: Comedy
 ---
 
-*Hotel for Dogs* is a perfectly functional movie about American orphan siblings
+_Hotel for Dogs_ is a perfectly functional movie about American orphan siblings
 Andi and Bruce (Emma Roberts and Jake Austin) who rescue stray dogs from an
 ignominious end at the pound. Familiar with the wrong side of the law, the pair
 take refuge in an improbably-abandoned hotel which becomes home to the hounds.
 
 The simple but strong parallels between the children and their canine companions
 hold the film together. Suitably awful foster parents (Kevin Dillon of
-*Entourage* and Lisa Kudrow of *Friends*) and an awfully besuited social
+_Entourage_ and Lisa Kudrow of _Friends_) and an awfully besuited social
 worker/father figure (Don Cheadle) provide the moral poles. When we meet them,
 Andi and Bruce bounce from one to the other, unable to find their place.
 Managing the mutts, however, they make their own family, of a kind, and navigate
@@ -52,7 +52,7 @@ You might say we are a great nation.
 
 If you are puzzled and worried, therefore, by the sociological epidemic sweeping
 across our land, where our women burn their hair straight and our men bleach
-their skin light, look no further than *Hotel for Dogs*.
+their skin light, look no further than _Hotel for Dogs_.
 
 Emma Roberts, as heroine Andi, could be on the payroll for Gap, Dove and
 L’Oréal; her complexion and coiffure are flawless. Inevitably, a preternaturally
@@ -60,12 +60,12 @@ handsome boy, Dave (Johnny Simmons), shows up to woo her. Conversely,
 African-American co-star Kyla Pratt is given coveralls, pigtails, and an
 overweight, overzealous suitor. Never mind she also has the hots for Dave; she’s
 just there for emotional support. Don Cheadle, who imbues almost any dialogue
-with dignity (*Ocean’s Thirteen* notwithstanding), is here relegated to actual
+with dignity (_Ocean’s Thirteen_ notwithstanding), is here relegated to actual
 child support. In one arbitrary scene, a plus-size black woman waddles onscreen
 to provide comic relief.
 
 This is not appropriate entertainment — not for adults, and certainly not for
 our children, who have the persistent habit of growing into the adults of
-tomorrow. As the credits roll for *Hotel for Dogs*, the producers are quick to
+tomorrow. As the credits roll for _Hotel for Dogs_, the producers are quick to
 remind us that no animals were harmed. If you want to say the same for your
 young loved ones, choose another movie. Its bite is a lot worse than its bark.

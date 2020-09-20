@@ -12,7 +12,7 @@ venue: The Little Little Theatre, now playing
 writer: Trevor Rhone
 ---
 
-Is there anything left to say about *Smile Orange*?
+Is there anything left to say about _Smile Orange_?
 
 Who amongst us, almost four decades after its initial run, does not know its
 quintessentially Jamaican protagonist, the pragmatic and irrepressible trickster
@@ -22,7 +22,7 @@ or Marcus Garvey, men who lived and died but have since faded into the obscure
 purgatory of history textbooks and primary school walls.
 
 Who amongst us, almost three million souls surrounded by white sand and water,
-is ignorant of its truths? *Smile Orange* tells us about ourselves, as art
+is ignorant of its truths? _Smile Orange_ tells us about ourselves, as art
 should—about living in America’s shadow; about using what you have to get what
 you want; about wanting what you can’t have; about the white man and the black
 man and everything in between; and finally, about how Jamaica is, and must be, a
@@ -31,12 +31,12 @@ place where these truths are self-evident.
 And who amongst us is not indebted to its scribe, the incomparable Trevor Rhone?
 The man cobbled together a rural childhood, a foreign education and an
 intractable dissatisfaction with his circumstance into a string of stage plays
-stretching from *The Gadget* (1969) and *Smile Orange* (1971) to *Old Story
-Time* (1979) and *Two Can Play* (1982). Even that impressive list
+stretching from _The Gadget_ (1969) and _Smile Orange_ (1971) to _Old Story
+Time_ (1979) and _Two Can Play_ (1982). Even that impressive list
 underrepresents his contribution to the ongoing experiment called Jamaica—for
-instance, co-writing *The Harder They Come* (1972) with the late Perry Henzell.
+instance, co-writing _The Harder They Come_ (1972) with the late Perry Henzell.
 
-*Smile Orange* was Rhone’s first hit, and deservedly so, running for 245
+_Smile Orange_ was Rhone’s first hit, and deservedly so, running for 245
 performances. Although the new production is at The Little Little Theatre,
 rather than the more historically resonant Barn, the magic lingers still. So
 much time has passed that the stage, dressed and waiting for actors, is by
@@ -46,7 +46,7 @@ desk, the pastel orange and sea green walls, the cursive hotel insignia, the
 scuffed furniture in the waiters’ area.
 
 And then the lights are up, Ringo bustles down the aisle, Joe changes his coat,
-Miss Brandon fixes her make-up, and *Smile Orange* pulls you into its peculiar
+Miss Brandon fixes her make-up, and _Smile Orange_ pulls you into its peculiar
 world, now simultaneously past and present. Ringo, once a young, lithe Carl
 Bradshaw, much later an energetic Glen Campbell, is now the wiry, madcap Donald
 Anderson, who slips comfortably into the iconic orange waistcoast and bowtie.
@@ -63,7 +63,7 @@ into a theatre, and thus a house into a home. Why not a new play, from hands
 informed by all that has gone before, by gadgets and games, schools and smiles,
 oranges and old stories?
 
-If you haven’t seen *Smile Orange*, go and see it. If you have seen it, go and
+If you haven’t seen _Smile Orange_, go and see it. If you have seen it, go and
 remind yourself. But in the warm afterglow of the production, when smiles come
 easily, if you see Trevor Rhone, tell him he still has the last laugh, inside,
 waiting to come out.

@@ -15,7 +15,7 @@ writer: A R Gurney
 Dear Reader,
 
 The most endearing little play opened last weekend, and you have got to see it.
-It’s called *Love Letters*. It’s very simple. Two actors come out on stage and
+It’s called _Love Letters_. It’s very simple. Two actors come out on stage and
 sit at desks tilted away from each other. On some nights, it’s Hilary Nicholson
 and Paul Issa (we’ll get to them in a bit); on other nights, Nadean Rawlins and
 Alwyn Scott.
@@ -29,7 +29,7 @@ play the fool.
 
 To tell you it is good, or that you should grab all your friends, pile them into
 an SUV, and cram them into the hard, fold-down seats at the Philip Sherlock
-Centre for the Creative Arts still doesn’t do *Love Letters* justice. It is not
+Centre for the Creative Arts still doesn’t do _Love Letters_ justice. It is not
 good. It is great theatre. Extraordinary theatre. The closest thing to proof of
 its greatness is that it was nominated for a Pulitzer Prize (for Drama) in 1990.
 The real proof, of course, is when you laugh and then stop laughing, cry and
@@ -47,7 +47,7 @@ pages upon pages for his confidante.
 
 Since the characters say so much about themselves and each other, and since the
 words do not have to be memorized, the actors could have succumbed to laziness,
-phoning in easy performances. Laziness aside, *Love Letters* is the kind of
+phoning in easy performances. Laziness aside, _Love Letters_ is the kind of
 production that lends itself to the busy actor (like Nadean Rawlins).
 
 But Paul Issa delivers his lines with deliberate care and an understated
@@ -59,8 +59,8 @@ Nicholson is good, and better than most would be, but never allows us to forget
 that she is acting, and we are watching.
 
 Brian Heap, for some time now, has been staging excellent, acclaimed works like
-*Love Letters*—theatre that falls outside, often far outside, the Jamaican
+_Love Letters_—theatre that falls outside, often far outside, the Jamaican
 mainstream—and he should be rewarded for his efforts. You should reward him.
-Skip the movies next weekend, and pay for the privilege to know *Love Letters*.
+Skip the movies next weekend, and pay for the privilege to know _Love Letters_.
 
 Your friend always, The Gleaner

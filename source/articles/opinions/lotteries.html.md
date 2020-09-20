@@ -26,8 +26,8 @@ on lottery tickets.
 
 It’s hard to see the folly through the blinding light of fortune, and you might
 be itching to scratch your favourite numbers at the corner vendor, entranced by
-the proximity of wealth. *Hey, those guys were struggling just like me, and now
-they’re filthy rich! Maybe I’ll be next!* Don’t do it. You’re a thousand times
+the proximity of wealth. _Hey, those guys were struggling just like me, and now
+they’re filthy rich! Maybe I’ll be next!_ Don’t do it. You’re a thousand times
 more likely to be murdered by Christmas than hit the Lotto jackpot. [Playing the
 lottery is a fool’s errand][3], and a fool and his money… well, you know the
 rest.

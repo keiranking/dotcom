@@ -16,7 +16,7 @@ running_time_in_minutes: 107
 genre: Musical
 ---
 
-When Alan Parker directed *Fame* in 1980, he had already spent twenty years
+When Alan Parker directed _Fame_ in 1980, he had already spent twenty years
 writing ad copy, then television commercials, then directing them, then writing
 movies, then directing them. His confidence and experience is evident throughout
 the musical — in the brevity and playfulness of the opening audition sequence;
@@ -36,7 +36,7 @@ man at all.
 Tancharoen, now 23, parlayed his teenage talent for choreography into video
 collaborations with MTV darlings Britney Spears, Christina Aguilera and Jesssica
 Simpson. His immersion in the world of video pop landed him — prematurely, it
-turns out — in the director’s chair for *Fame*.
+turns out — in the director’s chair for _Fame_.
 
 The result is adolescent — lots of style with scant substance. Given his roots,
 it’s no surprise that the dancing looks incredible, as freshly ripened bodies
@@ -45,9 +45,9 @@ feet leave the parquet floor, they soar. And every so often, a moment of
 slow-motion grants the oldest and sturdiest cinematic pleasure — the human body
 in flight.
 
-But Tancharoen’s *Fame* remains empty — his Big Apple has no core of humanity,
+But Tancharoen’s _Fame_ remains empty — his Big Apple has no core of humanity,
 his high school no ring of authenticity. The students look less like
-post-pubescent New Yorkers and more like the cast of *High School Musical*. The
+post-pubescent New Yorkers and more like the cast of _High School Musical_. The
 original, made six years before Tancharoen was born, created a environment where
 English class makes Leroy hurl his fist through a glass window, where Hilary has
 an abortion to preserve her ballerina body, and where Coco takes off her clothes
@@ -55,13 +55,13 @@ because she has no choice. It was rated R, for realism.
 
 Tancharoen, and scribe Allison Burnett, by contrast, present a sanitized PG-13
 world without strong language or strong leads, a launching pad for a franchise
-to compete with Miley Cyrus. *Fame*’s casting of two black actors — Naturi
+to compete with Miley Cyrus. _Fame_’s casting of two black actors — Naturi
 Naughton and Collins Pennie — and two white ones — Kay Panabaker and Asher Book —
 is all about capturing the widest demographic in Obama’s America. MGM, the
 studio behind the remake, has been struggling to revive its properties,
-relaunching James Bond, the Pink Panther and Rocky Balboa in 2006, *Fame* this
-year, and *Robocop* in 2011.
+relaunching James Bond, the Pink Panther and Rocky Balboa in 2006, _Fame_ this
+year, and _Robocop_ in 2011.
 
 But in their mad scramble to make money and move on, Tancharoen, Burnett and MGM
-forgot the whole point of *Fame* — you have to earn it. If you have $600, stay
+forgot the whole point of _Fame_ — you have to earn it. If you have $600, stay
 at home and buy the original on DVD from Amazon.com.

@@ -19,13 +19,13 @@ genre: Action, Fantasy
 Superheroes and superstars have three things in common — they enjoy the fickle,
 fleeting adoration of legions of fans, they are held to a higher moral standard
 than the rest of us, and they seem incapable of calling it quits. That’s why,
-when Bruce Wayne shuts down his basement Batcave in *The Dark Knight*, when
-Peter Parker tosses his latex in the garbage in *Spider-Man 2*, when Bob and
-Helen Parr are relegated to stultifying suburbia in *The Incredibles*, our sixth
+when Bruce Wayne shuts down his basement Batcave in _The Dark Knight_, when
+Peter Parker tosses his latex in the garbage in _Spider-Man 2_, when Bob and
+Helen Parr are relegated to stultifying suburbia in _The Incredibles_, our sixth
 sense tingles — we know it’s a matter of time before the cape and cowl go back
 on.
 
-That sense of anticipation runs through the first half of *Watchmen*, an
+That sense of anticipation runs through the first half of _Watchmen_, an
 ambitious, heavy-handed American dystopia set in an alternate 1985. Through an
 exquisitely-crafted early sequence, we see that America has decisively won the
 Vietnam conflict, Richard Nixon is still President, and that the Cold War is
@@ -49,7 +49,7 @@ Comedian, “What happened to the American dream?” The chilling reply: “It c
 true.”
 
 But somewhere between the dirty streets of Manhattan and the barren surface of
-Mars, *Watchmen* loses its way. After smaller stories of pedophiliac murderers
+Mars, _Watchmen_ loses its way. After smaller stories of pedophiliac murderers
 in New York and war criminals in Hanoi, suddenly the Watchmen are fighting in a
 faux pyramid in Antarctica to save the world from doom. It’s the curse of the
 blockbuster that pyrotechnics too often take priority over plot. The film’s
@@ -58,7 +58,7 @@ world. Yawn.
 
 The more interesting questions are whether the world is worth saving, and from
 whom. Writers David Hayter and Alex Tse force us into philosophical
-difficulties, but then provide too-easy answers. In *Watchmen*, the threat to
+difficulties, but then provide too-easy answers. In _Watchmen_, the threat to
 humanity is human antagonism; the threat to America is American aggression.
 These are not problems solved by a knockout punch, no matter how beautifully
 rendered.
@@ -66,5 +66,5 @@ rendered.
 The film is also overly long, at 163 minutes. Anticlimactic, moralizing speeches
 don’t make it feel any shorter. Director Jack Snyder and editor William Hoy
 should have shaved a half hour from the running time, leaving Mars and
-Antarctica on the cutting room floor. As *Watchmen* keeps reminding us, the
+Antarctica on the cutting room floor. As _Watchmen_ keeps reminding us, the
 world we’ve created is cold and unforgiving enough.

@@ -13,24 +13,24 @@ writer: Neila Ebanks/ahdri zhina mandiela
 ---
 
 New York has The Juilliard School. New York has Tisch School of the Arts. New
-York has LaGuardia Arts (of *Fame* fame). London has the University of the Arts.
+York has LaGuardia Arts (of _Fame_ fame). London has the University of the Arts.
 London has the Royal College of Art. London has the Royal Shakespeare Company.
 
 Kingston has the Edna Manley College of the Visual and Performing Arts.
 
-You could read that as a punchline—*New York and London, cultural behemoths with
-8 million people each, but Kingston, ha!* Or you could read it with
-pride—*That’s right! All major trading cities have great art, great artists, and
-schools to create them!* Your response depends partly on what you think of
+You could read that as a punchline—_New York and London, cultural behemoths with
+8 million people each, but Kingston, ha!_ Or you could read it with
+pride—_That’s right! All major trading cities have great art, great artists, and
+schools to create them!_ Your response depends partly on what you think of
 Kingston as a city, and partly on what you think of Edna Manley as a school.
 
 Let’s talk about the latter. Last weekend, Edna Manley closed its double-bill
-production of *PSSST!* and *dark diaspora* [sic], two short performance pieces.
-They defy brief description, but here’s an attempt. The first piece, *PSSST!*,
+production of _PSSST!_ and _dark diaspora_ [sic], two short performance pieces.
+They defy brief description, but here’s an attempt. The first piece, _PSSST!_,
 was a series of skits and monologues centred around male/female interaction,
 developed mostly from the actors’ actual experiences. It was directed and
 choreographed by Neila Ebanks as “an experiment in a physical way of acting.”
-The second, *dark diaspora*, was an amorphous student presentation of dub poetry
+The second, _dark diaspora_, was an amorphous student presentation of dub poetry
 written and directed by ahdri zhina mandiela, the artist currently in residence
 at the college.
 
@@ -40,7 +40,7 @@ actors, bless their hearts, were bright-eyed and full of earnest energy. Shayne
 Powell and Joanna Johnson both grabbed attention thanks to raw stage presence.
 
 But the twin productions were let down by their architects. The segments in
-*PSSST!* were uneven and, at times, overloaded with stimuli. When the students
+_PSSST!_ were uneven and, at times, overloaded with stimuli. When the students
 recited poetry by Teneile Warren and Samuel Gordon, the words flew by faster
 than the audience could process them. The opening segment, which placed the
 actors amongst the raked audience, was diminished by images projected on the
@@ -49,7 +49,7 @@ like a garden sprinkler. And what other way to act is there besides “a physica
 way?” All acting is physical. If Neila Ebanks meant something other than the
 redundant and fairly obvious, she failed to communicate it.
 
-*dark diaspora*, through no fault of the students, was wholly incomprehensible.
+_dark diaspora_, through no fault of the students, was wholly incomprehensible.
 Perhaps theatre critics are just slow on the uptake. But mandiela’s unwieldy
 language left everyone in the audience confused, both the lay and the literate.
 The student performers (with the possible exception of Ms Johnson) also seemed
@@ -63,5 +63,5 @@ the iron-fisted constraint of financial viability (Brian Heap’s University
 Players is another). It is uniquely positioned, in Jamaica, to train our nascent
 thespians, playwrights and directors. But it should do so with a firm grasp of
 the local theatre landscape, knowing why the school exists, for whom it exists,
-and what it hopes to achieve. The staging of *PSSST!/dark diaspora* suggests
+and what it hopes to achieve. The staging of _PSSST!/dark diaspora_ suggests
 these questions remain unanswered.

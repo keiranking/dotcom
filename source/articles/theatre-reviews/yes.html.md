@@ -11,16 +11,16 @@ writer: Fr Richard Ho Lung
 ---
 
 The life of Rev Fr Richard Ho Lung — rebel cum priest cum rebel priest — is a
-story waiting to be told. It already has — in the autobiographical *Diary of a
-Ghetto Priest*, published in book form and a long-running column in the Jamaica
+story waiting to be told. It already has — in the autobiographical _Diary of a
+Ghetto Priest_, published in book form and a long-running column in the Jamaica
 Gleaner, where the founder and Superior General of the Missionaries of the Poor
 parses both his life and ours with his deep Christian faith and empathy for
 those in need in Jamaica. The urban-clergyman-provides-social-uplift kernel of
-his journey has many fictional (e.g., the 2001 American film *Diary of a City
-Priest*) and non-fictional precedents; Martin Luther King Jr’s early career
+his journey has many fictional (e.g., the 2001 American film _Diary of a City
+Priest_) and non-fictional precedents; Martin Luther King Jr’s early career
 followed a similar trajectory. All of which is to say that few excuses can be
 found for the incoherent, overreaching, dramatically bereft production on
-display last weekend at the Arena, *Yes!*, which fictionalizes his life.
+display last weekend at the Arena, _Yes!_, which fictionalizes his life.
 
 Nevertheless, I will try to find one.
 
@@ -33,8 +33,8 @@ story.
 
 In years gone by, this fell on the shoulders of the incomparable Alwyn Bully, a
 Dominican director who adopted Jamaica, adapted Ho Lung, and spearheaded a
-string of hit shows (from *Sugar Cain* and *The Rock* to *Jesus 2000* and
-*Moses*). By contrast, *Yes!* is directed by Gregory Thames, a longstanding
+string of hit shows (from _Sugar Cain_ and _The Rock_ to _Jesus 2000_ and
+_Moses_). By contrast, _Yes!_ is directed by Gregory Thames, a longstanding
 member of the production team who steps into Alwyn’s long shadow but does not
 find his footing.
 
@@ -45,7 +45,7 @@ moments amongst them. Adversaries appear and disappear without resistance or
 explanation — an irate Member of Parliament added tedium, not tension. Indulgent
 lighting, effects and costumes did not mask these (and other) structural flaws.
 
-At times, *Yes!* approaches drama. Luke searches for a middle ground between the
+At times, _Yes!_ approaches drama. Luke searches for a middle ground between the
 rigidly hierarchical church and the rigidly hierarchical ghetto; he confronts
 archbishops and dons with equal aplomb, and the parallels are perhaps unintended
 but striking. He also struggles with externalized internal demons who create

@@ -42,7 +42,7 @@ cinematic pixie dust to turn authentic black experience into authentic
 black-oriented art. Also, because Madea is funny as hell (where she’ll probably
 end up).
 
-*Madea Goes to Jail* is the latest film entry in Perry’s lucrative drag
+_Madea Goes to Jail_ is the latest film entry in Perry’s lucrative drag
 franchise. He developed the Madea character several years ago on the Atlanta,
 Georgia urban theatre circuit as a no-nonsense, sharp-tongued but benevolent
 grandmother. Perry cross-dresses to play Madea himself, adding to the lengthy
@@ -53,21 +53,21 @@ genial; Sidney Poitier, clean-cut and upright. Cross-dressing negates the
 supposed sexual threat of a virile black man; it’s not a coincidence that Perry
 stands an impressive six-foot-five.
 
-However, Perry is smart enough to pull a bait-and-switch. *Norbit* this is not.
-Madea features only tangentially in *Jail* and other films. Perry uses his game
+However, Perry is smart enough to pull a bait-and-switch. _Norbit_ this is not.
+Madea features only tangentially in _Jail_ and other films. Perry uses his game
 granny to pack the house, but once the seats are full, he turns the cinema into
 a church to preach uplifting messages about the importance of family, community
 spirit and strong Christian faith.
 
-*Madea Goes to Jail* is really about a young lawyer on the rise, Joshua Hardaway
+_Madea Goes to Jail_ is really about a young lawyer on the rise, Joshua Hardaway
 (played by Derek Luke) and a woman of the night, Candy (Keshia Knight Pulliam,
-who played Rudy on *The Cosby Show* and is still trying to cast off its
+who played Rudy on _The Cosby Show_ and is still trying to cast off its
 shadow). They meet because Candy is charged with prostitution and the docket
 lands on Joshua’s desk. Joshua, engaged, is thrown back into his past, where he
 and Candy share a troubling secret.
 
 Perry wrote, directed and produced the film, which also features David and
 Tamela Mann, Ion Overman, Viola Davis and Vanessa Ferlito. Go and see it, and
-then go and rent *Meet the Browns* or anything from the Perry oeuvre. They’re
+then go and rent _Meet the Browns_ or anything from the Perry oeuvre. They’re
 not masterpieces, but it’s better than buying a mirror. You’ve never looked so
 good.

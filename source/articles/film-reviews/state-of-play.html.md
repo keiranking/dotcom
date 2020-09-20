@@ -22,7 +22,7 @@ newspaper. In 1844, Samuel Morse (the code guy) opened America’s first telegra
 line, which wired information at the speed of light. Distances collapsed to
 zero; the telegraph, in an instant, made geography meaningless. Information —
 from everywhere, to everywhere — exploded. The first newspaper in the West
-Indies, *The Jamaica Gleaner* (heard of it?), began at roughly the same time.
+Indies, _The Jamaica Gleaner_ (heard of it?), began at roughly the same time.
 
 “The telegraph made information into a commodity, a ‘thing’ that could be bought
 and sold irrespective of its uses or meaning.” Neil Postman was right; the wire
@@ -39,16 +39,16 @@ reading this online?
 
 Since the American media is not exempt from either narcissism or existential
 angst, and since they consider themselves highly “newsworthy”, there is no
-shortage of movies about movies (*Sunset Boulevard*, *The Player*), movies about
-television (*Network*, *Good Night and Good Luck*), television about television
-(*Murphy Brown*, *Sports Night*), television about newspapers (*Early Edition*,
-*The Wire*), newspapers about movies (*Variety*, *The Hollywood Reporter*), and
-movies about newspapers (*Citizen Kane*, *His Girl Friday*). And just in: *State
-of Play*.
+shortage of movies about movies (_Sunset Boulevard_, _The Player_), movies about
+television (_Network_, _Good Night and Good Luck_), television about television
+(_Murphy Brown_, _Sports Night_), television about newspapers (_Early Edition_,
+_The Wire_), newspapers about movies (_Variety_, _The Hollywood Reporter_), and
+movies about newspapers (_Citizen Kane_, _His Girl Friday_). And just in: _State
+of Play_.
 
-*State of Play* follows seasoned reporter Cal McAffrey (Russell Crowe) at the
-fictional Washington Globe (a stand-in for *The Washington Post*, *The Baltimore
-Sun*, or *The New York Times*). Both Cal and the Globe, despite credentials and
+_State of Play_ follows seasoned reporter Cal McAffrey (Russell Crowe) at the
+fictional Washington Globe (a stand-in for _The Washington Post_, _The Baltimore
+Sun_, or _The New York Times_). Both Cal and the Globe, despite credentials and
 experience, face obsolescence. Cal, writing for the print edition, is older,
 slower and more expensive than the always-on bloggers from the online half —
 like young Della Frye (a cute-as-a-buttoned-sweater Rachel McAdams). The Globe,
@@ -64,13 +64,13 @@ sequiturs — trying to wring unbiased coverage from reporters corrupted by huma
 emotions, trying to win readers while holding to stodgy conventions, trying to
 be an independent watchdog while leashed to a huge corporation.
 
-Director Kevin Macdonald (*The Last King of Scotland*) is nostalgic both for the
+Director Kevin Macdonald (_The Last King of Scotland_) is nostalgic both for the
 mini-renaissance of 1970s American filmmaking and the halcyon days of the press.
 The journalist hero of Watergate, Bob Woodward, was immortalized by über-hunk
-Robert Redford in *All the President’s Men* (another movie about newspapers).
-The real Bob Woodward appears in *State of Play*, which was almost shelved when
+Robert Redford in _All the President’s Men_ (another movie about newspapers).
+The real Bob Woodward appears in _State of Play_, which was almost shelved when
 the original actor to play reporter Cal dropped out — über-hunk Brad Pitt.
 
 Too often, the media invents tidy answers instead of asking hard questions.
-*State of Play* asks just one: What is happening to newspapers, and will they be
+_State of Play_ asks just one: What is happening to newspapers, and will they be
 around to tell us? To which comes our tidy answer: We sure hope so.

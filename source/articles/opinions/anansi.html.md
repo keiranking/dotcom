@@ -70,7 +70,7 @@ the lantern, and the fat man fell to the ground, and the lantern smashed and
 ignited the straw. And Cudjoe grabbed the keys from the fat man’s belt and
 unshackled himself. Anansi could feel the heat of the flames and was afraid, but
 there was nowhere to go. Cudjoe looked at Anansi and held out his dark-skinned
-hand. “Come, *Kwaku Anansi*,” he said, “let us two tricksters escape into the
+hand. “Come, _Kwaku Anansi_,” he said, “let us two tricksters escape into the
 night.” And Anansi climbed onto Cudjoe’s hand and they left the shack burning
 bright orange.
 

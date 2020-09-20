@@ -27,14 +27,14 @@ For a teacher, it could hit near the end of the term, while regurgitating arcane
 scientific trivia to a roomful of children. For a nurse, it could be during the
 graveyard shift, pacing sterile and empty hallways. For a film critic, it is
 now, halfway through the summer season, sitting through ordinary yet
-over-budgeted orchestrations like *The Proposal*.
+over-budgeted orchestrations like _The Proposal_.
 
-Ten weeks ago, the mislabeled romantic comedy *New in Town* featured a
+Ten weeks ago, the mislabeled romantic comedy _New in Town_ featured a
 successful but frigid East Coast female executive in her forties (Renee
 Zellweger) who was displaced to a frigid but charming rural outpost (Minnesota),
 where she gradually warmed to the handy, handsome local (Harry Connick, Jr).
 
-*The Proposal*, by contrast, is the story of a successful but frigid East Coast
+_The Proposal_, by contrast, is the story of a successful but frigid East Coast
 female executive in her forties (Sandra Bullock) who is displaced to a frigid
 but charming rural outpost (Alaska), where she gradually warms to the handy,
 handsome local (Ryan Reynolds).
@@ -46,10 +46,10 @@ Margaret. In danger of being deported to her native Canada, Margaret proposes a
 quickie marriage to Andrew, followed by a quickie divorce. A great plan, except
 (Spoiler alert!) they fall in love instead.
 
-If nothing else, *The Proposal* is entertainment conducive to cuddling. Of
-course, so is the programming on Music 99 FM, which is free. *The Proposal* is
+If nothing else, _The Proposal_ is entertainment conducive to cuddling. Of
+course, so is the programming on Music 99 FM, which is free. _The Proposal_ is
 also two hours of situational hijinks and light laughs, but so are four
-syndicated episodes of *The Dick Van Dyke Show*, which is funnier and, with some
+syndicated episodes of _The Dick Van Dyke Show_, which is funnier and, with some
 creative channel-surfing, also free (since you’re already paying for cable). You
 don’t like your job, so don’t spend the money you made there on this movie.
 
@@ -59,8 +59,8 @@ know that, as soon as we punch out, we tune out. We don’t really care if the
 movie is any good or not — at least it’s not work.
 
 At the risk of inducing a midlife crisis, consider this question. Why are we so
-desperate for distractions like *The Proposal*? Are we so mortified about the
+desperate for distractions like _The Proposal_? Are we so mortified about the
 consequences of quiet contemplation that we must fill all our available leisure
 time with liquor and libido, tickets and television? So what if our jobs force
 us to compromise childhood dreams — we can’t all be astronaut rock stars. Skip
-*The Proposal*, and live with it.
+_The Proposal_, and live with it.

@@ -26,12 +26,12 @@ auditoriums, hotels and schools around the island, all at $1200 a head.
 
 Given such compelling math, the literature doesn't get much attention. Stages
 plays are, at worst, thematically disjointed, sexually gratuitous, visually
-monotonous and overlong—symptoms of poor writing and direction. But in *Ghett
-Out*, Shebada's latest romp, the peculiar alchemy of script and improvisation,
+monotonous and overlong—symptoms of poor writing and direction. But in _Ghett
+Out_, Shebada's latest romp, the peculiar alchemy of script and improvisation,
 of audience and performer, and of comedy and commentary is one step closer to
 gold.
 
-Written by Michael Denton, directed by B L Allen, *Ghett Out* takes place in a
+Written by Michael Denton, directed by B L Allen, _Ghett Out_ takes place in a
 bullet-prone ghetto lane (you know, the kind that you'd be afraid to park a
 Mercedes), home to three tenants—illegal vendors Shebada and Barbara (Maylynne
 Lowe), and fallen Maude (Abigail Grant), who used to have a house, a car and a
@@ -46,7 +46,7 @@ hijinks and managing malapropisms with true bumbling perfection. Ellington is
 the Abbott to Grant's Costello, and like any comic duo they are at their best
 when misunderstanding one another.
 
-The rest of the *Ghett Out* cast is serviceable—Abigail Grant, Junior Williams
+The rest of the _Ghett Out_ cast is serviceable—Abigail Grant, Junior Williams
 and Orville Hall stand up without standing out. Maylynne Lowe is the latest
 high-profile crossover from the New Kingston theatre circuit, no doubt drawn by
 the fat paycheck. Hers is the misfortune of being Powell in the age of Bolt;
@@ -65,16 +65,16 @@ One of the hardest skills for an actor to master is the spontaneous reaction;
 Ramsey does it effortlessly, creating on-the-fly responses to heckling patrons
 while keeping one ear in the scene. Though young, his experience as a comedian
 shows in his intuitive knowledge of what the audience sees. The night the
-Gleaner attended *Ghett Out*, a patron made fun of Ramsey's get-up as he crossed
+Gleaner attended _Ghett Out_, a patron made fun of Ramsey's get-up as he crossed
 the stage. Ramsey paused, without looking at either his clothes or the heckler.
 He simply stood there, to the roaring delight of the crowd, and then resumed his
 movement. Whatever Stages is paying him, they should double it.
 
-The true genius of *Ghett Out*, and by extension the entire Stages enterprise,
+The true genius of _Ghett Out_, and by extension the entire Stages enterprise,
 however, is the way it taps into our collective psyche. Sure, a philandering
 husband is comedy, but in a country with so many single mothers, it's also a
 tragedy. Sure, a trigger-happy officer is funny, but in a time when our real
-policemen kill in cold blood, it's also cathartic. We don't just *want* to
+policemen kill in cold blood, it's also cathartic. We don't just _want_ to
 laugh; we need to laugh. In this way, Stages is almost providing a public
 service, a sort of ritual confessional where we can purge our sins and then take
 a route taxi home.
@@ -82,6 +82,6 @@ a route taxi home.
 The play's title draws from our de facto national motto, put simply by Run
 Tings—take what you can, and get out. Roots theatre is more profitable than
 ever; by some back-of-the-envelope math, Stages pulls in a cool $1,000,000 each
-week. As the audience got out of *Ghett Out*, turning into citizens once more,
+week. As the audience got out of _Ghett Out_, turning into citizens once more,
 they had to pass the black Mercedes parked by the door. Here's hoping Stages
 helps us climb our mountain, instead of defacing yet another hillside.

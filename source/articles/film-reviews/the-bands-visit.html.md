@@ -14,13 +14,13 @@ genre: Comedy, Drama
 ---
 
 Godard famously said cinema is truth at 24 frames per second; Michael Haneke
-(director of the wickedly playful *Funny Games* in theatres now) says a feature
+(director of the wickedly playful _Funny Games_ in theatres now) says a feature
 film is 24 lies per second; Eran Kolirin, the Israeli writer and director of
-*The Band’s Visit*, hasn’t put forth his own version of Godard, but I’ll do it
+_The Band’s Visit_, hasn’t put forth his own version of Godard, but I’ll do it
 for him – motion pictures are emotion, 24 frames per second. Insofar as cinema
 can encapsulate and embody emotion — extracting it from actors, distilling it
 through cinematography, preserving it through editing, and serving it up on a
-flickering, fleeting tray — then *The Band’s Visit* does not just hint at
+flickering, fleeting tray — then _The Band’s Visit_ does not just hint at
 longing, suggest longing, or effuse longing: it is longing.
 
 Eight Egyptian policemen, the Alexandria Ceremonial Police Orchestra, arrive in
@@ -38,7 +38,7 @@ tuba. Instead, Kolirin takes us deeply, sharply, painfully close to his
 characters — reckless Haled, trapped Dina, repressed Tawfiq, and his lonely
 second-in-command Simon (Khalifa Natour) — and stays there for 89 minutes. It
 doesn’t feel short. And it doesn’t sell us short, either; part of the joy of
-watching *The Band’s Visit* is acknowledging Kolirin’s implicit trust that we
+watching _The Band’s Visit_ is acknowledging Kolirin’s implicit trust that we
 will go for a ride without popcorn moments or expensive thrills.
 
 Shai Goldman’s cinematography tells the story, wordlessly, in plaintive, static
@@ -64,7 +64,7 @@ moustache and watery eyes. Aristotle said a man doesn’t become a hero until he
 can see the root of his own downfall; Tawfiq has seen the root of his downfall
 for years, and when it is revealed at the nadir of the film, the camera holds on
 Gabai, and we feel the man’s barricades collapsing one by one. Ronit Elkabetz
-(you may remember her from the 2001 Israeli dramedy *Late Marriage*) is at her
+(you may remember her from the 2001 Israeli dramedy _Late Marriage_) is at her
 pulchritudinous best playing Dina, a woman hurt, a woman all the more desperate
 for human connection and happiness the farther they slip into the distance. She
 lives, day in, day out, in this spit-stop of a town and she needs the band, and
@@ -90,7 +90,7 @@ kiss is a kiss no matter how hopelessly lost you are in a foreign country; a
 late-night glass of wine with a beautiful woman is an invitation in Egypt,
 Israel, and around the world.
 
-As *The Band’s Visit* approaches its denouement, when in Hollywood films the boy
+As _The Band’s Visit_ approaches its denouement, when in Hollywood films the boy
 gets the girl, the villain dies, the hero finds the treasure, and plotlines
 neatly dovetail into a bowtie, it becomes clear that Kolirin is not susceptible
 to tidy solutions or romance. You may even wonder, for a moment, why you

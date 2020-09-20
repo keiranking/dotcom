@@ -24,7 +24,7 @@ Today, the Gran Torino is a collector’s item, a relic, a well-crafted reminder
 of long-gone American automotive dominance.
 
 Clint Eastwood, who you may have heard of, is an American actor who started out
-in the television western *Rawhide* exactly 50 years ago. He made his first
+in the television western _Rawhide_ exactly 50 years ago. He made his first
 fistful of dollars in a trilogy of Italian westerns portraying men with fast
 hands and few words. But his widest popularity came between 1971 and 1976, when
 he appeared in three films as Dirty Harry, a tough-and-ready cop with an
@@ -34,7 +34,7 @@ etched in his face. Today, he is a celebrated director, too old for action, a
 well-respected remainder of rapidly-diminishing American cultural dominance.
 
 The comparison is invited because Eastwood’s new film, which feels for all the
-world like his last in front of the camera, is called *Gran Torino*. In it, the
+world like his last in front of the camera, is called _Gran Torino_. In it, the
 aged star is Walt Kowalski, a widower, a war veteran, and a psychologically
 wounded man. His two sons and their families have forgotten him, or try to
 forget him, or try to put him somewhere where they will be able to forget him.
@@ -50,8 +50,8 @@ immigrants from Southeast Asia.
 What follows is both simple and complicated. It is yet another retread of white
 guilt: Walt, and Eastwood, standing in for middle-class middle America, must
 come to terms with past and current sins of prejudice and discrimination. In the
-fifties, Hollywood made what are known as *problem pictures*, which dealt with
-“the Negro problem”. *Gran Torino*, on one level, is just an updated problem
+fifties, Hollywood made what are known as _problem pictures_, which dealt with
+“the Negro problem”. _Gran Torino_, on one level, is just an updated problem
 picture, with ethnic substitution.
 
 But after a half-century in the business, Clint Eastwood knows how to make a
@@ -65,5 +65,5 @@ self-reliance.
 Eastwood has stripped his screen persona to its core — once again, with few
 words to say, but without any weapons to hold, in hands that have lost their
 dexterity and speed. What is left is a journey that stretches from the past to
-the present, from Korea to Michigan, from *Rawhide* to *Unforgiven*, a journey
-that ends in *Gran Torino*. Go take it for a spin.
+the present, from Korea to Michigan, from _Rawhide_ to _Unforgiven_, a journey
+that ends in _Gran Torino_. Go take it for a spin.

@@ -51,8 +51,8 @@ their communities to uphold the existing anti-sodomy laws.
 
 If it sounds dangerously familiar, it’s because it is. The prejudice of [the
 Offences Against the Person Act][7] is nakedly clear: “Whosoever shall be
-convicted of the *abominable* crime of buggery…”, “any male person who, *in
-public or private*, commits… any act of <i>gross indecency </i>with another male
+convicted of the _abominable_ crime of buggery…”, “any male person who, _in
+public or private_, commits… any act of <i>gross indecency </i>with another male
 person, shall be guilty…” If you’re somehow having trouble seeing the bias, try
 substituting ‘female’ for ‘male’, or better yet, ‘genuine intimacy’ for ‘gross
 indecency’.
@@ -69,8 +69,8 @@ As it is, we live in a highly repressed society, with both sexes squeezed into
 narrow corridors of acceptable behaviour and appearance. If you have dark skin,
 a belly, libido on Saturday and guilt on Sunday, you are the <i>sine qua non
 </i>of Jamaica. But if you are of ambiguous descent, if you are bilingual or
-bisexual, if you are an atheist or an activist, if you use words like *sine qua
-non*, if your hair or clothes or gait or gestures or a hundred other social
+bisexual, if you are an atheist or an activist, if you use words like _sine qua
+non_, if your hair or clothes or gait or gestures or a hundred other social
 signifiers do not meet the approval of the dominant Christian authorities, you
 are implicitly stripped of your national membership and consigned to live in the
 shadows.

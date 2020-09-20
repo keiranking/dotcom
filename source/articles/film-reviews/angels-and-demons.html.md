@@ -22,8 +22,8 @@ you’re the only one seeing the mindless rituals for what they are.
 For summer is blockbuster season, when the six American majors (Sony, 20th
 Century Fox, Warner Brothers, Paramount, Universal and Dreamworks SKG) release
 their tentpole pictures — the sinfully expensive, lavishly marketed mega-movies
-that determine the financial health of their parents. One *Titanic* (20th
-Century Fox/Paramount) or *Spider-Man* (Sony) or *The Dark Knight* (Warner
+that determine the financial health of their parents. One _Titanic_ (20th
+Century Fox/Paramount) or _Spider-Man_ (Sony) or _The Dark Knight_ (Warner
 Bros.) can single-handedly offset a year’s worth of box office flops.
 
 Since a tentpole film is potential manna from heaven, the studios ram-pack it
@@ -38,26 +38,26 @@ have a chance to tell our friends what a piece of crap it is. And we fall for it
 like faithful disciples, nattering excitedly about this movie or that, gushing
 about what we have to see and can’t afford to miss.
 
-At its worst, this means execrable fluff like *Hannah Montana: The Movie*
+At its worst, this means execrable fluff like _Hannah Montana: The Movie_
 (Disney), in which a 16-year-old actress caught between childhood and Hollywood
 plays a 16-year-old actress caught between childhood and Hollywood, her
 innocence and privacy sacrificed at the altar of global commercialism. (Disney
-sells *Montana*-themed clothes, watches, bedding, luggage, shoes, makeup, spa
+sells _Montana_-themed clothes, watches, bedding, luggage, shoes, makeup, spa
 kits, and toys. Last year Miley Cyrus, then 15, personally earned more than
 US$25,000,000. Yes, that’s the right number of zeroes.)
 
-At its best, however, we get *Angels & Demons* (Sony), a thriller that lives up
+At its best, however, we get _Angels & Demons_ (Sony), a thriller that lives up
 to its name and its ampersand, with compelling (though not complicated)
 dualities between science and theology, logic and faith, modernity and
 antiquity. And, yes, good and evil, though as the film reminds us in its crash
 course through Catholic history, deciding which is which is usually in the eye
 of the beheader.
 
-*Angels & Demons* is the follow-up to *The Da Vinci Code* (2006), also directed
+_Angels & Demons_ is the follow-up to _The Da Vinci Code_ (2006), also directed
 by Ron Howard, adapted by Akiva Goldsman, scored by Hans Zimmer, and starring
 Tom Hanks. Both properties were originally novels by Dan Brown, who wrote
-*Angels & Demons* first, making it both a sequel and a prequel, depending on
-the medium. Because everyone, including the Pope, read *The Da Vinci Code*,
+_Angels & Demons_ first, making it both a sequel and a prequel, depending on
+the medium. Because everyone, including the Pope, read _The Da Vinci Code_,
 Brown now rubs shoulders with Stephen King, John Grisham and the other rich,
 chosen few to escape the bargain bins at Barnes & Noble.
 
@@ -70,7 +70,7 @@ protagonists are a dime a dozen, which is why you’ve either never heard of the
 or have them stacked beside your bed.
 
 Paperbacks and motion pictures peddle the same diversions, so Dan Brown and Sony
-was a match made in, well, heaven. *Angels & Demons*, the film, once again
+was a match made in, well, heaven. _Angels & Demons_, the film, once again
 follows Robert Langdon (Hanks), a Harvard professor of religious iconography, as
 he trips along a chain-reaction of Catholic clues embedded in action sequences.
 
@@ -83,11 +83,11 @@ the Holy See, and four missing Cardinals, the front-runners to become the next
 Pope.
 
 What could have been a God-awful mess is intelligently paced by director Howard
-(*A Beautiful Mind*) and comfortably inhabited by Hanks. The required kinetics
+(_A Beautiful Mind_) and comfortably inhabited by Hanks. The required kinetics
 are motivated by Langdon’s urgent search. In one breathtaking sequence, he must
 escape, before he suffocates, from an electronically-operated, oxygen-regulated,
 bulletproof, air-tight chamber that has lost power — the Vatican Archives, home
 to sacred scientific texts like Galileo’s writings.
 
-Take it from a blaspheming cinéphile — *Angels & Demons* is good, not evil. Just
+Take it from a blaspheming cinéphile — _Angels & Demons_ is good, not evil. Just
 leave the reverence at the door.

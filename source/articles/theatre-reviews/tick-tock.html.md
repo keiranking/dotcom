@@ -21,17 +21,17 @@ had grown old. The generation they inspired—Cathi Levy, Oliver Samuels, Owen
 Ellis—had their own ideas. The country had changed.
 
 This clash of ideas was the best thing to happen to our art since the British
-left. Cathi gathered her Little People. Oliver found himself *At Large*. Not to
-be left behind, Trevor Rhone wrote *The Game* and *Milk and Honey*.
+left. Cathi gathered her Little People. Oliver found himself _At Large_. Not to
+be left behind, Trevor Rhone wrote _The Game_ and _Milk and Honey_.
 
 Now another quarter-century has passed. Oliver's posse is passe. All that
 remains of their artistic explosion are a few scattered ASHEs. New faces are
 here—Amba Chevannes, Michael Holgate, Teniele Warren—with new ideas. The country
-has changed again. Amba wrote *Dinner with Eleanor*. Michael's musical, *Glass
-Routes*, just finished its run. Not to be left behind, Owen Ellis has written
-and directed *Tick Tock*.
+has changed again. Amba wrote _Dinner with Eleanor_. Michael's musical, _Glass
+Routes_, just finished its run. Not to be left behind, Owen Ellis has written
+and directed _Tick Tock_.
 
-*Tick Tock* is an experiment that eschews character and narrative. Instead, an
+_Tick Tock_ is an experiment that eschews character and narrative. Instead, an
 ensemble of twelve (hours on a clock?) plays different Jamaican archetypes while
 reciting long-form poetry. Set in the ruins of downtown Kingston, in a nameless,
 placeless ghetto, the performers give voice to our most dispossessed fellow
@@ -45,11 +45,11 @@ player snubs the local don. The don responds by dragging the man into an alley
 and executing him, ensuring the respect and allegiance of everyone else.
 
 Ellis captures the tense community of the inner-city, where your best friend,
-your ex-boyfriend, your mother and your rival are all within a *rock-stone*ʼs
+your ex-boyfriend, your mother and your rival are all within a _rock-stone_ʼs
 throw. Arguments flare and subside—another sketch has two women fighting over
 the resident casanova—but life goes on, as it must.
 
-In these and other moments, Ellis engages, but *Tick Tock* stops short of
+In these and other moments, Ellis engages, but _Tick Tock_ stops short of
 success. While the show is interesting to listen to, it is boring to look at.
 The set consists of four battered two-storey facades, but they are positioned
 shoulder-to-shoulder in a line. The performance loses one of its three
@@ -58,8 +58,8 @@ hastily painted and graffitied, without an artist's eye for evocative details.
 And Ellis doesn't explore spatial possibilities—much more could have been done
 with the upstairs windows he built.
 
-But we must distinguish between the experiment and the social scientist. *Tick
-Tock* is a mixed bag (with a second half that needs reworking), sometimes
+But we must distinguish between the experiment and the social scientist. _Tick
+Tock_ is a mixed bag (with a second half that needs reworking), sometimes
 compelling, sometimes not. If you are a patron of the arts, go see it. If you
 want the best use of two hours and two Nannies, go see something else. Owen
 Ellis, however, is a great investment. As the younger generation of artists

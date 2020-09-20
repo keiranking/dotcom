@@ -11,7 +11,7 @@ running_time_in_minutes: 110
 genre: Drama
 ---
 
-When I saw Fernando Meirelles’s *Cidade de Deus* in 2002, I was affected by the
+When I saw Fernando Meirelles’s _Cidade de Deus_ in 2002, I was affected by the
 unvarnished and honest depiction of the Brazilian favelas — shanty towns,
 crowded onto Rio de Janiero’s hillsides, filled with poverty and perishable
 dreams. Although I had never been to Brazil, the violence and vitriol reminded
@@ -20,25 +20,25 @@ and whose gunshots echoed faintly in my guarded suburb. Meirelles’s relentless
 kinetic camera captured the vitality and futility of life in the favela, two
 sides of a tarnished centavo.
 
-So I entered the theatre to see Paulo Morelli’s *Cidade dos Homens*, “from the
-producers of *City of God*,” with unhealthy skepticism (especially for a
+So I entered the theatre to see Paulo Morelli’s _Cidade dos Homens_, “from the
+producers of _City of God_,” with unhealthy skepticism (especially for a
 critic). I was prepared, at the first copycat edit or borrowed line of dialogue,
 to dismiss the film as a failed attempt to cash in on the runaway success of the
-2002 original. Two hours later, I was still waiting. *City of Men* is as
+2002 original. Two hours later, I was still waiting. _City of Men_ is as
 powerful, and more touching, than its filmic predecessor.
 
-In a way, *City of Men* actually predates *City of God*. Or perhaps a better way
-to say it is that the two films are blood brothers, much like *City of Men*’s
+In a way, _City of Men_ actually predates _City of God_. Or perhaps a better way
+to say it is that the two films are blood brothers, much like _City of Men_’s
 dual protagonists. Writer Paulo Lins, who grew up in Cidade de Deus, published
 an eponymous 1997 novel chronicling four decades of death and decadence and
 tracing the divergent path of two childhood friends. Fernando Meirelles then
-turned one of the novel’s vignettes into the short film *Palace II* (2000), with
+turned one of the novel’s vignettes into the short film _Palace II_ (2000), with
 12-year-olds Darlan Cunha as Acerola and Douglas Silva as Laranjinha.
 
-Two years later, Meirelles made *Cidade de Deus* and the film’s success led to
-the Brazilian television series *Cidade dos Homens*, starring Cunha and Silva in
+Two years later, Meirelles made _Cidade de Deus_ and the film’s success led to
+the Brazilian television series _Cidade dos Homens_, starring Cunha and Silva in
 switched roles. The show became a hit in its own right, its twenty episodes
-playing to 35 million viewers, and went off the air in 2005. *Cidade dos Homens* –
+playing to 35 million viewers, and went off the air in 2005. _Cidade dos Homens_ –
 the film — picks up three years after the end of the television series. It’s a
 history as complicated as those of the favelas.
 
@@ -88,6 +88,6 @@ cinematic depiction of poor, gun-ravaged urban Rio. One novel, two feature films
 and a television series are not nearly enough to tell all the stories that need
 to be told, but new stylistic and narrative exploration is necessary if Morelli
 et al want us to return to the theatre. The next one-sheet I see for a Brazilian
-film should say “Not from the producers of *City of Men*, but just as
-compelling.” But that’s no way to win hearts, minds and the box office. *Cidade
-dos Angels*, anyone?
+film should say “Not from the producers of _City of Men_, but just as
+compelling.” But that’s no way to win hearts, minds and the box office. _Cidade
+dos Angels_, anyone?

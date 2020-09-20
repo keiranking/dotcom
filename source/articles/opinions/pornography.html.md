@@ -13,14 +13,14 @@ On October 30, 2006, Britons who turned to Channel 5 got an unexpected eyeful. A
 man and woman were having sex on the telly. Not movie sex. Not simulated sex.
 Real, unadulterated, bed-pounding, Negril-vacation sex. No modesty was spared.
 Tiny cameras and lights were strapped to the man’s erect penis, and inserted
-into the woman’s aroused vagina. After a few minutes of this *coitus abruptus*,
+into the woman’s aroused vagina. After a few minutes of this _coitus abruptus_,
 viewers watched from the claustrophobic confines of her cervix as his semen
 spurted and dribbled.
 
 What was this frontal assault on the senses? ‘[A Girl’s Guide to 21st Century
 Sex][1]’, an 8-part series presented by the aptly named [Dr Catherine Hood][2],
 an Oxford lecturer and sexual health expert. In a move that would make Jamaican
-religious conservatives faint *en masse*, it was broadcast over-the-air (on the
+religious conservatives faint _en masse_, it was broadcast over-the-air (on the
 British equivalent of our CVM-TV), free and nationwide, during the hallowed
 Christmas season. When a few viewers predictably complained that it was
 “inappropriate [for] vulnerable young girls”, [the English regulators kiboshed

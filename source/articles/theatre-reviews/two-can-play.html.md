@@ -18,11 +18,11 @@ gangwar shootout in Rockfort, the Saturday Gleaner screamed one word in
 blood-red block capitals: “RAMPAGE!” Points worthy of exclamation are lost in
 journalism riven with exclamation points. Nevertheless, superlatives have their
 place. And if you see five Jamaican plays in your short, embattled life, one of
-them has to be Trevor Rhone’s *Two Can Play*.
+them has to be Trevor Rhone’s _Two Can Play_.
 
 The script, which won Best Original Play on its 1982 debut, tells its story with
 such thunderous honesty that neither the passage of time nor Brian Heap’s
-mediocre restaging can diminish its impact. Conceptually, *Two Can Play* exists
+mediocre restaging can diminish its impact. Conceptually, _Two Can Play_ exists
 at a busy four-way intersection—the gridlocked point of contact between male and
 female gender roles, and the national identities of Jamaica and America.
 
@@ -47,7 +47,7 @@ combination thereof, neglects to use most of the rudiments of theatre to enhance
 Rhone’s tour de force. The set, intended to depict Jim and Gloria’s living
 quarters, is badly designed, scaled and arranged. All exits and entrances
 happen, drearily, on the same upstage plane. The size of the rooms, given their
-economic bracket, is improbably large. And for walls, Heap uses an *ad hoc*
+economic bracket, is improbably large. And for walls, Heap uses an _ad hoc_
 collection of flats, seemingly grabbed from some long-forgotten storeroom,
 lacking even a color scheme to smooth the illusion.
 
@@ -55,7 +55,7 @@ Lighting and sound design are similarly uninspired, conferring little sense of
 day or night, much less the emotional states of the characters. To understand
 what’s missing, imagine how unsatisfactory your car would be if it contained
 only the parts necessary to move from departure to destination. The overall
-impression, in *Two Can Play*, is that of walking in on rehearsal night. With a
+impression, in _Two Can Play_, is that of walking in on rehearsal night. With a
 scheduled run of only six performances, such rough edges are unacceptable.
 
 But you hardly notice those flaws, and maybe forget them entirely, once Alwyn
@@ -74,7 +74,7 @@ to occupy the shadow of the original actor in the part—the late, great Charles
 Hyatt.
 
 Trevor Rhone’s recent passing leaves Grace McGhie—the first Gloria—as the only
-remaining parent of *Two Can Play*. Although recent headlines indicate that
+remaining parent of _Two Can Play_. Although recent headlines indicate that
 Kingston is still a bullet-riddled city, and although the line outside the
 American embassy grows ever longer, she can perhaps smile that at least two of
 her spiritual children (Rawlins and Scott) want to stay—and play—at home.

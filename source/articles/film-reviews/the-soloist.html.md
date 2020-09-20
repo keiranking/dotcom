@@ -16,13 +16,13 @@ running_time_in_minutes: 117
 genre: Drama
 ---
 
-*The Soloist* is mainstream American filmmaking at its ambitious best — where
+_The Soloist_ is mainstream American filmmaking at its ambitious best — where
 oversized budgets meet oversized imaginations — and if it attempts to take on
 too many sweeping issues or employ too many cinematic tropes, it still manages
 to entertain, elucidate and edify. It is the story of four isolated men, each
 with grander delusions than the last, but only two of whom appear onscreen.
 
-First, there is the white *Los Angeles Times* reporter Steve Lopez (a real
+First, there is the white _Los Angeles Times_ reporter Steve Lopez (a real
 journalist, but here played by Robert Downey Jr), author of a human interest
 column called ‘Points West’. Lopez traffics in stories of seedy streets, of the
 disenfranchised but not dispirited denizens of the city. In the film, he lives
@@ -38,7 +38,7 @@ School because of his schizophrenia. When Lopez spots him, he has a violin with
 two strings and a running commentary about his favourite Romantic composer.
 
 Ludwig van Beethoven, although not seen except in marble or plastic, provides
-the aural topology for *The Soloist*. One scene revels in the concrete majesty
+the aural topology for _The Soloist_. One scene revels in the concrete majesty
 of the city, with sky-high shots of its snaking highways and
 Spanish-architecture suburbs — majesty courtesy of a Beethoven symphony. There
 are implicit parallels drawn between Ayers and his idol — both suffering from
@@ -46,7 +46,7 @@ tragic conditions (Beethoven slowly went deaf) that obstructed the pure
 expression of their immense talents.
 
 Ayers is only at peace when consuming music, brilliantly conveyed halfway
-through *The Soloist* when he sits in on a rehearsal for the Los Angeles
+through _The Soloist_ when he sits in on a rehearsal for the Los Angeles
 Philharmonic orchestra. As a hundred musicians dive into the first movement of
 Beethoven’s Symphony No. 3, the screen explodes into a synesthetic sequence of
 light and colour.
@@ -54,14 +54,14 @@ light and colour.
 The uninitiated might wonder how an iTunes visualization found its way into the
 film, but the bravura sequence distills cinema to its essence — the spatial
 arrangement of light through time. Moreover, it proudly appends itself to a long
-history of visual sound films — from Walter Ruttmann’s *Lichtspiel, Opus I*
-(1921) and Oskar Fischinger’s *Allegretto* (1936) to the mid-century
-experimentations of Peter Kubelka’s *Arnulf Rainer* (1960) and John Whitney’s
-*Catalog* (1961). Like all maestros, these cine-magicians knew the exhilarating
+history of visual sound films — from Walter Ruttmann’s _Lichtspiel, Opus I_
+(1921) and Oskar Fischinger’s _Allegretto_ (1936) to the mid-century
+experimentations of Peter Kubelka’s _Arnulf Rainer_ (1960) and John Whitney’s
+_Catalog_ (1961). Like all maestros, these cine-magicians knew the exhilarating
 potential of their medium — its ability to stimulate the eyes and soothe the
 heart.
 
-The man behind *The Soloist* is director Joe Wright, the most ambitious of all.
+The man behind _The Soloist_ is director Joe Wright, the most ambitious of all.
 Within the scripted confines of one film, he provides a loving tribute to a
 city, a scathing exposé of societal apathy and bourgeois pretensions, a filmic
 concerto for a two-hundred-year-old musician, and a bond between two men who are

@@ -16,9 +16,9 @@ running_time_in_minutes: 126
 genre: Action, Adventure, Science fiction
 ---
 
-Let’s start with the obvious and the obligatory: *Star Trek*, the new American
-movie, not to be confused with the 1966 television series *Star Trek*, or the
-four series it spawned, or the 1979 movie *Star Trek*, or any of its nine
+Let’s start with the obvious and the obligatory: _Star Trek_, the new American
+movie, not to be confused with the 1966 television series _Star Trek_, or the
+four series it spawned, or the 1979 movie _Star Trek_, or any of its nine
 sequels, meekly goes where every blockbuster picture has gone before, and must
 go, and will continue to go.
 
@@ -45,7 +45,7 @@ but feel so good while we’re watching that we keep coming back. As with ice
 cream, the damage is done a little bit at a time, so we can always justify one
 more indulgence.
 
-Here’s the plot summary for *Star Trek*, if you need to know. James Kirk, from
+Here’s the plot summary for _Star Trek_, if you need to know. James Kirk, from
 Iowa (ticket sales!), is a rebel whose father martyred himself in a battle
 (check!) against an evil race (double check!), the Romulans. (The bad guys in
 the original series, circa America’s Korean and Vietnamese invasions, looked
@@ -58,15 +58,15 @@ fights the Romulans.
 
 May now marks the beginning of the summer blockbuster season, which has crept
 earlier and earlier as studios fight to be first. Last week’s megamovie was
-*Wolverine*, or *X-Men 4*; this week is *Star Trek 11*, new and improvised;
-still to come are *Transformers 2*, *Ice Age 3*, *Terminator 4*, and *Harry
-Potter 6*. Oodles of ice cream.
+_Wolverine_, or _X-Men 4_; this week is _Star Trek 11_, new and improvised;
+still to come are _Transformers 2_, _Ice Age 3_, _Terminator 4_, and _Harry
+Potter 6_. Oodles of ice cream.
 
 It’s worth noting that there are filmmakers, with one foot inside and one foot
 outside the Hollywood dream factory, who try to make the audience engage their
 material and think about stuff. People like Quentin Tarantino (whose World War
-II flick, *Inglourious Basterds* [sic], opens in August), Woody Allen (*Whatever
-Works*, in June), Steven Soderbergh (*The Informant*, with Matt Damon, October),
-and Sam Mendes (*Revolutionary Road*, hopefully coming soon).
+II flick, _Inglourious Basterds_ [sic], opens in August), Woody Allen (_Whatever
+Works_, in June), Steven Soderbergh (_The Informant_, with Matt Damon, October),
+and Sam Mendes (_Revolutionary Road_, hopefully coming soon).
 
 Go see their movies, and skip all the star-filled dreck.

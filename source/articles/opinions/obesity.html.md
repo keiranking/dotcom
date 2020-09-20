@@ -45,7 +45,7 @@ the gay rights movement before it, body acceptance lives in the gray area
 between genetics and lifestyle, which has left its advocates confused about what
 to fight for.
 
-At the genetics (or ‘nature’) end is a battle about body *type* — the idea that
+At the genetics (or ‘nature’) end is a battle about body _type_ — the idea that
 deodorant commercials reinforce an unattainably young, flawless, Eurocentric
 image of desirability. That’s true. Hence deodorant commercials, like Dove’s
 long-running ‘[Real Beauty][12]’ campaign, now try to showcase a variety of
@@ -53,7 +53,7 @@ ethnicities, ages and hairdos. A necessary corrective, because as any seamstress
 can tell you, even the fittest people come in a variety of shapes —
 small-busted, wide-hipped, long-legged, and so on.
 
-At the lifestyle (or ‘nurture’) end is a skirmish about body *size* — the idea
+At the lifestyle (or ‘nurture’) end is a skirmish about body _size_ — the idea
 that everyone, regardless of their waistline, should be considered healthy and
 beautiful. Hence the acronym HAES (Healthy At Every Size), defiant hashtags like
 #fattitude and the international celebrity of [Tess Munster][13], the first

@@ -16,13 +16,13 @@ running_time_in_minutes: 108
 genre: Action, Fantasy
 ---
 
-Let’s get some basics out of the way. *The Spirit* is based on a series of
+Let’s get some basics out of the way. _The Spirit_ is based on a series of
 graphic novels created by Will Eisner in 1940, and brought to the big screen by
 Frank Miller. Eisner and Miller are two of the best-known names in the
 sequential art industry. Eisner is a legend and innovator, having elevated the
 comic book medium with unconventional stories of urban life and blight. Miller
 used to ink dark, psychological comic book sagas in the 1970s and 80s, wrote a
-couple of *Robocop* sequels in the 1990s and now, evidently in vogue in
+couple of _Robocop_ sequels in the 1990s and now, evidently in vogue in
 Hollywood, spends his time creating dark, unwatchable movies. He seems to be
 getting paid more for doing less the older he gets.
 
@@ -30,7 +30,7 @@ A graphic novel, by the way, is like a comic book, except it’s for grown-ups
 (which means kids read them). In a graphic novel, Veronica would come after
 Archie with a knife.
 
-In *The Spirit*, a policeman, Denny Colt, who lives in a nameless, faceless
+In _The Spirit_, a policeman, Denny Colt, who lives in a nameless, faceless
 American city, dies and is injected with a serum by his unscrupulous coroner.
 The serum gives him a second life with enhanced healing powers. He confides in
 his police commissioner and becomes a shadowy, masked appendage to the force
@@ -48,16 +48,16 @@ and ignorant about the parameters of the world. Can the Spirit die? If so, how?
 Do we even care?
 
 The movie’s awfulness, however, goes beyond its lack of coherence and therefore
-lack of drama. *The Spirit* is emblematic of so much that is wrong with our
+lack of drama. _The Spirit_ is emblematic of so much that is wrong with our
 cultural landscape. It is one of a thousand pieces of entertainment detritus
 littering our minds. Or, to switch analogies, like a sausage — preprocessed,
 churned out of a factory, indistinct, artificially shaped, coloured and
 flavoured to look appealing, palatable in very small doses and sickening in
 excess.
 
-The film euphemistically markets itself as ‘from the producers of *300* and *Sin
-City*’ — in other words, the same rich guys who already cashed in on the
-marginal stylistic cleverness of *Sin City* are still trying the milk, and bilk,
+The film euphemistically markets itself as ‘from the producers of _300_ and _Sin
+City_’ — in other words, the same rich guys who already cashed in on the
+marginal stylistic cleverness of _Sin City_ are still trying the milk, and bilk,
 the public. Originality, today, is just a financial opportunity. It is seized
 upon, imitated, duplicated, replicated until even the original appears
 quotidian.
@@ -65,6 +65,6 @@ quotidian.
 Why do we tolerate such a marketplace? Have we been so thoroughly trained by our
 television sets, car radios and magazines? Is our demand to be amused so
 insatiable that we voluntarily subject ourselves to the visual and auditory
-assault that is *The Spirit* and its ilk? Or are we still able, however dimly,
+assault that is _The Spirit_ and its ilk? Or are we still able, however dimly,
 to recognize that what is ‘out there’ is of our collective creation? For our own
 sake, our own spirit, one hopes so.

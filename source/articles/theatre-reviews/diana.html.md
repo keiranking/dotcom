@@ -22,14 +22,14 @@ you feel, right? Right.
 
 This peculiar mix of apathy and anger builds inside you until you quit your job
 or start smoking, get drunk or get high, beat your wife or leave your husband,
-find God or try to kill yourself. Here’s a better idea. Go see *Diana* at
+find God or try to kill yourself. Here’s a better idea. Go see _Diana_ at
 Centerstage. You’ll feel better, and you’ll get to watch characters who do most
 of the above, anyway.
 
-Patrick Brown populates his remounted playscript, *Diana*, with some
+Patrick Brown populates his remounted playscript, _Diana_, with some
 long-suffering (and thus highly frustrated) Jamaicans, starting with its title
 character, a struggling nightclub dancer brought to life by Camille Davis (not
-to be confused with Cameal Davis, ascendant star of *Dreamgirls*). Davis
+to be confused with Cameal Davis, ascendant star of _Dreamgirls_). Davis
 provides a subject lesson in stage acting—the art of living truthfully under
 imaginary circumstances. The simplest yet most powerful pleasure of watching
 theatre is its immediacy, and Davis lets us witness her joys and heartbreak, her
@@ -56,7 +56,7 @@ and Davis display the familiar body language of a couple. Hutchinson fails to
 nuance his muscled thug, Babyface, spending his time swaggering around the
 stage.
 
-*Diana* reflects the comfort of a director who feels at home. Trevor Nairne’s
+_Diana_ reflects the comfort of a director who feels at home. Trevor Nairne’s
 production is perfectly scaled to the confines of Centerstage—tucking a kitchen
 entrance upstage left, packing the walls with tchotchkes, and sending his actors
 to the downstage corners every so often. And there is one magical
@@ -64,8 +64,8 @@ how-the-heck-did-they-do-that moment the first time Diana’s battered, broken
 house changes into Pops’ luminescent nightclub.
 
 Such directorial competence is rare enough in local playhouses, but with
-*Diana*, Nairne has done much more than block actors on a well-built set.
-Through the judicious and precise use of the tools of theatre, *Diana* throws
+_Diana_, Nairne has done much more than block actors on a well-built set.
+Through the judicious and precise use of the tools of theatre, _Diana_ throws
 us, without reserve or apology, into the aspirations of ordinary Jamaicans—the
 kind of working-class citizens who don’t have the time, the diplomas or the
 resources to read theatre reviews in the newspaper. Life is too short, and too
@@ -77,11 +77,11 @@ rays peeking through the louvres. We must wait for Diana as well. All of us,
 sitting in the dark, phones at the ready, waiting for a loved one to reach home
 safely.
 
-*Diana* captures, and by its existence preserves, and therefore elevates, such
+_Diana_ captures, and by its existence preserves, and therefore elevates, such
 elementary truths of living in Jamaica—the life of the construction worker, the
 dancer, the barman and the badman. No well-turned phrase or cheap industry award
 can repay Brown and Nairne (although they certainly help). The only appropriate
 tribute is your laughter, and your tears, and your applause.
 
-*Diana* runs Wednesdays to Sundays at 8pm, with additional matinees on the
+_Diana_ runs Wednesdays to Sundays at 8pm, with additional matinees on the
 weekend.

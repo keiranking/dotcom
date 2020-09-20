@@ -21,7 +21,7 @@ contrary.
 Politicians and armchair philosophers tend to pooh-pooh such blanket statements
 as hyperbole or histrionics. Armed with a pocket Oxford, it seems obvious that
 in Jamaica, ‘the supreme power lies in a body of citizens who can elect people
-to represent them’. And there discussion ends, *quod erat democracy*. But if we
+to represent them’. And there discussion ends, _quod erat democracy_. But if we
 are using such a basic qualifying exam, our graduating class must also include
 China, where you can vote in provincial elections but you can’t tweet about
 them, and Libya, whose ‘Western’ parliamentary government is younger than
@@ -32,7 +32,7 @@ sophisticated than the way schoolboys organize themselves into scrimmage teams
 (“Okay, you and Devon pick the sides”). In the context of a nation-state, what
 we usually want is a modern liberal democracy, which is a fancy way of saying
 our elected officials will protect everybody’s rights, whether we voted for them
-or not, and indeed whether we *can* vote for them or not. What separates Angola
+or not, and indeed whether we _can_ vote for them or not. What separates Angola
 from Australia, Belarus from Belgium, and Chad from Chile is not really their
 systems of governance, but that in the former, only the rights of the majority
 are respected, and in the latter, the rights of minorities matter a great deal,
@@ -59,7 +59,7 @@ lights and stop in the middle of dual carriageways; we evade taxes and provoke
 fights; we steal bicycles and phones and electricity and piles of gravel; we
 arrive late and leave work early; we sleep on the job, sleep through church and
 then sleep around on our spouses. In fact, subverting authority and being
-unashamed of it (*“Fire fi Babylon!”*) is part of our national identity. With
+unashamed of it (_“Fire fi Babylon!”_) is part of our national identity. With
 overwhelmed judges and underpaid policemen, laws in Jamaica aren’t so much
 stipulations as suggestions.
 

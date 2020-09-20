@@ -25,7 +25,7 @@ the era of Usain Bolt, that footprint has only gotten larger. How can a small,
 relatively young island nation have such a big impact on the world stage?
 
 Thinking of the world as a stage is a good place to start. In Aston Cooke's
-world, to be Jamaican is to be a performer. His new play, *Me and Mi Chapsie*,
+world, to be Jamaican is to be a performer. His new play, _Me and Mi Chapsie_,
 is a humourous treatise on that idea.
 
 The chapsie is Donald (Everaldo Creary), a deejay in a popular inner city
@@ -50,7 +50,7 @@ over his clothes, now that his social position—his role—has changed. “The
 important thing,” she says, “is to act the part, and look the part, and everyone
 will believe you.”
 
-Last Sunday, when *The Gleaner* attended, an unplanned power outage vindicated
+Last Sunday, when _The Gleaner_ attended, an unplanned power outage vindicated
 Cooke’s viewpoint. Thrown into darkness, leads Harris and Creary paused, then
 left the stage, waiting for the real world to retreat once more. But a young man
 from the audience stepped to the front, where, dimly lit by a dozen cell phones,
@@ -59,7 +59,7 @@ with appreciative applause. That's what happens in a Performing Society.
 
 Theatre can be a most unforgiving art, because it relies heavily on the
 physicality of its imperfect practitioners. And when sex is in the script, as in
-*Me and Mi Chapsie*, even more so. Dahlia Harris has some of her curves in the
+_Me and Mi Chapsie_, even more so. Dahlia Harris has some of her curves in the
 wrong places to be a cougar, and Everaldo Creary, though muscular, is a bit too
 small to ooze testosterone. But what these two actors lack in looks, they
 account for with talent and chemistry. They pepper their onstage affair with the
@@ -85,4 +85,4 @@ gifted survive. If Aston Cooke plays his part well, long after the rest of the
 world forgets, applause will ring out from the dot in the dot on the map. That's
 what happens in a Performing Society.
 
-*Me and Mi Chapsie* runs Wednesdays to Sundays.
+_Me and Mi Chapsie_ runs Wednesdays to Sundays.

@@ -11,7 +11,7 @@ publication_url: http://jamaica-gleaner.com/gleaner/20140716/cleisure/cleisure3.
 facebook_url: https://www.facebook.com/photo.php?fbid=338474439641001
 ---
 
-> "*Usually what people don't understand they try to destroy*."
+> "_Usually what people don't understand they try to destroy_."
 >
 > — Damien Eckols, one of [the West Memphis Three][1], at age 18
 
@@ -45,8 +45,8 @@ society with their deviant practices.
 
 Let’s start with the obvious. Heterosexuals control every sphere of influence in
 Jamaica. The Prime Minister is a heterosexual. The Leader of the Opposition is a
-heterosexual. The Minister of National Security is a heterosexual *par
-excellence*. So, too, the Minister of Culture, the Minister of Finance, the
+heterosexual. The Minister of National Security is a heterosexual _par
+excellence_. So, too, the Minister of Culture, the Minister of Finance, the
 Director of Public Prosecutions, the Chief Justice of the Supreme Court, the
 recent Commissioner of Police, the President of the Chamber of Commerce, [the
 Vice-Chancellor of the UWI][12], [the General Manager of TVJ][13], [the CEO of

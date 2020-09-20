@@ -17,18 +17,18 @@ genre: Action, Drama
 
 This is how it usually works in America — little movies have big ideas, and big
 movies have little ideas. For little movies with big ideas, think Steven
-Soderbergh’s *sex, lies and videotape* (1989) or Darren Aronofsky’s *Requiem for
-a Dream* (2000) or Christopher Nolan’s *Memento* (2000), respectively tackling
+Soderbergh’s _sex, lies and videotape_ (1989) or Darren Aronofsky’s _Requiem for
+a Dream_ (2000) or Christopher Nolan’s _Memento_ (2000), respectively tackling
 voyeurism, addiction and memory. For big movies with little ideas, consider
-Steven Soderbergh’s *Ocean’s Twelve* (2002) or Darren Aronofsky’s *The Fountain*
-(2006) or Christopher Nolan’s *Batman Begins* (2005).
+Steven Soderbergh’s _Ocean’s Twelve_ (2002) or Darren Aronofsky’s _The Fountain_
+(2006) or Christopher Nolan’s _Batman Begins_ (2005).
 
 Little movies with big ideas are easy to love, and big movies with little ideas
 easy to hate. High art, low art. Simple. So when a big movie tackles big ideas,
-as in *The Matrix* (1999), *Wall-E* (2008) and now *Surrogates*, it’s a little
+as in _The Matrix_ (1999), _Wall-E_ (2008) and now _Surrogates_, it’s a little
 disorienting.
 
-Feeling disoriented is intrinsic to *Surrogates*, which extrapolates advances in
+Feeling disoriented is intrinsic to _Surrogates_, which extrapolates advances in
 prosthetic limbs, along with our current penchant for creating virtual selves,
 to a time when everyone navigates the world via humanoid-robot versions of
 themselves. Just like the Internet, everyone makes their alter ego more
@@ -42,7 +42,7 @@ The real upshot of surrogacy, however, is that societal evils and violent crimes
 have all but disappeared (since all the real people are ensconced at home). No
 racism, no sexism, no murder. Bruce Willis plays Tom Greer, an FBI agent without
 much to do until he grabs a rare homicide. His investigation provides the
-narrative arc for *Surrogates*; the emotional arc stems from his ambivalence
+narrative arc for _Surrogates_; the emotional arc stems from his ambivalence
 towards the technology.
 
 The big idea being tossed around (while Greer gets tossed around) reflects that
@@ -56,19 +56,19 @@ reading this on one, is already obsolete.
 
 All of which is supposed to be unequivocal good news, allowing us to do more
 while doing less, and work smarter, and other productivity clichés. You probably
-have an iPod, and a Facebook account, and a computer. *Surrogates* asks, at what
+have an iPod, and a Facebook account, and a computer. _Surrogates_ asks, at what
 cost? In the film, the cost is clear — without actual contact, people have
 forgotten, or lost, an essential part of their humanity.
 
-One of the cleverer aspects of *Surrogates* is how it visually represents that
+One of the cleverer aspects of _Surrogates_ is how it visually represents that
 loss by flipping a Hollywood convention. From its opening frames, the film is
 filled with extraordinarily fit, beautiful people, the kind of anatomical
-exceptions American movies are known for. Except in *Surrogates*, they’re
+exceptions American movies are known for. Except in _Surrogates_, they’re
 everywhere, a relentless inundation of plucked eyebrows, chiseled chins and
 tucked tummies. You’re so sick of seeing perfect breasts that whenever someone
 unplugs their surrogate and stands up, their imperfections, their sheer
 ordinariness — mussed hair, dimpled skin, fatigued faces — becomes stunning.
 
 Of course, plot holes abound, the heroes are white, and things work out in the
-end. But for a highly imperfect, ordinary big movie, *Surrogates* is a little,
+end. But for a highly imperfect, ordinary big movie, _Surrogates_ is a little,
 well, appealing.

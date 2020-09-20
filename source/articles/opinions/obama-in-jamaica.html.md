@@ -61,7 +61,7 @@ broken only when an Italian and American were targeted, which prompted his
 “[profound regret][9]”.
 
 This double-standard isn’t a failing of Mr Obama per se; it’s a prerequisite for
-the presidency. Americans believe, as they tell us *ad nauseam*, that they’re
+the presidency. Americans believe, as they tell us _ad nauseam_, that they’re
 “the greatest country on earth”. Naturally, [their leaders share that
 exceptionalism][10]. They can’t elect someone who considers Jamaicans as equals
 any more than we can elect someone [who thinks gays deserve the right to
