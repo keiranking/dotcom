@@ -1,0 +1,13 @@
+.hero {
+  text-align: center;
+  padding: var(--spacing--quadruple) 0;
+}
+
+.hero__heading {
+  font-size: var(--font-size--xlarge);
+}
+
+.hero__subheading {
+  font-size: var(--font-size--medium);
+  margin-bottom: var(--spacing);
+}

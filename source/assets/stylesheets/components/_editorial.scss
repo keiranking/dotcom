@@ -1,0 +1,20 @@
+.editorial {
+  --editorial-secondary-content-width: 14.4rem;
+
+  @media(min-width: $breakpoint--large-screen) {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: var(--spacing);
+    grid-template-columns: auto var(--editorial-secondary-content-width);
+  }
+
+  & > * {
+    grid-column: 1;
+  }
+}
+
+.editorial__secondary {
+  @media(min-width: $breakpoint--large-screen) {
+    grid-column: 2;
+  }
+}

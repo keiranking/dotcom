@@ -1,0 +1,73 @@
+<% wrap_layout :layout do %>
+  <section class="section">
+    <header class="section__content hero">
+      <h1 class="hero__heading">
+        <%= current_article.data.tagline %>
+      </h1>
+
+      <% if current_article.data.description_html %>
+        <p class="hero__subheading">
+          <%= current_article.data.description_html %>
+        </p>
+      <% end %>
+
+      <% if current_article.data.project_url %>
+        <%= link_to(
+          current_article.data.cta,
+          current_article.data.project_url,
+          class: "button",
+        ) %>
+      <% end %>
+    </header>
+  </section>
+
+
+  <% if current_article.data.features %>
+    <section class="section section--padded">
+      <dl class="section__content rack">
+        <% current_article.data.features.each do |feature| %>
+          <div>
+            <dt>
+              <%= feature.heading %>
+            </dt>
+            <dd>
+              <%= feature.description_html %>
+            </dd>
+          </div>
+        <% end %>
+      </dl>
+    </section>
+  <% end %>
+
+  <section class="section">
+    <article class="section__content section__content--slim section__content--centered">
+      <%= yield %>
+
+      <% if current_article.data.quotes %>
+        <div class="u-margin-top--double">
+          <% current_article.data.quotes.each do |quote| %>
+            <figure class="product__quotation">
+              <blockquote class="product__quote" cite="<%= quote.source_url if quote.source_url.present? %>">
+                "<%= quote.quote %>"
+              </blockquote>
+
+              <figcaption>
+                <% if quote.source.present? %>
+                  <% if quote.source_url.present? %>
+                    <a class="u-link--subtle" href="<%= quote.source_url %>">
+                      <%= quote.author %>, <cite><%= quote.source %></cite>
+                    </a>
+                  <% else %>
+                    <%= quote.author %>, <cite><%= quote.source %></cite>
+                  <% end %>
+                <% else %>
+                  <%= quote.author %>
+                <% end %>
+              </figcaption>
+            </figure>
+          <% end %>
+        </div>
+      <% end %>
+    </article>
+  </section>
+<% end %>

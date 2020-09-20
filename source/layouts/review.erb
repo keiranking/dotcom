@@ -1,6 +1,6 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
-    <header class="section__content section__content--slim">
+    <header class="section__content editorial">
       <p class="flytitle">
         <%= link_to titleize(current_article.data.category), "/#{current_article.data.category}", class: "u-link--incognito" %>
       </p>
@@ -40,52 +40,54 @@
       ) %>
     </div>
 
-    <article class="section__content section__content--slim literary-content">
-      <%= yield %>
+    <article class="section__content editorial">
+      <div class="u-font-family--alternate">
+        <%= yield %>
+      </div>
+
+      <div class="editorial__secondary">
+        <dl class="sidenote">
+          <dt class="sidenote__title">
+            <%= current_article.title %>
+          </dt>
+
+          <% if current_article.data.writer %>
+            <dd class="sidenote__item">
+              Written by <%= current_article.data.writer %>
+            </dd>
+          <% end %>
+
+          <% if current_article.data.director %>
+            <dd class="sidenote__item">
+              Directed by <%= current_article.data.director %>
+            </dd>
+          <% end %>
+
+          <% if current_article.data.venue %>
+            <dd class="sidenote__item">
+              Playing at <%= current_article.data.venue %>
+            </dd>
+          <% end %>
+
+          <% if current_article.data.cast %>
+            <dd class="sidenote__item">
+              With <%= array_to_sentence current_article.data.cast %>
+            </dd>
+          <% end %>
+
+          <% if current_article.data.running_time_in_minutes %>
+            <dd class="sidenote__item">
+              <%= current_article.data.running_time_in_minutes.to_s %> min
+            </dd>
+          <% end %>
+
+          <% if current_article.data.genre %>
+            <dd class="sidenote__item">
+              <%= current_article.data.genre %>
+            </dd>
+          <% end %>
+        </dl>
+      </div>
     </article>
-
-    <div class="section__content section__content--secondary">
-      <dl class="sidenote">
-        <dt class="sidenote__title">
-          <%= current_article.title %>
-        </dt>
-
-        <% if current_article.data.writer %>
-          <dd class="sidenote__item">
-            Written by <%= current_article.data.writer %>
-          </dd>
-        <% end %>
-
-        <% if current_article.data.director %>
-          <dd class="sidenote__item">
-            Directed by <%= current_article.data.director %>
-          </dd>
-        <% end %>
-
-        <% if current_article.data.venue %>
-          <dd class="sidenote__item">
-            Playing at <%= current_article.data.venue %>
-          </dd>
-        <% end %>
-
-        <% if current_article.data.cast %>
-          <dd class="sidenote__item">
-            With <%= array_to_sentence current_article.data.cast %>
-          </dd>
-        <% end %>
-
-        <% if current_article.data.running_time_in_minutes %>
-          <dd class="sidenote__item">
-            <%= current_article.data.running_time_in_minutes.to_s %> min
-          </dd>
-        <% end %>
-
-        <% if current_article.data.genre %>
-          <dd class="sidenote__item">
-            <%= current_article.data.genre %>
-          </dd>
-        <% end %>
-      </dl>
-    </div>
   </section>
 <% end %>

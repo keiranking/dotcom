@@ -1,6 +1,6 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
-    <header class="section__content section__content--slim">
+    <header class="section__content editorial">
       <% if current_article.data.dept %>
         <p class="flytitle flytitle--dept">
           <%= current_article.data.dept %>
@@ -42,18 +42,18 @@
       ) %>
     </div>
 
-    <article class="section__content section__content--slim literary-content">
-      <%= yield %>
-    </article>
+    <article class="section__content editorial">
+      <div class="u-font-family--alternate">
+        <%= yield %>
+      </div>
 
-    <% if current_article.data.notes_html %>
-      <div class="section__content section__content--slim u-margin-top">
+      <% if current_article.data.notes_html %>
         <% current_article.data.notes_html.each do |note| %>
-          <div class="fine-print">
+          <div class="fine-print u-margin-top">
             <%= note %>
           </div>
         <% end %>
-      </div>
-    <% end %>
+      <% end %>
+    </article>
   </section>
 <% end %>

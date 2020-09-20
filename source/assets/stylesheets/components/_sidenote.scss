@@ -1,14 +1,7 @@
-$_sidenote-width: 18rem;
-
 .sidenote {
   font-size: var(--font-size--small);
   line-height: var(--line-height--tight);
-  margin-top: var(--spacing);
-  max-width: $_sidenote-width;
-
-  @media(min-width: $breakpoint--large-screen) {
-    margin-top: var(--spacing--double);
-  }
+  margin-top: var(--spacing--double);
 }
 
 .sidenote__title {
