@@ -1,17 +1,15 @@
 .footer {
-  border-top: var(--border);
+  color: var(--subtle-color);
   font-size: var(--font-size--small);
-  margin-top: var(--spacing);
-  padding-top: var(--spacing--half);
-}
+  margin-top: var(--spacing--double);
+  padding: var(--spacing--quarter) 0;
 
-.footer__kickbar {
-  display: flex;
-  justify-content: space-between;
-  margin-top: var(--spacing--half);
-  padding: var(--spacing-xsmall) 0;
-}
+  @media(min-width: $breakpoint--mobile) {
+    display: flex;
+    justify-content: space-between;
+  }
 
-.footer__nav {
-  display: flex;
+  a {
+    color: var(--subtle-color);
+  }
 }

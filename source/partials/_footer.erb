@@ -1,21 +1,19 @@
 <section class="section">
   <div class="section__content footer">
-    <nav>
-      <%= link_to "Code", "/code", class: "u-link--incognito" %>,
-      <%= link_to "Design", "/design", class: "u-link--incognito" %>,
-      <%= link_to "Opinions", "/opinions", class: "u-link--incognito" %>,
-      <%= link_to "Reviews", "/theatre-reviews", class: "u-link--incognito" %>,
+    <nav class="inline-list">
+      <%= link_to "Code", "/code", class: "u-link--incognito" %>
+      <%= link_to "Design", "/design", class: "u-link--incognito" %>
+      <%= link_to "Opinions", "/opinions", class: "u-link--incognito" %>
+      <%= link_to "Reviews", "/theatre-reviews", class: "u-link--incognito" %>
       <%= link_to "Plays", "/plays", class: "u-link--incognito" %>
     </nav>
 
-    <div class="footer__kickbar">
-      <div>
-        &copy; <%= Time.now.year %> Keiran King
-      </div>
+    <nav class="inline-list">
+      <%= link_to "GitHub", "https://github.com/keiranking", class: "u-link--incognito" %>
 
-      <nav class="footer__nav">
-        <%= link_to "GitHub", "https://github.com/keiranking", class: "u-link--incognito" %>
-      </nav>
-    </div>
+      <span>
+        &copy; <%= Time.now.year %> Keiran King
+      </span>
+    </nav>
   </div>
 </section>

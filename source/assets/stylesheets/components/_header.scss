@@ -2,14 +2,10 @@
   display: flex;
   font-size: var(--font-size--small);
   justify-content: space-between;
-  padding: var(--spacing-xsmall) 0;
+  padding: var(--spacing--quarter) 0;
 
 }
 
 .header__logo {
   font-weight: var(--font-weight--bold);
-}
-
-.header__nav {
-  display: flex;
 }
