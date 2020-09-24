@@ -7,10 +7,10 @@
   cursor: pointer;
   display: inline-block;
   font-family: var(--font-family-base);
-  font-size: 1rem;
+  font-size: var(--font-size);
   -webkit-font-smoothing: antialiased;
-  font-weight: 600;
-  line-height: 1;
+  font-weight: var(--font-weight--semi-bold);
+  line-height: var(--line-height--unleaded);
   padding: var(--spacing--half) var(--spacing);
   text-align: center;
   text-decoration: none;

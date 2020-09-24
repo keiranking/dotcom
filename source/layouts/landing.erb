@@ -46,8 +46,8 @@
       <% if current_article.data.quotes %>
         <div class="u-margin-top--double">
           <% current_article.data.quotes.each do |quote| %>
-            <figure class="product__quotation">
-              <blockquote class="product__quote" cite="<%= quote.source_url if quote.source_url.present? %>">
+            <figure class="landing__quotation">
+              <blockquote class="landing__quote" cite="<%= quote.source_url if quote.source_url.present? %>">
                 "<%= quote.quote %>"
               </blockquote>
 

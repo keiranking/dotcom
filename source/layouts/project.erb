@@ -1,0 +1,25 @@
+<% wrap_layout :article do %>
+  <% if current_article.data.repo_url %>
+    <p class="fine-print">
+      <%= link_to(
+        abridge_url(current_article.data.repo_url),
+        current_article.data.repo_url,
+      ) %>
+    </p>
+  <% end %>
+
+  <% if current_article.data.description_html %>
+    <p>
+      <%= current_article.data.description_html %>
+    </p>
+  <% end %>
+
+  <%= yield %>
+
+  <% if current_article.data.project_url %>
+    <%= link_to(
+      "View project",
+      current_article.data.project_url,
+    ) %>
+  <% end %>
+<% end %>

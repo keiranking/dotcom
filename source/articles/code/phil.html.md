@@ -1,13 +1,13 @@
 ---
 title: Phil
 date: 2019-08-21 03:19 UTC
-layout: product
+layout: landing
 
 description_html: Phil is a free, open-source web app for building crossword puzzles.
 tagline: Make your own crosswords
 cta: Start puzzling
 project_url: https://keiranking.com/phil
-repo_url: https://www.github.com/keiranking/Phil
+repo_url: https://www.github.com/keiranking/phil
 
 features:
   - heading: Intuitive

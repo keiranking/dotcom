@@ -1,4 +1,8 @@
 module PageHelpers
+  def abridge_url(url)
+    url.gsub(/https?:\/\/(www.)?/, "")
+  end
+
   def array_to_sentence(array = nil)
     return array.push("").join if array.length <= 1
     "#{array[0..-2].join(", ")} and #{array.last}"

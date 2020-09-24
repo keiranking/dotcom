@@ -27,6 +27,7 @@ set :markdown,
 set :markdown_engine, :redcarpet
 
 page "articles/christmas/*", layout: :christmas
+page "articles/code/*", layout: :project
 page "articles/external/*", layout: :external
 page "articles/opinions/*", layout: :opinion
 page "articles/film-reviews/*", layout: :review
