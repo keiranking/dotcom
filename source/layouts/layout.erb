@@ -22,9 +22,11 @@
   </head>
 
   <body class="site">
-    <header class="site__header">
-      <%= partial "partials/header" %>
-    </header>
+    <% unless @hide_header.present? %>
+      <header class="site__header">
+        <%= partial "partials/header" %>
+      </header>
+    <% end %>
 
     <main
       class="
@@ -36,9 +38,11 @@
       <%= yield %>
     </main>
 
-    <footer class="site__footer">
-      <%= partial "partials/footer" %>
-    </footer>
+    <% unless @hide_footer.present? %>
+      <footer class="site__footer">
+        <%= partial "partials/footer" %>
+      </footer>
+    <% end %>
 
     <%= partial "partials/analytics" %>
   </body>
