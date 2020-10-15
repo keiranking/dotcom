@@ -3,13 +3,13 @@
     display: inline;
   }
 
-  * + * {
+  & > *:not(:first-child) {
     margin-left: var(--spacing--quarter);
   }
 }
 
 .inline-list--bulleted {
-  * + * {
+  & > *:not(:first-child) {
     margin-left: 0;
 
     &::before {
