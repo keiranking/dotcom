@@ -2,36 +2,55 @@
 name: Keiran King
 email: me@keiranking.com
 phone: (415) 941-9298
-address_street: 7100 Kennedy Blvd E, Apt 3P
-address_city: Guttenberg, NJ 07093
+technical_portfolio_url: https://github.com/keiranking
+address:
+  - 7100 Kennedy Blvd E, Apt 3P
+  - Guttenberg, NJ 07093
+
+bio: Product strategy leader for enterprise and startups in a variety
+  of industries (government, healthcare, ecommerce, arts, non-profit),
+  specializing in lean/agile development and continuous delivery.
+
+technical_skills:
+  - CSS
+  - Git
+  - Heroku
+  - HTML
+  - JavaScript
+  - Netlify
+  - Python
+  - Rails
+  - React
+  - Ruby
+  - Sass
+  - Shopify
 
 work:
-  - title: Product Strategy Consultant
+  - title: Senior Product Strategist
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
-    organization_description: Tech consultancy
+    organization_description: Digital design & development consultancy
     location: New York, NY
     start_date: 2018-05-02
     featured: true
     highlights_html:
       - Wrote company guide on
-        <a target="_blank" href="https://thoughtbot.com/playbook/validation/jtbd">Jobs-to-be-Done</a>.
-      - Advised cross-functional MoMA and thoughtbot team on complete rebuild of
-        <a target="_blank" href="https://membership.moma.org">membership.moma.org</a>.
-        Launched in 6 months.
-      - Led product development for Dome —
-        conducted user research on Capitol Hill, introduced lean development and
-        launched in 3 months.
-      - Led user research and design for provider team at Oscar Health.
+        <a target="_blank" href="https://thoughtbot.com/playbook/validation/jtbd">Jobs-to-be-Done</a>,
+        the product development framework used on all client projects across 4 studios.
+      - Led an 8-member team of developers and designers through a complete
+        redesign and rebuild of the Museum of Modern Art's <a target="_blank" href="https://membership.moma.org">membership site</a>,
+        completed in 6 months.
+      - Led user research and design for provider web portal at Oscar Health, reducing call center volume by 4%.
+      - Spearheaded a shift in product approach from waterfall to lean
+        development for a leading social networking app on Capitol Hill,
+        launching in 3 months.
       - Built e-commerce sites for Future Method, Iron Range and Prospect Marketplace
         using a variety of tech stacks (Rails, React, Middleman, Liquid/Shopify).
         All MVPs built with Agile methods inside 3 months.
-      - Speaker at
-        <a target="_blank" href="https://www.youtube.com/watch?v=XAqfYvcib2I">2019 NYC Design Week</a>,
-        2021 Lead Dev NYC conference (upcoming).
 
   - title: Columnist
     organization: The Gleaner
+    organization_description: Leading national newspaper
     location: Kingston, Jamaica
     start_date: 2014-02-01
     end_date: 2015-06-30
@@ -39,23 +58,26 @@ work:
     highlights_html:
       - Created and wrote popular newspaper column on predatory business
         and issues of national interest.
-      - Keynote speaker at 2014 Jamaicans for Justice gala,
-        regular guest on local radio and TV talk shows.
+      - Regular guest on local radio and TV talk shows.
 
   - title: Founder
     organization: Backstory
+    organization_description: Media startup
     location: Kingston, Jamaica
     start_date: 2011-01-01
     end_date: 2014-07-31
     featured: true
     highlights_html:
-      - Founded and grew media startup to 10 employees and revenue of J$7.8M*.
+      - Founded and grew media startup to 10 employees and revenue of J$7.8M.
       - Secured ad partnerships with Toyota, Snapple, et al. worth J$3M annually.
       - Created and led internship program with 75% female enrollment.
 
-        <small>
-          *about US$88k. Jamaica's GDP/capita in 2012 was US$5.2k.
-        </small>
+appearances_html:
+  - <em>Imposter Strategies</em> (2021 Lead Dev NYC)
+  - Product Strategy Consulting course (2020, thoughtbot)
+  - <a target="_blank" href="https://www.youtube.com/watch?v=XAqfYvcib2I"><em>Solving Real Problems with Design</em></a> (2019 NYC Design Week)
+  - <em>From "Hello, world" to The World's Best Crossword Maker in 8 weeks</em> (2018, BrooklynJS)
+  - Keynote speaker (2014, Jamaicans for Justice annual gala)
 
 education:
   - organization: Recurse Center
@@ -90,12 +112,18 @@ education:
 
       <div class="resume__contact-info">
         <p>
-          <%= current_page.data.address_street %><br />
-          <%= current_page.data.address_city %>
+          <% current_page.data.address.each do |address_line| %>
+            <%= address_line %><br />
+          <% end %>
         </p>
       </div>
 
       <div class="resume__contact-info">
+        <%= link_to(
+          abridge_url(current_page.data.technical_portfolio_url),
+          current_page.data.technical_portfolio_url,
+        ) %>
+
         <%= link_to(
           current_page.data.email,
           "mailto:#{current_page.data.email}",
@@ -110,11 +138,59 @@ education:
       </div>
     </address>
 
+    <% if current_page.data.bio %>
+      <h2 class="resume__heading">
+        Summary
+      </h2>
+
+      <section class="resume__section">
+        <p>
+          <%= current_page.data.bio %>
+        </p>
+      </section>
+    <% end %>
+
+    <% if current_page.data.technical_skills %>
+      <h2 class="resume__heading">
+        Technical Skills
+      </h2>
+
+      <section class="resume__section">
+        <p>
+          <%= current_page.data.technical_skills.join(", ") %>
+        </p>
+      </section>
+    <% end %>
+
+    <h2 class="resume__heading">
+      Professional Experience
+    </h2>
+
     <section class="resume__section">
       <% current_page.data.work.each do |experience| %>
         <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
+
+    <% if current_page.data.appearances_html %>
+      <h2 class="resume__heading">
+        Speaking Engagements
+      </h2>
+
+      <section class="resume__section">
+        <ul>
+          <% current_page.data.appearances_html.each do |appearance| %>
+            <li>
+              <%= appearance %>
+            </li>
+          <% end %>
+        </ul>
+      </section>
+    <% end %>
+
+    <h2 class="resume__heading">
+      Education
+    </h2>
 
     <section class="resume__section">
       <% current_page.data.education.each do |experience| %>

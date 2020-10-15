@@ -21,8 +21,6 @@
 }
 
 .resume__date {
-  display: flex;
-
   & + &::before {
     content: "—";
   }
@@ -30,11 +28,6 @@
 
 .resume__description {
   grid-area: description;
-}
-
-.resume__duration {
-  display: flex;
-  font-size: var(--font-size--small);
 }
 
 .resume__header {
@@ -47,16 +40,15 @@
   }
 }
 
+.resume__heading {
+  font-weight: var(--font-weight--body);
+  font-size: var(--font-size--small);
+  letter-spacing: var(--letter-spacing--loose);
+  text-transform: uppercase;
+}
+
 .resume__highlights {
   margin-top: var(--spacing--half);
-
-  small {
-    display: block;
-
-    &:first-of-type {
-      margin-top: var(--spacing);
-    }
-  }
 }
 
 .resume__item {
@@ -75,23 +67,17 @@
   }
 }
 
-.resume__location {
-  display: flex;
-
-  &::before {
-    content: "・";
-  }
+.resume__metadata {
+  font-size: var(--font-size--small);
 }
 
 .resume__section {
   border-top: var(--border--thick);
-
-  & + & {
-    margin-top: var(--spacing--double);
-  }
+  margin-bottom: var(--spacing--double);
+  padding-top: var(--spacing--half);
 }
 
 .resume__term {
   grid-area: term;
-  margin: 0;
+  line-height: var(--line-height);
 }

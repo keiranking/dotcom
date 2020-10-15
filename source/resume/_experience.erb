@@ -30,37 +30,41 @@
         <%= experience.organization %>
       <% end %>
 
-      <div class="resume__duration">
-        <time
-          datetime="<%= experience.start_date %>"
-          class="resume__date"
-        >
-          <%= Date.parse(experience.start_date.to_s).year %>
-        </time>
-
-        <% if experience.end_date %>
-          <% start_year = Date.parse(experience.start_date.to_s).year %>
-          <% end_year = Date.parse(experience.end_date.to_s).year %>
-
-          <% if end_year != start_year %>
-            <time
-              datetime="<%= experience.end_date %>"
-              class="resume__date"
-            >
-              <%= Date.parse(experience.end_date.to_s).year %>
-            </time>
-          <% end %>
-        <% else %>
-          <span class="resume__date">
-            present
-          </span>
+      <div class="resume__metadata">
+        <% if experience.organization_description %>
+          <%= experience.organization_description %> in
         <% end %>
 
         <% if experience.location %>
-          <span class="resume__location">
-            <%= experience.location %>
-          </span>
+          <%= experience.location %>
         <% end %>
+
+        <div>
+          <time
+            datetime="<%= experience.start_date %>"
+            class="resume__date"
+          >
+            <%= Date.parse(experience.start_date.to_s).year %>
+          </time>
+
+          <% if experience.end_date %>
+            <% start_year = Date.parse(experience.start_date.to_s).year %>
+            <% end_year = Date.parse(experience.end_date.to_s).year %>
+
+            <% if end_year != start_year %>
+              <time
+                datetime="<%= experience.end_date %>"
+                class="resume__date"
+              >
+                <%= Date.parse(experience.end_date.to_s).year %>
+              </time>
+            <% end %>
+          <% else %>
+            <span class="resume__date">
+              present
+            </span>
+          <% end %>
+        </div>
       </div>
     <% if experience.highlights_html %>
       </summary>
