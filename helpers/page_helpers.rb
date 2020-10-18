@@ -46,4 +46,8 @@ module PageHelpers
   def titleize(text)
     text.split(/[-_]/).map { |s| s.capitalize }.join(" ");
   end
+
+  def weekday_date(date)
+    Date.parse(date).strftime("%a, %-d&nbsp;%b&nbsp;%Y")
+  end
 end

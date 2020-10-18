@@ -6,7 +6,7 @@ layout: page
 <h1>Design</h1>
 
 <ul>
-  <% current_page.children.each do |article| %>
+  <% current_page.children.sort_by(&:date).reverse.each do |article| %>
     <li>
       <%= link_to article.title, article %>
     </li>

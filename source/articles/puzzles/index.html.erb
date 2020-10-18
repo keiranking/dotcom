@@ -1,0 +1,34 @@
+---
+date: 2020-09-01 00:00 UTC
+layout: page
+---
+
+<h1>Puzzles</h1>
+
+<ul>
+  <% current_page.children.sort_by(&:date).reverse.each do |article| %>
+    <li class="u-margin-bottom">
+        <div>
+        <%= link_to(
+          article.data.publication,
+          article.data.publication_url,
+        ) %>
+
+        on <%= weekday_date(article.data.date) %>
+      </div>
+
+      <% if article.data.responses %>
+        <div class="fine-print inline-list inline-list--bulleted">
+          <% article.data.responses.each do |response| %>
+            <span>
+              <%= link_to(
+                response.source,
+                response.source_url,
+              ) %>
+            </span>
+          <% end %>
+        </div>
+      <% end %>
+    </li>
+  <% end %>
+</ul>
