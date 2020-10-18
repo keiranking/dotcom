@@ -2,8 +2,16 @@
   <section class="section section--padded">
     <header class="section__content editorial">
       <% if current_article.data.dept %>
-        <p class="flytitle flytitle--dept">
-          <%= current_article.data.dept %>
+        <p class="flytitle flytitle--dept inline-list inline-list--bulleted">
+          <%= link_to(
+            titleize(current_article.data.category),
+            "/writing##{current_article.data.category}",
+            class: "u-link--incognito"
+          ) %>
+
+          <span>
+            <%= current_article.data.dept %>
+          </span>
         </p>
       <% end %>
 
