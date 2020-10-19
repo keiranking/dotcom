@@ -3,15 +3,15 @@
     font-weight: var(--font-weight--body);
     list-style: none;
     padding-bottom: var(--spacing--half);
-    padding-left: var(--spacing--half);
+    padding-left: calc(0.75 * var(--spacing));
 
     li {
       margin-bottom: var(--spacing--eighth);
       position: relative;
 
       &::before {
-        content: "▪";
-        left: calc(-1 * var(--spacing--half));
+        content: "•";
+        left: calc(-0.75 * var(--spacing));
         position: absolute;
         top: 0;
       }

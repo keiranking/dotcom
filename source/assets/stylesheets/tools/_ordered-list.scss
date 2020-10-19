@@ -4,7 +4,7 @@
     font-weight: var(--font-weight--body);
     list-style: none;
     padding-bottom: var(--spacing--half);
-    padding-left: var(--spacing);
+    padding-left: calc(1.25 * var(--spacing));
 
     li {
       counter-increment: list-counter;
@@ -12,9 +12,13 @@
 
       &::before {
         content: counter(list-counter);
-        left: calc(-1 * var(--spacing));
+        font-weight: var(--font-weight--black);
+        font-variant-numeric: tabular-nums;
+        left: calc(-1.25 * var(--spacing));
         position: absolute;
+        text-align: center;
         top: 0;
+        width: 2ch;
       }
     }
   }

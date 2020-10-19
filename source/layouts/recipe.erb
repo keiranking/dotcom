@@ -1,0 +1,40 @@
+<% wrap_layout :layout do %>
+  <section class="section section--padded">
+    <header class="section__content section__content--slim">
+      <p class="flytitle">
+        <%= link_to current_article.data.category, "/recipes", class: "u-link--incognito" %>
+      </p>
+
+      <h1 class="heading">
+        <%= current_article.title %>
+      </h1>
+
+      <p class="fine-print inline-list inline-list--bulleted">
+        <% if current_article.data.prep_time_in_minutes %>
+          <span>
+            takes <%= current_article.data.prep_time_in_minutes %> min
+          </span>
+        <% end %>
+
+        <% if current_article.data.yield %>
+          <span>
+            makes <%= current_article.data.yield %>
+          </span>
+        <% end %>
+      </p>
+    </header>
+
+    <div class="section__content section__content--slim">
+      <%= image_tag(
+        hero_image_path(current_resource.path),
+        {alt: current_article.data.hero_image_description},
+      ) %>
+    </div>
+
+    <article class="section__content section__content--slim">
+      <div>
+        <%= yield %>
+      </div>
+    </article>
+  </section>
+<% end %>

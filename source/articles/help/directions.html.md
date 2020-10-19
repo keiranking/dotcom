@@ -25,21 +25,13 @@ date: 2019-08-28 06:00 UTC
 
 ## From Port Authority to Keiran
 
-1. Take any escalator up to the 200-level departure gates.
-
-    <aside>
-    If after 10pm, take the escalators up another floor to the 300-level gates.
-    </aside>
+1. Take any escalator up to the 200-level departure gates. If after 10pm, take the escalators up another floor to the 300-level gates.
 
 1. Buy a NJTransit bus ticket ($3.50), either from one of the orange vending machines or by downloading the NJTransit app on your phone. You'll need a credit or debit card.
 
     The ticket should be a 2-zone, roundtrip ticket for  route <span class="signage">128</span>, <span class="signage">165</span>, <span class="signage">166</span> or <span class="signage">168</span>. A ticket for any of those routes will be accepted on all routes.
 
-1. Go to gate <span class="signage">212</span>. (During rush hour, the line may snake down the gate escalator and back through the terminal. Don't worry; it moves fast.)
-
-    <aside>
-    If after 10pm, go to gate <span class="signage">325</span>.
-    </aside>
+1. Go to gate <span class="signage">212</span>. (During rush hour, the line may snake down the gate escalator and back through the terminal. Don't worry; it moves fast.) If after 10pm, go to gate <span class="signage">325</span>.
 
 1. Take any bus from any door.
 

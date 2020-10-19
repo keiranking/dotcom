@@ -1,20 +1,18 @@
-$_signage-subway-line-width: 1.7em;
-
 .signage {
-  background-color: var(--highlight-color);
-  border-radius: 0.1rem;
-  font-size: 80%;
-  font-weight: var(--font-weight--bold);
+  font-size: var(--font-size--small);
+  font-weight: var(--font-weight--black);
   display: inline-block;
-  padding: 0.05rem 0.2rem 0;
   text-transform: uppercase;
 }
 
 .signage--subway {
   align-items: center;
-  border: 0.1em solid var(--content-color);
-  border-radius: 50%;
+  background: var(--content-color);
+  border-radius: calc(0.75 * var(--spacing--half));
+  color: var(--background-color);
   display: inline-flex;
+  font-weight: var(--font-weight--bold);
+  height: calc(0.75 * var(--spacing));
   justify-content: center;
-  width: $_signage-subway-line-width;
+  width: calc(0.75 * var(--spacing));
 }

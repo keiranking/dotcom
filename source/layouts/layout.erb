@@ -31,7 +31,11 @@
     <main
       class="
         site__main
-        <%= current_resource.options[:layout] if current_resource.options[:layout].present? %>
+        <% if current_resource.options[:layout].present? %>
+          <%= current_resource.options[:layout] %>
+        <% elsif current_article %>
+          <%= current_article.data.category %>
+        <% end %>
         "
       role="main"
     >

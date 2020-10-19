@@ -31,6 +31,7 @@ page "articles/code/*", layout: :project
 page "articles/external/*", layout: :external
 page "articles/opinions/*", layout: :opinion
 page "articles/film-reviews/*", layout: :review
+page "articles/recipes/*", layout: :recipe
 page "articles/theatre-reviews/*", layout: :review
 page "plays/*", layout: :play
 

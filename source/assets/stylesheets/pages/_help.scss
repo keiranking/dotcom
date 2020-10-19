@@ -1,11 +1,3 @@
 .help {
   @include ordered-list;
-
-  aside {
-    border-left: var(--border);
-    font-size: var(--font-size--small);
-    font-weight: var(--font-weight--body);
-    margin: 0 0 var(--spacing--half);
-    padding: var(--spacing--half);
-  }
 }
