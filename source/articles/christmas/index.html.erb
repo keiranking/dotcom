@@ -6,7 +6,7 @@ layout: page
 <h1>Christmas</h1>
 
 <ul>
-  <% current_page.children.each do |christmas| %>
+  <% current_page.children.sort_by(&:date).reverse.each do |christmas| %>
     <li>
       <%= link_to christmas.date.year, christmas %>
     </li>
