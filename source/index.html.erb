@@ -1,11 +1,32 @@
+<% @hide_footer = true %>
+
 <section class="section section--padded">
   <div class="section__content section__content--slim">
+    <%= image_tag(
+      "avatar.jpg",
+      alt: "Keiran King",
+      class: "avatar u-margin-bottom",
+    ) %>
+
     <p>
-      Product designer at <%= link_to "thoughtbot", "https://www.thoughtbot.com" %> in NYC, helping clients like
-      <%= link_to "MoMA", "https://membership.moma.org" %>,
-      <%= link_to "Dome", "https://www.domecompass.com" %>, and
-      <%= link_to "Oscar Health", "https://www.hioscar.com" %>
+      Product strategist at
+      <%= link_to "thoughtbot", "https://www.thoughtbot.com" %> in NYC,
+      helping clients like MoMA, Oscar Health and Relias
       find markets and build useful, intuitive tools.
     </p>
+
+    <ul class="fine-print inline-list inline-list--bulleted">
+      <li>
+        <%= link_to "Resumé", "/resume" %>
+      </li>
+
+      <li>
+        <%= link_to "LinkedIn", "https://www.linkedin.com/in/keiranking" %>
+      </li>
+
+      <li>
+        <%= link_to "GitHub", "https://www.github.com/keiranking" %>
+      </li>
+    </ul>
   </div>
 </section>
