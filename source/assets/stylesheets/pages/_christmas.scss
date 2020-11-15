@@ -2,10 +2,15 @@
   position: relative;
 
   h2 {
-    font-family: var(--heading-font-family);
     font-size: var(--font-size--xlarge);
     font-weight: var(--font-weight--normal);
-    letter-spacing: normal;
+    line-height: var(--line-height--unleaded);
+    margin-top: var(--spacing--double);
+  }
+
+  h3 {
+    font-size: var(--font-size--large);
+    font-weight: var(--font-weight--normal);
     line-height: var(--line-height--unleaded);
     margin-top: var(--spacing--double);
   }
