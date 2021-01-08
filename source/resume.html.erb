@@ -26,7 +26,7 @@ technical_skills:
   - Shopify
 
 work:
-  - title: Senior Product Strategist
+  - title: Product Strategist
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
     organization_description: Digital design & development consultancy
@@ -37,16 +37,15 @@ work:
       - Wrote company guide on
         <a target="_blank" href="https://thoughtbot.com/playbook/validation/jtbd">Jobs-to-be-Done</a>,
         the product development framework used on all client projects across 4 studios.
-      - Led an 8-member team of developers and designers through a complete
+      - Advised 8-member cross-functional team through complete
         redesign and rebuild of the Museum of Modern Art's <a target="_blank" href="https://membership.moma.org">membership site</a>,
         completed in 6 months.
       - Led user research and design for provider web portal at Oscar Health, reducing call center volume by 4%.
-      - Spearheaded a shift in product approach from waterfall to lean
-        development for a leading social networking app on Capitol Hill,
-        launching in 3 months.
-      - Built e-commerce sites for Future Method, Iron Range and Prospect Marketplace
-        using a variety of tech stacks (Rails, React, Middleman, Liquid/Shopify).
-        All MVPs built with Agile methods inside 3 months.
+      - Spearheaded shift from waterfall to lean development for a leading
+        social networking app on Capitol Hill, launching in 3 months.
+      - Built e-commerce sites for a variety of startups and small businesses
+        using different tech stacks (Rails, React, Middleman, Liquid/Shopify).
+        All MVPs built with Agile methods and launched inside 3 months.
 
   - title: Columnist
     organization: The Gleaner
@@ -71,6 +70,13 @@ work:
       - Founded and grew media startup to 10 employees and revenue of J$7.8M.
       - Secured ad partnerships with Toyota, Snapple, et al. worth J$3M annually.
       - Created and led internship program with 75% female enrollment.
+
+memberships:
+  - title: Organizer, Toronto
+    organization: Mind the Product
+    organization_url: https://www.mindtheproduct.com/
+    organization_description: The world’s largest product management community, with 150,000 members across 200 cities
+    start_date: 2020-12-01
 
 appearances_html:
   - <em>Imposter Strategies</em> (2021 Lead Dev NYC)
@@ -151,24 +157,22 @@ education:
       </section>
     <% end %>
 
-    <% if current_page.data.technical_skills %>
-      <h2 class="resume__heading">
-        Technical Skills
-      </h2>
-
-      <section class="resume__section">
-        <p>
-          <%= current_page.data.technical_skills.join(", ") %>
-        </p>
-      </section>
-    <% end %>
-
     <h2 class="resume__heading">
       Professional Experience
     </h2>
 
     <section class="resume__section">
       <% current_page.data.work.each do |experience| %>
+        <%= partial "resume/experience", locals: { experience: experience } %>
+      <% end %>
+    </section>
+
+    <h2 class="resume__heading">
+      Memberships
+    </h2>
+
+    <section class="resume__section">
+      <% current_page.data.memberships.each do |experience| %>
         <%= partial "resume/experience", locals: { experience: experience } %>
       <% end %>
     </section>
@@ -186,6 +190,18 @@ education:
             </li>
           <% end %>
         </ul>
+      </section>
+    <% end %>
+
+    <% if current_page.data.technical_skills %>
+      <h2 class="resume__heading">
+        Technical Skills
+      </h2>
+
+      <section class="resume__section">
+        <p>
+          <%= current_page.data.technical_skills.join(", ") %>
+        </p>
       </section>
     <% end %>
 
