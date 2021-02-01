@@ -40,9 +40,9 @@ page "/*.txt", layout: false
 page "/*.xml", layout: false
 
 configure :production do
-  activate :asset_hash
+  # activate :asset_hash
   activate :gzip
-  activate :minify_css
-  activate :minify_html
-  activate :minify_javascript
+  # activate :minify_css
+  # activate :minify_html
+  # activate :minify_javascript
 end
