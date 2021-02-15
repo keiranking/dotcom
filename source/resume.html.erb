@@ -3,47 +3,34 @@ name: Keiran King
 email: me@keiranking.com
 phone: (415) 941-9298
 technical_portfolio_url: https://github.com/keiranking
+professional_history_url: https://www.linkedin.com/in/keiranking
 address:
   - 7100 Kennedy Blvd E, Apt 3P
   - Guttenberg, NJ 07093
 
-bio: Product strategy leader in ecommerce (incl. marketplaces), healthtech and fintech, with an emphasis on lean/Agile development, rapid launch and continuous delivery.
-
-technical_skills:
-  - CSS
-  - Git
-  - Heroku
-  - HTML
-  - JavaScript
-  - Jira
-  - Netlify
-  - Python
-  - Rails
-  - React
-  - Ruby
-  - Sass
-  - Shopify
-
 work:
-  - title: Product Strategist
+  - title: Head of Product Management
     organization: thoughtbot
     organization_url: https://www.thoughtbot.com/
-    organization_description: Digital design & development consultancy
+    organization_description: Web/mobile software consultancy
     location: New York, NY
-    start_date: 2018-05-02
-    featured: true
+    start_date: 2021-02-08
+    summary: Senior executive for product strategy and management at top-10 US web &amp; mobile software consultancy.
     highlights_html:
-      - Led product development in new consumer markets for Relias. Coordinated Agile efforts across multiple teams and reported to C-suite leadership.
-      - Led product development for a leading social networking app on Capitol Hill. Implemented company-wide change from waterfall to lean development, and launched in 3 months.
-      - Led product development for a collectibles marketplace startup. Built MVP using Agile methods and launched in 3 months.
-      - Led product development for a regional coffee brand in the Midwest. Built e-commerce site and launched in 2 months.
-      - Led user research for provider web portal at Oscar Health, reducing call center volume by 4%.
-      - Advised 8-member cross-functional team through complete
-        redesign and rebuild of the Museum of Modern Art's <a target="_blank" href="https://membership.moma.org">membership site</a>,
-        completed in 6 months.
+      - Responsible for PM client portfolio totaling 35% of company revenue.
+      - Managed and mentored PM direct reports in 25-person team.
+      - Led cross-functional SaaS product teams for Relias ($135M rev.), Beyond Finance ($55M) and other marquee clients in healthtech and fintech.
+
+  - title: Product Strategist
+    previous_role: true
+    start_date: 2018-05-02
+    end_date: 2021-02-07
+    highlights_html:
+      - Product development for 15+ clients in ecommerce (incl. marketplaces), healthtech and fintech.
+      - Launched 5 MVP products in 3-4 months each using Agile methods.
       - Wrote company guide on
         <a target="_blank" href="https://thoughtbot.com/playbook/validation/jtbd">Jobs-to-be-Done</a>,
-        the product development framework used on 50+ client projects across 4 divisions.
+        used on 50+ client projects.
 
   - title: Columnist
     organization: The Gleaner
@@ -51,7 +38,6 @@ work:
     location: Kingston, Jamaica
     start_date: 2014-02-01
     end_date: 2015-06-30
-    featured: true
     highlights_html:
       - Created and wrote popular newspaper column on predatory business
         and issues of national interest.
@@ -63,17 +49,17 @@ work:
     location: Kingston, Jamaica
     start_date: 2011-01-01
     end_date: 2014-07-31
-    featured: true
     highlights_html:
-      - Founded and grew media startup to 10 employees and revenue of J$7.8M.
-      - Secured ad partnerships with Toyota, Snapple, et al. worth J$3M annually.
-      - Created and led internship program with 75% female enrollment.
+      - Founded and scaled media startup to 10 employees and revenue of J$7.8M.
+      - Negotiated advertising partnerships with Toyota, Snapple, et al. worth J$3M annually.
+      - Developed internship program with 75% female enrollment.
 
 memberships:
-  - title: Organizer, Toronto
+  - title: ProductTank Organizer
     organization: Mind the Product
     organization_url: https://www.mindtheproduct.com/
     organization_description: The world’s largest product management community, with 150,000 members across 200 cities
+    location: Toronto, Canada
     start_date: 2020-12-01
 
 appearances_html:
@@ -81,7 +67,7 @@ appearances_html:
   - Product Strategy Consulting course (2020, thoughtbot)
   - <a target="_blank" href="https://www.youtube.com/watch?v=XAqfYvcib2I"><em>Solving Real Problems with Design</em></a> (2019 NYC Design Week)
   - <em>From "Hello, world" to The World's Best Crossword Maker in 8 weeks</em> (2018, BrooklynJS)
-  - Keynote speaker (2014, Jamaicans for Justice annual gala)
+  - Keynote Speaker (2014, Jamaicans for Justice annual gala)
 
 education:
   - organization: Recurse Center
@@ -91,28 +77,27 @@ education:
     end_date: 2017-11-21
 
   - title: Master of Fine Arts
-    short_title: M.F.A.
     organization: California College of the Arts
     organization_url: https://www.cca.edu/
     location: San Francisco, CA
     start_date: 2014-08-15
     end_date: 2016-05-15
 
-  - title: Bachelor of Sciences
-    short_title: B.Sc.
+  - title: Bachelor of Science
     organization: Ithaca College
     organization_url: https://www.ithaca.edu/
     location: Ithaca, NY
     start_date: 2004-08-15
     end_date: 2008-05-15
 ---
+<% @hide_header = true %>
 <% @hide_footer = true %>
 
 <div class="section section--padded">
   <div class="section__content resume">
     <address class="resume__header">
       <h2 class="resume__author">
-        <%= current_page.data.name %>
+        <%= link_to current_page.data.name, "/", class: "u-link--incognito" %>
       </h2>
 
       <div class="resume__contact-info">
@@ -125,11 +110,6 @@ education:
 
       <div class="resume__contact-info">
         <%= link_to(
-          abridge_url(current_page.data.technical_portfolio_url),
-          current_page.data.technical_portfolio_url,
-        ) %>
-
-        <%= link_to(
           current_page.data.email,
           "mailto:#{current_page.data.email}",
           class: "u-link--incognito",
@@ -139,6 +119,16 @@ education:
           current_page.data.phone,
           "tel:+1#{current_page.data.phone.gsub(/\D/, '')}",
           class: "u-link--incognito",
+        ) %>
+
+        <%= link_to(
+          abridge_url(current_page.data.professional_history_url),
+          current_page.data.professional_history_url,
+        ) %>
+
+        <%= link_to(
+          abridge_url(current_page.data.technical_portfolio_url),
+          current_page.data.technical_portfolio_url,
         ) %>
       </div>
     </address>

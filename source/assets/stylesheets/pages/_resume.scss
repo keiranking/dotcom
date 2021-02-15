@@ -5,6 +5,12 @@
   abbr {
     text-decoration: none;
   }
+
+  h3 {
+    line-height: var(--line-height--tight);
+    margin-bottom: 0;
+    margin-top: var(--spacing--quarter);
+  }
 }
 
 .resume__author {
@@ -22,12 +28,8 @@
 
 .resume__date {
   & + &::before {
-    content: "—";
+    content: "-";
   }
-}
-
-.resume__description {
-  grid-area: description;
 }
 
 .resume__header {
@@ -53,18 +55,16 @@
 
 .resume__item {
   border-top: var(--border);
-  padding: var(--spacing--quarter) 0;
+  padding: var(--spacing--half) 0;
 
   &:first-of-type {
     border: none;
   }
+}
 
-  @media(min-width: $breakpoint--large-screen) {
-    display: grid;
-    grid-template-areas: "term description";
-    grid-template-columns: 12rem 1fr;
-    grid-column-gap: var(--spacing--half);
-  }
+.resume__item--subsequent {
+  border: none;
+  margin-top: calc(-1 * var(--spacing));
 }
 
 .resume__metadata {
@@ -74,10 +74,5 @@
 .resume__section {
   border-top: var(--border--thick);
   margin-bottom: var(--spacing--double);
-  padding-top: var(--spacing--half);
-}
-
-.resume__term {
-  grid-area: term;
-  line-height: var(--line-height);
+  margin-top: var(--spacing--half);
 }

@@ -1,6 +1,25 @@
-<div class="resume__item">
+<div
+  class="
+    resume__item
+    <%= "resume__item--subsequent" if experience.previous_role %>
+    "
+>
+  <% if experience.organization.present? || experience.location.present? %>
+    <div class="resume__metadata">
+      <% if experience.organization_url %>
+        <%= link_to experience.organization, experience.organization_url %>
+      <% else %>
+        <%= experience.organization %>
+      <% end %>
+
+      <% if experience.location %>
+        — <%= experience.location %>
+      <% end %>
+    </div>
+  <% end %>
+
   <% if experience.title %>
-    <h3 class="resume__term">
+    <h3>
       <% if experience.short_title %>
         <abbr title="<%= experience.title %>">
           <%= experience.short_title %>
@@ -11,77 +30,50 @@
     </h3>
   <% end %>
 
-  <% if experience.highlights_html %>
-    <details
-      class="resume__description"
-      <% if experience.featured %>
-        open
-      <% end %>
+  <div class="resume__metadata">
+    <time
+      datetime="<%= experience.start_date %>"
+      class="resume__date"
     >
-  <% else %>
-    <div class="resume__description">
-  <% end %>
-    <% if experience.highlights_html %>
-      <summary>
+      <%= Date.parse(experience.start_date.to_s).year %>
+    </time>
+
+    <% if experience.end_date %>
+      <% start_year = Date.parse(experience.start_date.to_s).year %>
+      <% end_year = Date.parse(experience.end_date.to_s).year %>
+
+      <% if end_year != start_year %>
+        <time
+          datetime="<%= experience.end_date %>"
+          class="resume__date"
+        >
+          <%= Date.parse(experience.end_date.to_s).year %>
+        </time>
+      <% end %>
+    <% else %>
+      <span class="resume__date">
+        present
+      </span>
     <% end %>
-      <% if experience.organization_url %>
-        <%= link_to experience.organization, experience.organization_url %>
-      <% else %>
-        <%= experience.organization %>
+  </div>
+
+  <% if experience.summary || experience.highlights_html %>
+    <div class="resume__highlights">
+      <% if experience.summary.present? %>
+        <p>
+          <%= experience.summary %>
+        </p>
       <% end %>
 
-      <div class="resume__metadata">
-        <% if experience.organization_description %>
-          <%= experience.organization_description %>
-        <% end %>
-
-        <% if experience.location %>
-          in <%= experience.location %>
-        <% end %>
-
-        <div>
-          <time
-            datetime="<%= experience.start_date %>"
-            class="resume__date"
-          >
-            <%= Date.parse(experience.start_date.to_s).year %>
-          </time>
-
-          <% if experience.end_date %>
-            <% start_year = Date.parse(experience.start_date.to_s).year %>
-            <% end_year = Date.parse(experience.end_date.to_s).year %>
-
-            <% if end_year != start_year %>
-              <time
-                datetime="<%= experience.end_date %>"
-                class="resume__date"
-              >
-                <%= Date.parse(experience.end_date.to_s).year %>
-              </time>
-            <% end %>
-          <% else %>
-            <span class="resume__date">
-              present
-            </span>
+      <% if experience.highlights_html %>
+        <ul>
+          <% experience.highlights_html.each do |highlight| %>
+            <li>
+              <%= highlight %>
+            </li>
           <% end %>
-        </div>
-      </div>
-    <% if experience.highlights_html %>
-      </summary>
-    <% end %>
-
-    <% if experience.highlights_html %>
-      <ul class="resume__highlights">
-        <% experience.highlights_html.each do |highlight| %>
-          <li>
-            <%= highlight %>
-          </li>
-        <% end %>
-      </ul>
-    <% end %>
-  <% if experience.highlights_html %>
-    </details>
-  <% else %>
+        </ul>
+      <% end %>
     </div>
   <% end %>
 </div>
