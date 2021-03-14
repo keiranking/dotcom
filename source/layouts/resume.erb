@@ -1,0 +1,48 @@
+<% wrap_layout :layout do %>
+  <% @hide_header = true %>
+  <% @hide_footer = true %>
+
+  <section class="section section--padded">
+    <div class="section__content resume">
+      <header class="resume__header">
+        <h1 class="resume__author">
+          <%= link_to current_page.data.name, "/", class: "u-link--incognito" %>
+        </h1>
+
+        <div class="resume__contact-info">
+          <p>
+            <% current_page.data.address.each do |address_line| %>
+              <%= address_line %><br />
+            <% end %>
+          </p>
+        </div>
+
+        <div class="resume__contact-info">
+          <%= link_to(
+            current_page.data.email,
+            "mailto:#{current_page.data.email}",
+            class: "u-link--incognito",
+          ) %>
+
+          <%= link_to(
+            current_page.data.phone,
+            "tel:+1#{current_page.data.phone.gsub(/\D/, '')}",
+            class: "u-link--incognito",
+          ) %>
+
+          <%= link_to(
+            abridge_url(current_page.data.professional_history_url),
+            current_page.data.professional_history_url,
+          ) %>
+
+          <%= link_to(
+            abridge_url(current_page.data.technical_portfolio_url),
+            current_page.data.technical_portfolio_url,
+          ) %>
+        </div>
+      </header>
+
+      <%= yield %>
+    </div>
+  </section>
+<% end %>
