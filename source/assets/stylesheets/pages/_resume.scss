@@ -53,6 +53,6 @@
   @media(min-width: $breakpoint--large-screen) {
     display: grid;
     grid-column-gap: var(--spacing);
-    grid-template-columns: 1fr max-content max-content;
+    grid-template-columns: 1fr max-content max-content max-content;
   }
 }

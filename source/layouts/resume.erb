@@ -29,7 +29,9 @@
             "tel:+1#{current_page.data.phone.gsub(/\D/, '')}",
             class: "u-link--incognito",
           ) %>
+        </div>
 
+        <div class="resume__contact-info">
           <%= link_to(
             abridge_url(current_page.data.professional_history_url),
             current_page.data.professional_history_url,
