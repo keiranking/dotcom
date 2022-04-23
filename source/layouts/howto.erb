@@ -1,0 +1,15 @@
+<% wrap_layout :layout do %>
+  <% @hide_footer = true %>
+
+  <section class="section section--padded">
+    <article class="section__content section__content--slim">
+      <header>
+        <h1 class="heading">
+          <%= current_resource.data.title %>
+        </h1>
+      </header>
+
+      <%= yield %>
+    </article>
+  </section>
+<% end %>

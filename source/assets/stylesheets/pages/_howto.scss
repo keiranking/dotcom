@@ -1,0 +1,8 @@
+.howto {
+  @include ordered-list;
+  @include unordered-list;
+
+  h2 {
+    margin-top: var(--spacing--double);
+  }
+}
