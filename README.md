@@ -30,3 +30,15 @@ Pull requests are automatically deployed to Netlify. For example, https://github
 ## Deployment
 
 `origin/master` is automatically deployed to Netlify at https://keiranking.netlify.app.
+
+To deploy elsewhere:
+
+1. Build the static site:
+
+    ```
+    bundle exec middleman build
+    ```
+
+    The generated files should be in the `/build` subdirectory of the root project folder, and should include an `index.html` representing the homepage.
+
+2. Move the site contents to a web server.
