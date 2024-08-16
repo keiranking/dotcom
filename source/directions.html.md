@@ -6,19 +6,24 @@ layout: howto
 
 ## Driving
 
-If using a navigation app, set your destination as <span class="signage">98
+If using a navigation app, set your destination to <span class="signage">98
 Lillian St</span>.
 
-There is paid parking underneath the building on levels P1 and P2, accessible
-via Lillian St, which runs one-way from Eglinton Ave to Soudan Ave.
+Park on the street or [under the building] on levels P1 and P2, accessible via
+Lillian St, which runs one-way from Eglinton Ave to Soudan Ave.
+
+[under the building]: https://en.parkopedia.com/parking/underground/101_eglinton_ave_e/m4p/toronto/
 
 ## Transit
 
-Toronto [subway lines], trains and buses use reloadable [Presto cards], available
-for purchase from vending machines in subway stations.
+Tap a credit card at any [subway] turnstile or streetcar/bus door to [pay your
+fare]. Subsequent taps (with the same card) are free within two hours.
 
-[subway lines]: https://www.ttc.ca/routes-and-schedules
-[Presto cards]: https://www.prestocard.ca/
+Or, buy a reloadable [Presto card] at a subway vending machine.
+
+[subway]: https://www.ttc.ca/routes-and-schedules
+[pay your fare]: https://www.ttc.ca/Fares-and-passes
+[Presto card]: https://www.prestocard.ca/
 
 Union Station is the city's transit hub. To get to Union Station from Billy
 Bishop airport, take the provided shuttle bus. From Toronto Pearson airport,
@@ -27,9 +32,6 @@ take the UP Express (uses Presto).
 From Union Station:
 
 1. Follow signs for the TTC subway.
-
-1. Buy a Presto card or a single-use ticket from one of the TTC fare vending
-   machines.
 
 1. Take the <span class="signage signage--subway">1</span> subway northbound
    towards Finch. (Union Station lies in a transit U-bend, with tracks running
