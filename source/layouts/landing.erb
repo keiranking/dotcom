@@ -1,9 +1,11 @@
 <% wrap_layout :layout do %>
   <section class="section">
     <header class="section__content hero">
-      <h1 class="hero__heading">
-        <%= current_article.data.tagline %>
-      </h1>
+      <% if current_article.data.tagline %>
+        <h1 class="hero__heading">
+          <%= current_article.data.tagline %>
+        </h1>
+      <% end %>
 
       <% if current_article.data.description_html %>
         <p class="hero__subheading">
@@ -11,7 +13,7 @@
         </p>
       <% end %>
 
-      <% if current_article.data.project_url %>
+      <% if current_article.data.project_url && current_article.data.cta %>
         <%= link_to(
           current_article.data.cta,
           current_article.data.project_url,
@@ -26,14 +28,16 @@
     <section class="section section--padded">
       <dl class="section__content rack">
         <% current_article.data.features.each do |feature| %>
-          <div>
-            <dt>
-              <%= feature.heading %>
-            </dt>
-            <dd>
-              <%= feature.description_html %>
-            </dd>
-          </div>
+          <% if feature.heading && feature.description_html %>
+            <div>
+              <dt>
+                <%= feature.heading %>
+              </dt>
+              <dd>
+                <%= feature.description_html %>
+              </dd>
+            </div>
+          <% end %>
         <% end %>
       </dl>
     </section>
