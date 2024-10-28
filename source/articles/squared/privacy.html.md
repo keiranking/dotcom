@@ -1,5 +1,6 @@
 ---
 layout: page
+date: 2024-11-01 08:00 UTC
 ---
 
 # Privacy Policy
