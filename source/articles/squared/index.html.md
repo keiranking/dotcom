@@ -6,7 +6,7 @@ layout: landing
 description_html: Squared is an iPhone app for building crossword puzzles.
 tagline: Make crosswords on the go, like a pro.
 cta: Start puzzling
-project_url: https://keiranking.com/squared
+project_url: https://apps.apple.com/us/app/squared/id6738674155
 
 features:
   - heading: Affordable
