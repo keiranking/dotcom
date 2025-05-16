@@ -1,6 +1,10 @@
 <% wrap_layout :layout do %>
   <section class="section section--padded">
-    <div class="section__content">
+    <% if @slim_layout.present? %>
+      <div class="section__content section__content--slim">
+    <% else %>
+      <div class="section__content">
+    <% end %>
       <%= yield %>
     </div>
   </section>
