@@ -5,8 +5,8 @@ layout: landing
 
 description_html: Videowall is a tiny player for big moments.
 tagline: Play videos as montages.
-cta: Get the app
-project_url: https://apps.apple.com/us/developer/keiran-king/id1781820551
+cta: Download the app
+project_url: https://apps.apple.com/us/app/videowall/id6743040910
 
 features:
   - heading: Fast
